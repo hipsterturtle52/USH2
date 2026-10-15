@@ -25,7 +25,7 @@ SHORT = {"pol": "Political", "soc": "Social", "eco": "Economic", "cul": "Cultura
 # per-unit pool sizes: (diagnostic, exam A, exam B); remainder goes to the unit quiz
 POOLS = {1: (2, 10, 10), 2: (4, 14, 14), 3: (3, 12, 12), 4: (3, 12, 12), 5: (3, 12, 12),
          6: (3, 10, 10), 7: (3, 13, 13), 8: (4, 16, 16), 9: (3, 11, 11), 10: (2, 10, 10)}
-WPM = 140  # careful study reading speed
+WPM = 130  # careful study reading speed for dense material
 
 errors = []
 
