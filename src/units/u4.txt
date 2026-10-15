@@ -1,0 +1,461 @@
+@title: World War I and the 1920s
+@years: 1914–1929
+@period: late
+@weight: 10
+
+@lesson
+## The big picture
+The United States tried to stay neutral in the Great War, then joined it in 1917. It helped win, but the Senate **rejected the peace treaty**. At home the war brought propaganda, limits on dissent, and the **Great Migration**, then a postwar **Red Scare**. The 1920s were an age of **prosperity, mass culture, and modern values**. They were also an age of fierce **backlash**: immigration restriction, a reborn Ku Klux Klan, Prohibition, and the Scopes trial. The CLEP exam loves the **cultural conflicts of the 1920s**.
+
+## 1. From neutrality to war (1914–1917)
+When war broke out in Europe in 1914, **Woodrow Wilson** declared neutrality and asked Americans to be "impartial in thought as well as in action." But neutrality tilted toward the Allies:
+- Americans shared language and ties with Britain.
+- U.S. **trade and loans** to the Allies (Britain and France) far exceeded those to Germany, since Britain's naval **blockade** cut off German trade.
+- Germany struck back with **submarine (U-boat) warfare**. In May 1915 a U-boat sank the British liner **Lusitania**, killing 128 Americans. After more sinkings, Germany promised in the **Sussex Pledge** (1916) not to sink merchant ships without warning.
+
+Wilson won reelection in 1916 on the slogan **"He kept us out of war."** Then events in early 1917 pushed the U.S. in:
+- In January, Germany resumed **unrestricted submarine warfare**.
+- The **Zimmermann Telegram** was intercepted. In it, Germany proposed that **Mexico** join a war against the U.S. in exchange for recovering Texas, New Mexico, and Arizona.
+- The **Russian Revolution** (March 1917) toppled the czar, so the Allies looked more democratic.
+
+In April 1917 Congress declared war so the world might be **"made safe for democracy."**
+
+!cec Unrestricted U-boat warfare + Zimmermann Telegram + economic ties to the Allies | U.S. declares war (April 1917) | Fresh American troops help the Allies win by November 1918
+
+## 2. The home front
+Total war meant an active federal government:
+- The **Selective Service Act** (1917) drafted about 2.8 million men.
+- The **War Industries Board** (Bernard Baruch) coordinated production.
+- The **Food Administration** under **Herbert Hoover** relied on *voluntary* conservation ("meatless Mondays").
+- **Liberty Bonds** financed the war.
+- The **Committee on Public Information** (**George Creel**) produced propaganda to build support.
+
+Civil liberties suffered. The **Espionage Act** (1917) and **Sedition Act** (1918) punished antiwar speech, and Socialist **Eugene Debs** went to prison for an antiwar speech. In **Schenck v. United States** (1919), Justice Oliver Wendell Holmes upheld these limits with the **"clear and present danger"** test. Anti-German hysteria followed: schools dropped German classes, and sauerkraut became "liberty cabbage."
+
+The war opened opportunities. Factory jobs and the end of European immigration drew hundreds of thousands of Black southerners north in the **Great Migration** to Chicago, Detroit, New York, and other cities. Women took industrial jobs. Their war service helped win the **Nineteenth Amendment** (1920): **woman suffrage**. Moderate suffragists under **Carrie Chapman Catt** lobbied, while **Alice Paul's** National Woman's Party picketed the White House.
+
+**General John J. Pershing's** American Expeditionary Force arrived in strength in 1918 and fought at Château-Thierry, Belleau Wood, and the **Meuse-Argonne**. The **armistice** came on **November 11, 1918**. About 116,000 Americans died, many from the **1918 influenza pandemic**, which killed roughly 675,000 Americans at home and in the service.
+
+## 3. The fight over the peace
+Wilson's **Fourteen Points** (January 1918) laid out his vision:
+- open diplomacy and freedom of the seas
+- free trade and arms reduction
+- **national self-determination** for peoples of the old empires
+- a **League of Nations** to keep the peace
+
+At Paris, the other Allies wanted revenge. The **Treaty of Versailles** forced Germany to accept a **war guilt clause** and pay heavy **reparations**. Wilson accepted these compromises to get the League included.
+
+In the Senate, **Henry Cabot Lodge** and the **"reservationists"** objected that **Article X** (collective security) could drag the U.S. into wars without Congress's approval. The **"irreconcilables"** opposed the treaty completely. Wilson refused to compromise, went on a speaking tour, and suffered a **stroke**. The Senate **rejected** the treaty, and the U.S. **never joined the League**.
+
+!cec Wilson's idealism (Fourteen Points) vs. Allied demands and Senate fears about Article X | Senate rejects the Treaty of Versailles | U.S. stays out of the League of Nations; a weaker League; American turn toward "isolationism"
+
+## 4. Postwar reaction (1919–1920s)
+In 1919 a huge **strike wave** hit the country, including the **Seattle general strike** and the **Boston police strike**, which Governor Calvin Coolidge broke. Anarchist **bombings** followed. Fear of Bolshevism produced the **Red Scare**. Attorney General **A. Mitchell Palmer's** **Palmer Raids** (1919–1920) rounded up thousands of suspected radicals, many of them immigrants, and deported hundreds.
+
+The **Sacco and Vanzetti** case showed the same mood. Two Italian immigrant anarchists were convicted of murder on weak evidence and executed in 1927.
+
+Racial violence exploded in the **"Red Summer" of 1919**, with a deadly riot in Chicago, and in the **Tulsa Race Massacre** (1921), where a white mob destroyed the prosperous Black Greenwood district.
+
+**Nativism** became law:
+- The **Emergency Quota Act** (1921) set the first national-origins quotas.
+- The **National Origins Act (Immigration Act of 1924)** set quotas at **2% of each nationality as of the 1890 census**. This deliberately favored northern and western Europeans, cut immigration from southern and eastern Europe, and **barred Japanese and other Asian immigrants**.
+
+A **second Ku Klux Klan**, revived in 1915 and inspired by the film *The Birth of a Nation*, grew to millions of members by the mid-1920s. It was strong in the **Midwest** (Indiana) as well as the South. It targeted **Catholics, Jews, and immigrants** as well as African Americans, then collapsed amid scandal.
+
+## 5. The politics of "normalcy"
+**Warren G. Harding** won in 1920 promising a **"return to normalcy."** His administration was marred by the **Teapot Dome** scandal: Interior Secretary **Albert Fall** took bribes to lease naval oil reserves to private companies. **Calvin Coolidge** ("the chief business of the American people is business") and Treasury Secretary **Andrew Mellon** cut taxes on the wealthy, kept tariffs high, and favored business.
+
+Farmers did not share the boom. Crop prices collapsed after the war. Coolidge vetoed the **McNary-Haugen** farm relief bills. In 1928 **Herbert Hoover** beat **Al Smith**, the first Catholic major-party nominee, partly because of anti-Catholic and anti-"wet" (anti-Prohibition) feeling.
+
+Abroad, the U.S. avoided alliances but stayed active:
+- The **Washington Naval Conference** (1921–22) produced the Five-Power Treaty, which limited battleship tonnage.
+- The **Dawes Plan** (1924) used U.S. loans to help Germany pay reparations.
+- The **Kellogg-Briand Pact** (1928) renounced war "as an instrument of national policy." It was idealistic and had no enforcement.
+
+## 6. The new economy and mass culture
+The 1920s economy boomed on **consumer goods**. **Henry Ford's** moving **assembly line** (1913) made the **Model T** affordable, and the **automobile** reshaped the country: suburbs, roads, motels, oil, rubber, and steel. **Electricity** spread, bringing radios, vacuum cleaners, and refrigerators. **Advertising** and **installment buying** (credit) encouraged people to spend. But income inequality widened, and many families bought on credit, weaknesses that mattered after 1929.
+
+Mass culture created shared national experiences:
+- **Radio**, starting with the first commercial station, KDKA, in 1920.
+- **Movies**, including the first "talkie," *The Jazz Singer* (1927).
+- **Spectator sports**, with heroes like Babe Ruth.
+- **Charles Lindbergh's** solo flight across the Atlantic (1927).
+
+The **"flapper"**, a young woman with bobbed hair and short skirts who smoked and danced, symbolized new freedoms. **Margaret Sanger** campaigned for birth control. **Alice Paul** proposed an **Equal Rights Amendment** in 1923.
+
+## 7. Culture wars: the modern vs. the traditional
+**Prohibition** (the **Eighteenth Amendment**, 1919, enforced by the **Volstead Act**) banned the manufacture and sale of alcohol. It cut drinking somewhat, but it bred **speakeasies**, **bootlegging**, and **organized crime** (Al Capone in Chicago). It was repealed by the **Twenty-first Amendment** in 1933.
+
+In the **Scopes "Monkey" Trial** (1925), Tennessee teacher **John Scopes** was tried for teaching **evolution** in violation of state law. **Clarence Darrow** defended him, and **William Jennings Bryan** helped prosecute. Scopes was convicted (later overturned on a technicality). Urban newspapers, especially **H.L. Mencken's**, mocked the **fundamentalists**, and the trial became a symbol of the clash between rural religious tradition and urban modernism.
+
+## 8. The Harlem Renaissance and the Lost Generation
+The Great Migration made **Harlem** the capital of Black America and the center of the **Harlem Renaissance**:
+- **Langston Hughes**, poetry and jazz rhythms ("The Negro Speaks of Rivers")
+- **Zora Neale Hurston**, folklore and fiction
+- **Claude McKay**, poetry ("If We Must Die")
+- **Countee Cullen**, poetry
+- **Alain Locke**, editor of *The New Negro* (1925)
+- jazz and blues from **Louis Armstrong**, **Duke Ellington**, and **Bessie Smith**
+
+**Marcus Garvey's** **Universal Negro Improvement Association (UNIA)** preached **Black pride**, economic independence, and a **"Back to Africa"** movement. It drew mass support before Garvey was convicted of mail fraud and deported.
+
+White writers disillusioned by the war and by middle-class materialism formed the **"Lost Generation"**, a term from Gertrude Stein. Many lived abroad in Paris:
+- **Ernest Hemingway**: *The Sun Also Rises*, *A Farewell to Arms*
+- **F. Scott Fitzgerald**: *The Great Gatsby* (1925), a portrait of Jazz Age excess
+- **Sinclair Lewis**: *Main Street* and *Babbitt*, satirizing small-town conformity and boosterism. He became the first American to win the Nobel Prize in Literature.
+- **T.S. Eliot**: *The Waste Land*
+
+@mustknow
+- Road to war: **Lusitania** (1915), **Sussex Pledge**, renewed **unrestricted submarine warfare** and the **Zimmermann Telegram** (1917).
+- Home front: **War Industries Board**, **Committee on Public Information** (Creel), **Espionage and Sedition Acts**. **Schenck** = "clear and present danger."
+- **Great Migration** of Black southerners to northern cities began during WWI.
+- **Fourteen Points** (self-determination, League of Nations). Senate (Lodge, **Article X**) rejected Versailles. U.S. never joined the League.
+- **Red Scare / Palmer Raids** (1919–20); **Sacco and Vanzetti**.
+- **Immigration Act of 1924**: national-origins quotas (2% of 1890) favoring northern and western Europe and excluding Asians.
+- **Second KKK**: anti-Black, anti-Catholic, anti-Jewish, anti-immigrant; strong in the Midwest.
+- **Scopes Trial** (1925): evolution, Darrow vs. Bryan, fundamentalism vs. modernism. **Prohibition** (18th; repealed by the 21st in 1933).
+- **Harlem Renaissance** (Hughes, Hurston, Locke) and **Garvey's UNIA**. **Lost Generation** (Hemingway, Fitzgerald, Lewis).
+- 1920s politics: **Harding** (Teapot Dome), **Coolidge** (pro-business), **Kellogg-Briand Pact**, **Washington Naval Conference**. **19th Amendment** (1920).
+
+@timeline
+1914 | War begins in Europe; Wilson declares neutrality
+1915 | Lusitania sunk; second KKK founded; *The Birth of a Nation*
+1916 | Sussex Pledge; Wilson reelected ("He kept us out of war")
+1917 | Unrestricted U-boat warfare; Zimmermann Telegram; U.S. declares war (April); Espionage Act | key
+1918 | Fourteen Points; Sedition Act; flu pandemic; armistice Nov. 11 | key
+1919 | Treaty of Versailles; Senate rejects it; 18th Amendment; Red Summer; Schenck decision; strike wave | key
+1919–20 | Red Scare and Palmer Raids
+1920 | 19th Amendment (woman suffrage); Harding elected; KDKA radio | key
+1921 | Emergency Quota Act; Tulsa Race Massacre; Washington Naval Conference begins
+1923 | Teapot Dome exposed; Harding dies, Coolidge president; ERA proposed
+1924 | Immigration (National Origins) Act; Dawes Plan; Indian Citizenship Act | key
+1925 | Scopes Trial; *The Great Gatsby*; *The New Negro* | key
+1927 | Lindbergh's flight; *The Jazz Singer*; Sacco and Vanzetti executed
+1928 | Kellogg-Briand Pact; Hoover defeats Al Smith
+
+@cards
+Lusitania (1915) :: British liner sunk by a German U-boat. 128 Americans died, and U.S. opinion turned against Germany.
+Sussex Pledge (1916) :: Germany's promise not to sink merchant ships without warning. Broken in 1917.
+Zimmermann Telegram (1917) :: German proposal that Mexico join a war against the U.S. to regain Texas, New Mexico, and Arizona. Helped bring the U.S. into WWI.
+Committee on Public Information :: George Creel's WWI propaganda agency that "sold" the war to Americans.
+Espionage and Sedition Acts (1917–18) :: Punished interference with the war and criticism of the government. Debs was jailed under them.
+Schenck v. United States (1919) :: Upheld the Espionage Act: speech posing a "clear and present danger" can be restricted (Holmes).
+War Industries Board :: Bernard Baruch's WWI agency coordinating industrial production. An early model of the managed economy.
+Great Migration :: Movement of Black southerners to northern and midwestern cities, beginning around WWI, for jobs and to escape Jim Crow.
+Fourteen Points (1918) :: Wilson's peace plan: open diplomacy, freedom of the seas, free trade, arms reduction, self-determination, League of Nations.
+Treaty of Versailles / Article X :: The Senate (Lodge) feared Article X's collective security would commit the U.S. to wars. The treaty was rejected, and the U.S. never joined the League.
+Red Scare (1919–20) :: Postwar fear of communists and anarchists. Palmer Raids arrested thousands and deported hundreds.
+Sacco and Vanzetti :: Italian immigrant anarchists executed in 1927 after a controversial murder trial. A symbol of 1920s nativism.
+Immigration Act of 1924 :: National-origins quotas (2% of 1890 census) favoring northern and western Europe. Barred Japanese and other Asian immigration.
+Second Ku Klux Klan :: Revived in 1915. Millions of members by the mid-1920s, strong in the Midwest. Anti-Black, anti-Catholic, anti-Jewish, anti-immigrant.
+Nineteenth Amendment (1920) :: Women's right to vote nationwide. Catt's NAWSA lobbied, and Alice Paul's National Woman's Party protested.
+Teapot Dome :: Harding-era scandal: Interior Secretary Albert Fall took bribes for leasing federal oil reserves.
+Kellogg-Briand Pact (1928) :: Signatories renounced war as an instrument of national policy. No enforcement.
+Washington Naval Conference (1921–22) :: Treaties limiting battleship tonnage among the U.S., Britain, Japan, France, and Italy.
+Scopes Trial (1925) :: Tennessee teacher tried for teaching evolution. Darrow vs. Bryan. Fundamentalism vs. modernism.
+Prohibition :: 18th Amendment (1919) and the Volstead Act banned alcohol. It led to speakeasies, bootlegging, and organized crime. Repealed by the 21st Amendment (1933).
+Harlem Renaissance :: 1920s flowering of Black art, literature, and music in Harlem: Langston Hughes, Zora Neale Hurston, Alain Locke, Duke Ellington.
+Marcus Garvey / UNIA :: Black nationalist leader who promoted racial pride, Black-owned businesses, and "Back to Africa."
+Lost Generation :: Writers disillusioned by WWI and materialism: Hemingway, Fitzgerald (*The Great Gatsby*), Sinclair Lewis (*Babbitt*), T.S. Eliot.
+Flapper :: Symbol of the 1920s "New Woman": bobbed hair, short skirts, jazz, and independence.
+Assembly line / Model T :: Henry Ford's moving assembly line (1913) made cars affordable and transformed the economy and suburbs.
+Installment buying :: Buying on credit with monthly payments. Fueled 1920s consumer spending and household debt.
+
+@questions
+Q dip e
+The Zimmermann Telegram (1917) angered Americans because it revealed that Germany had
++ proposed that Mexico ally with Germany against the United States in return for recovering lost territory || Germany offered Mexico Texas, New Mexico, and Arizona. Published in March 1917, the telegram pushed opinion toward war.
+- sunk the Lusitania || The Lusitania was sunk in 1915. The telegram came two years later.
+- signed a peace treaty with Russia || Brest-Litovsk (1918) came after U.S. entry.
+- refused to pay reparations || Reparations were imposed after the war.
+- offered to buy the Philippines || No such offer existed.
+
+Q dip e
+Wilson's Fourteen Points included all of the following goals EXCEPT
++ the annexation of German colonies by the United States || Wilson opposed territorial grabs. The Fourteen Points called for impartial adjustment of colonial claims.
+- freedom of the seas || Freedom of navigation was Point II.
+- national self-determination || Self-determination ran through the points on Europe's borders.
+- reduction of armaments || Arms reduction was Point IV.
+- a League of Nations || The League was the fourteenth point and Wilson's top priority.
+
+Q dip m
+Senate opponents of the Treaty of Versailles, led by Henry Cabot Lodge, objected most strongly to
++ Article X of the League of Nations Covenant, which they feared would commit the U.S. to war without congressional approval || Lodge's reservations focused on collective security and sovereignty. Wilson refused to accept them, and the treaty failed.
+- the war guilt clause that blamed Germany || Lodge did not object to punishing Germany.
+- the return of Alsace-Lorraine to France || Alsace-Lorraine was not a major Senate issue.
+- the creation of an independent Poland || Polish independence was not the core dispute.
+- the treaty's provisions on freedom of the seas || Freedom of the seas was largely dropped from the treaty.
+
+Q dip m
+Which of the following events occurred FIRST?
++ The sinking of the Lusitania || May 1915, before every other event listed.
+- Germany's resumption of unrestricted submarine warfare || That was January–February 1917.
+- The interception of the Zimmermann Telegram || The telegram was revealed in early 1917.
+- The U.S. declaration of war on Germany || The declaration came in April 1917.
+- Wilson's announcement of the Fourteen Points || The Fourteen Points were announced in January 1918.
+
+Q dip h
+The Kellogg-Briand Pact of 1928 is best described as
++ an idealistic agreement renouncing war as an instrument of national policy, with no means of enforcement || Dozens of nations signed it, but it could not stop aggression in the 1930s.
+- a military alliance between the United States and France || The U.S. avoided alliances in the 1920s.
+- a treaty that limited the size of navies || That was the Washington Naval Conference (1921–22).
+- a plan to reduce German reparations through American loans || That was the Dawes Plan (1924).
+- the agreement creating the League of Nations || The League came from the Treaty of Versailles (1919).
+
+Q pol e
+Which constitutional amendment, ratified in 1920, guaranteed women the right to vote?
++ The Nineteenth Amendment || Women's wartime contributions and decades of suffrage activism culminated in ratification in August 1920.
+- The Fifteenth Amendment || The Fifteenth (1870) barred racial discrimination in voting but omitted sex.
+- The Seventeenth Amendment || The Seventeenth (1913) provided for direct election of senators.
+- The Eighteenth Amendment || The Eighteenth (1919) established Prohibition.
+- The Twenty-first Amendment || The Twenty-first (1933) repealed Prohibition.
+
+Q pol m
+In Schenck v. United States (1919), the Supreme Court ruled that
++ speech creating a "clear and present danger" during wartime could be restricted || Justice Holmes upheld Schenck's conviction under the Espionage Act for distributing anti-draft leaflets.
+- the draft was unconstitutional || The Court upheld the draft (Selective Draft Law Cases, 1918).
+- all political speech is absolutely protected || Schenck allowed restrictions on dangerous speech.
+- the Sedition Act of 1798 was constitutional || Schenck concerned the WWI-era Espionage Act.
+- states could not ban the teaching of evolution || The Court ruled on that issue in 1968 (Epperson v. Arkansas).
+
+Q pol m
+The Teapot Dome scandal of the 1920s involved
++ a cabinet officer who accepted bribes to lease federal oil reserves to private companies || Interior Secretary Albert Fall became the first cabinet member jailed for crimes in office.
+- the sale of federal judgeships by President Coolidge || Coolidge was not involved. He was seen as honest.
+- stock market manipulation that caused the Crash of 1929 || Teapot Dome was unrelated to the Crash.
+- bribery of Congress to pass the Volstead Act || Teapot Dome concerned oil leases.
+- the misuse of Liberty Bond funds during World War I || That was not the Teapot Dome scandal.
+
+Q pol m
+During World War I, the Committee on Public Information headed by George Creel was responsible for
++ producing propaganda to build public support for the war || The CPI used posters, films, and "Four-Minute Men" speakers to promote the war and vilify Germany.
+- drafting men into the army || The Selective Service System ran the draft.
+- coordinating industrial production || That was the War Industries Board.
+- rationing food through mandatory controls || Hoover's Food Administration relied mostly on voluntary conservation.
+- negotiating the armistice || Diplomats and military leaders handled the armistice.
+
+Q pol h
+The Espionage Act of 1917 and Sedition Act of 1918 resulted in
++ the imprisonment of Socialist leader Eugene V. Debs for an antiwar speech || Debs was sentenced to ten years. He ran for president from prison in 1920 and won over 900,000 votes.
+- the deportation of Sacco and Vanzetti || Sacco and Vanzetti were executed, not deported, after a murder trial in 1927.
+- the internment of German Americans in camps on the West Coast || Mass internment on the West Coast targeted Japanese Americans in WWII.
+- the end of the Red Scare || The acts helped fuel the climate that led into the Red Scare.
+- a constitutional amendment protecting free speech in wartime || No such amendment exists.
+
+Q pol m
+Calvin Coolidge's statement that "the chief business of the American people is business" reflects
++ the pro-business, limited-government philosophy of the Republican administrations of the 1920s || Coolidge and Mellon cut taxes, cut spending, and left business largely unregulated.
+- support for nationalizing major industries || Nationalization was a socialist idea Coolidge opposed.
+- the New Deal's expansion of federal programs || The New Deal came in the 1930s under FDR.
+- Progressive demands for trust busting || 1920s Republicans relaxed antitrust enforcement.
+- isolationist opposition to foreign trade || Coolidge supported foreign trade, though with high tariffs.
+
+Q pol e
+Warren G. Harding's campaign slogan in 1920 promised Americans a
++ "return to normalcy" after the war and Progressive reform || Voters tired of war and crusades elected Harding in a landslide.
+- "New Deal" || FDR's slogan dated from 1932.
+- "Square Deal" || Theodore Roosevelt's program.
+- "Great Society" || Lyndon Johnson's 1960s program.
+- "New Frontier" || John F. Kennedy's 1960 slogan.
+
+Q soc e
+The Great Migration of the World War I era refers to the movement of
++ African Americans from the rural South to northern and midwestern cities || Factory jobs and escape from Jim Crow drew hundreds of thousands north during and after the war.
+- Dust Bowl farmers to California || That happened in the 1930s.
+- Europeans to the United States through Ellis Island || That was the earlier "New Immigration."
+- Mexican Americans from Texas to Canada || No such migration occurred.
+- Americans from cities to the suburbs || Mass suburbanization came after WWII.
+
+Q soc e
+The Palmer Raids of 1919–1920 were part of
++ the Red Scare, a crackdown on suspected radicals and immigrants after World War I || Attorney General A. Mitchell Palmer's agents arrested thousands, often without warrants, and deported hundreds.
+- the federal campaign against bootleggers during Prohibition || Prohibition enforcement was separate.
+- an effort to enforce civil rights laws in the South || The raids targeted alleged radicals, not civil rights violations.
+- the McCarthy-era investigations of the 1950s || McCarthyism was the second Red Scare.
+- the investigation of the Teapot Dome scandal || Teapot Dome was investigated by Congress in 1923–24.
+
+Q soc m
+The Immigration Act of 1924 (National Origins Act) was designed to
++ sharply reduce immigration from southern and eastern Europe and bar immigration from Japan || Basing quotas on the 1890 census favored "old" immigrant groups. Asian immigration was barred entirely.
+- encourage immigration from Asia to meet labor shortages || The act did the opposite.
+- abolish all limits on European immigration || It imposed strict limits.
+- grant citizenship to all Native Americans || That was the Indian Citizenship Act, also 1924, but a separate law.
+- restrict Mexican immigration more than European immigration || Western Hemisphere countries were not given quotas under the 1924 act.
+
+Q soc m
+The Ku Klux Klan of the 1920s differed from the Reconstruction-era Klan in that the 1920s Klan
++ had mass membership extending into the Midwest and targeted Catholics, Jews, and immigrants as well as African Americans || The second Klan was a national organization, especially powerful in Indiana, and it reflected broad nativism.
+- opposed Prohibition || The second Klan generally supported Prohibition.
+- was limited to former Confederate soldiers || That was closer to the first Klan's leadership. The 1920s Klan drew from all over the country.
+- welcomed recent immigrants as members || It was strongly nativist.
+- was banned by the Nineteenth Amendment || No amendment banned the Klan.
+
+Q soc m
+The trial and execution of Nicola Sacco and Bartolomeo Vanzetti in the 1920s became a symbol of
++ anti-immigrant and anti-radical prejudice in the justice system || Many believed the two Italian anarchists were convicted on thin evidence because of their background and politics.
+- the success of Prohibition enforcement || The case was a murder trial, unrelated to Prohibition.
+- federal protection of civil liberties || Critics saw the case as a failure of civil liberties.
+- the Harlem Renaissance's political influence || The case was not connected to the Harlem Renaissance.
+- the Teapot Dome scandal || Teapot Dome was a bribery scandal over oil leases.
+
+Q soc e
+Marcus Garvey's Universal Negro Improvement Association emphasized
++ Black pride, economic self-reliance, and a "Back to Africa" movement || Garvey built a mass following in the early 1920s before his fraud conviction and deportation.
+- integration through lawsuits in federal courts || Court strategy was the NAACP's approach.
+- vocational education in the rural South || That was Booker T. Washington's program.
+- nonviolent civil disobedience against segregation || That approach belongs to the 1950s–60s civil rights movement.
+- alliance with the Ku Klux Klan to end immigration || Garvey did meet with Klan leaders, a notorious episode, but the UNIA's purpose was Black nationalism, not immigration policy.
+
+Q soc m
+The "flapper" of the 1920s symbolized
++ young women's rejection of Victorian restrictions on dress and behavior || Bobbed hair, short skirts, makeup, and jazz dancing signaled new social freedoms for some urban women.
+- women's organized campaign for the Nineteenth Amendment || Suffrage was a political movement. The flapper was a cultural image.
+- the temperance crusade || Flappers were associated with speakeasies, not temperance.
+- women working in wartime munitions factories || That was a WWI home-front role. (Rosie the Riveter belongs to WWII.)
+- rural traditionalism || Flappers symbolized urban modernity.
+
+Q soc m
+Prohibition in the 1920s had which unintended consequence?
++ The growth of organized crime through bootlegging and speakeasies || Gangsters such as Al Capone made fortunes supplying illegal alcohol.
+- The complete elimination of alcohol consumption || Drinking declined but continued widely.
+- A sharp increase in federal tax revenue from alcohol || Banned alcohol could not be taxed, so revenue fell.
+- The repeal of the Nineteenth Amendment || Prohibition was the Eighteenth Amendment. It was repealed by the Twenty-first. The Nineteenth was unaffected.
+- The end of the Ku Klux Klan || The Klan generally supported Prohibition.
+
+Q soc h
+> A congressman in 1924 complains that a new law sets immigration quotas using the census of 1890 rather than a recent census, which deliberately favors newcomers from Great Britain, Germany, and Scandinavia over those from Italy, Poland, and Russia.
+The congressman is objecting to
++ the Immigration Act of 1924 || The 1924 act set quotas using the 1890 census, favoring northern and western Europe.
+- the Chinese Exclusion Act of 1882 || That law targeted Chinese laborers and did not involve national-origins quotas for Europeans.
+- the Dawes Severalty Act || The Dawes Act concerned Native American land.
+- the Gentlemen's Agreement of 1907 || That informal deal with Japan did not create European quotas.
+- the Immigration and Nationality Act of 1965 || The 1965 act abolished national-origins quotas.
+
+Q soc h
+The Tulsa Race Massacre of 1921 and the "Red Summer" of 1919 reflected
++ violent white backlash against Black communities and Black assertiveness after World War I || Returning Black veterans, migration, and economic competition met with mob violence in many cities.
+- conflict between labor unions and federal troops || These events were racial violence, not labor-versus-troops clashes.
+- the Palmer Raids' focus on African Americans || The Palmer Raids mainly targeted immigrant radicals.
+- clashes between bootleggers and police || These were race riots, not Prohibition violence.
+- protests against the Treaty of Versailles || They were unrelated to the treaty.
+
+Q soc m
+During World War I, the U.S. government financed much of the war effort by
++ selling Liberty Bonds to the public || Bond drives with celebrities and propaganda raised billions, alongside higher taxes.
+- printing unlimited paper money unbacked by gold or taxes || The war was financed mainly through bonds and higher taxes.
+- selling federal lands in the West || Land sales were not a significant wartime source.
+- borrowing primarily from Germany || The U.S. was at war with Germany.
+- imposing a national sales tax || There has never been a national sales tax.
+
+Q eco e
+Henry Ford's major contribution to American industry was
++ the moving assembly line, which made automobiles affordable for ordinary families || Mass production cut the Model T's price dramatically. Ford also paid a then-high $5-a-day wage (1914).
+- the invention of the internal combustion engine || Engines were developed earlier by others.
+- the first airplane flight || The Wright brothers flew in 1903.
+- the founding of U.S. Steel || J.P. Morgan formed U.S. Steel.
+- the creation of the first labor union in the auto industry || Ford fiercely resisted unions until 1941.
+
+Q eco m
+Which of the following was a weakness of the American economy during the 1920s?
++ Farmers suffered from low crop prices and debt even as other sectors prospered || Agriculture slumped after wartime demand ended. Unequal income and heavy consumer credit were other weaknesses.
+- Unemployment remained above 20 percent throughout the decade || Unemployment was low for most of the 1920s.
+- Consumer goods such as radios and cars were unavailable || Consumer goods were booming.
+- The federal government imposed heavy regulations on business || 1920s Republicans favored light regulation.
+- Electricity reached almost no American homes || Electrification spread rapidly in cities during the 1920s.
+
+Q eco m
+The widespread use of installment buying in the 1920s
++ allowed consumers to buy cars and appliances on credit, raising household debt || Buying "on time" fueled the consumer boom and left families vulnerable when the economy collapsed.
+- was banned by the Federal Reserve || The Fed did not ban consumer credit.
+- applied only to farm machinery || Credit spread to cars, radios, furniture, and more.
+- reduced consumer spending || It increased spending in the short term.
+- was introduced by the New Deal || Installment credit was common well before the New Deal.
+
+Q cul e
+Langston Hughes, Zora Neale Hurston, and Claude McKay were important figures in the
++ Harlem Renaissance || These writers expressed Black life and pride in 1920s Harlem.
+- Lost Generation of expatriate writers in Paris || The Lost Generation were mostly white writers like Hemingway and Fitzgerald.
+- muckraking movement || The muckrakers wrote mainly in 1900–1915.
+- Beat Generation || The Beats wrote in the 1950s.
+- Ashcan School of painting || The Ashcan School was early-1900s realist painting.
+
+Q cul e
+The Scopes Trial of 1925 centered on
++ the teaching of evolution in a Tennessee public school || Scopes was tried under the Butler Act. Clarence Darrow defended him, and William Jennings Bryan aided the prosecution.
+- the right of women to vote || Suffrage was won in 1920.
+- the execution of two Italian anarchists || That was the Sacco and Vanzetti case.
+- violations of the Volstead Act || The trial concerned evolution, not alcohol.
+- bribery in the Harding administration || That was Teapot Dome.
+
+Q cul e
+F. Scott Fitzgerald's *The Great Gatsby* (1925) is best known for portraying
++ the wealth, glamour, and moral emptiness of the Jazz Age || Gatsby captures 1920s excess and the hollowness of the American Dream.
+- the lives of sharecroppers during the Depression || That subject belongs to Steinbeck and Agee in the 1930s.
+- the horrors of trench warfare || That is Hemingway's *A Farewell to Arms* or Remarque's *All Quiet on the Western Front*.
+- the struggles of immigrant meatpackers || That is *The Jungle*.
+- the experience of the Harlem Renaissance || Fitzgerald wrote about wealthy white society.
+
+Q cul m
+Sinclair Lewis's novels *Main Street* and *Babbitt* criticized
++ the conformity, materialism, and narrow-mindedness of middle-class small-town America || "Babbitt" became a byword for the conformist booster businessman.
+- the brutality of slavery || Lewis wrote about contemporary 1920s society.
+- the radicalism of the IWW || Lewis satirized the middle class, not labor radicals.
+- the corruption of big-city political machines || That was the muckraker Lincoln Steffens's subject.
+- the treatment of Native Americans in the West || That was Helen Hunt Jackson's subject.
+
+Q cul m
+The term "Lost Generation" refers to
++ American writers, many living abroad, who were disillusioned by World War I and modern materialism || Gertrude Stein's label fit Hemingway, Fitzgerald, and others.
+- children who were orphaned by the 1918 influenza pandemic || The term refers to writers, not orphans.
+- immigrants turned away under the 1924 quotas || The term is literary, not about immigration.
+- young men who avoided the WWI draft || The term refers to a literary generation.
+- the Beat poets of the 1950s || The Beats were a later movement.
+
+Q cul m
+The popularity of radio and motion pictures in the 1920s contributed to
++ a more uniform national mass culture shared across regions || Millions heard the same broadcasts and saw the same films and stars, which weakened local cultural differences.
+- a decline in the popularity of professional sports || Radio broadcasts boosted sports heroes like Babe Ruth.
+- increased isolation of rural Americans from city culture || Mass media brought city culture to rural areas, sometimes provoking backlash.
+- the end of advertising in American life || Advertising grew enormously through radio and print.
+- the collapse of the automobile industry || Autos boomed in the 1920s.
+
+Q cul h
+The Scopes Trial is often seen as a symbol of the conflict between
++ religious fundamentalism rooted in rural America and modern secular and scientific values associated with cities || Mencken's mocking coverage dramatized this cultural divide.
+- northern industrialists and southern planters || That conflict defined the Civil War era.
+- isolationists and internationalists over the League of Nations || That was the Versailles fight.
+- labor unions and corporations || The trial did not involve labor.
+- supporters and opponents of woman suffrage || Suffrage had already been won.
+
+Q cul m
+Alain Locke's anthology *The New Negro* (1925) promoted the idea that
++ African Americans were forging a proud new identity through art and literature || Locke's collection became a manifesto of the Harlem Renaissance.
+- African Americans should emigrate to Liberia || That was Garvey's goal, not Locke's.
+- segregation should be accepted temporarily || That was Booker T. Washington's earlier stance.
+- jazz was a harmful influence to be avoided || Harlem Renaissance figures celebrated jazz.
+- Black southerners should remain in agriculture || Locke emphasized urban cultural achievement.
+
+Q cul h
+> "I am a Negro: Black as the night is black, Black like the depths of my Africa."
+Lines such as these from 1920s poetry most directly reflect
++ the Harlem Renaissance's affirmation of Black identity and African heritage || Langston Hughes's poetry celebrated Black identity and heritage, a central theme of the movement.
+- the Lost Generation's disillusionment with World War I || The Lost Generation wrote mainly about white, often expatriate experience.
+- Social Darwinist ideas about racial hierarchy || The poem challenges racial hierarchy rather than supporting it.
+- the Beat poets' rejection of conformity || The Beats came in the 1950s.
+- Booker T. Washington's accommodationist philosophy || Washington did not stress African heritage or racial pride in this way.
+
+Q cul m
+Charles Lindbergh's 1927 solo flight across the Atlantic made him
++ a national hero celebrated by the new mass media || The flight from New York to Paris turned him into one of the decade's greatest celebrities.
+- the first person to fly an airplane || The Wrights flew first in 1903.
+- the commander of U.S. forces in World War I || That was General John J. Pershing.
+- the founder of the first commercial radio station || KDKA in Pittsburgh began commercial broadcasting in 1920.
+- the leader of the Scopes Trial defense || Clarence Darrow led the defense.
+
+Q cul m
+During World War I, anti-German sentiment in the United States led to
++ bans on German-language instruction and renaming of German-sounding foods and places || Sauerkraut became "liberty cabbage," and many schools dropped German classes.
+- the internment of all German Americans in camps || Some German nationals were interned, but there was no mass internment like that of Japanese Americans in WWII.
+- the repeal of the Nineteenth Amendment || The Nineteenth was ratified in 1920 and never repealed.
+- a large increase in German immigration || Immigration from Germany fell during the war.
+- the creation of the Harlem Renaissance || The Harlem Renaissance had other roots.
