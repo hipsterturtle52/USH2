@@ -200,7 +200,7 @@ The U.S. military strategy of "island hopping" in the Pacific involved
 - withdrawing from the Pacific to focus on Europe || Europe came first, but the Pacific offensive continued.
 - negotiating island trades with Japan || There were no such negotiations.
 
-Q dip h
+Q pol h
 > "In the future days, which we seek to make secure, we look forward to a world founded upon four essential human freedoms."
 In this 1941 speech, Franklin Roosevelt was attempting to
 + build support for aiding Britain by defining the war's stakes in terms of universal freedoms || The Four Freedoms speech (January 1941) framed U.S. aid as defending democracy, paving the way for Lend-Lease.
@@ -217,7 +217,7 @@ Supporters of President Truman's decision to drop atomic bombs on Japan argued t
 - the bombs would only be used on military bases in remote areas || Hiroshima and Nagasaki were cities.
 - Congress had voted to authorize their use || The decision was made by the executive branch. Most of Congress did not know of the bomb.
 
-Q dip m
+Q eco m
 The Bretton Woods Conference of 1944 created
 + the International Monetary Fund and the World Bank to stabilize the postwar world economy || The system tied currencies to the dollar, which was convertible to gold, anchoring postwar trade.
 - the North Atlantic Treaty Organization || NATO was created in 1949.

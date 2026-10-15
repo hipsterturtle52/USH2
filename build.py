@@ -175,11 +175,13 @@ def assign_pools(unit):
         errors.append(f"unit {n}: quiz pool would be {quiz} (have {len(qs)} questions; need {dg+a+b+10}-{dg+a+b+15})")
     targets = {"A": a, "B": b, "diag": dg, "quiz": max(quiz, 0)}
     rng = random.Random(1000 + n)
+    # sort by theme, then difficulty: systematic sampling below then spreads both evenly across pools
     ordered = []
-    for d in "emh":
-        grp = [q for q in qs if q["d"] == d]
-        rng.shuffle(grp)
-        ordered += grp
+    for th in ("pol", "soc", "eco", "cul", "dip"):
+        for d in "emh":
+            grp = [q for q in qs if q["d"] == d and q["th"] == th]
+            rng.shuffle(grp)
+            ordered += grp
     got = {k: 0 for k in targets}
     step = {k: (len(ordered) / t if t else float("inf")) for k, t in targets.items()}
     # systematic allocation: each pool takes items at evenly spaced positions, so every pool gets e/m/h in proportion

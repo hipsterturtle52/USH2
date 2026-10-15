@@ -1,0 +1,40 @@
+========================================================================
+STRUCTURE: OK, every question has 5 options, exactly one keyed answer, 5 explanations, and unit/theme/difficulty/pool tags
+
+TOTALS: 10 lessons, 393 questions, 267 flashcards
+
+Unit                                            Wt  Lesson   Qs    Q%  Cards    C%  Quiz  Diag  ExA  ExB
+1. Reconstruction and the New South             8%   10min   34  8.7%     21  7.9%    12     2   10   10
+2. The Gilded Age: Industry, Labor, the West,  12%   12min   47 12.0%     31 11.6%    15     4   14   14
+3. Populism, Empire, and the Progressive Era   10%   13min   39  9.9%     26  9.7%    12     3   12   12
+4. World War I and the 1920s                   10%   12min   37  9.4%     26  9.7%    10     3   12   12
+5. The Great Depression and the New Deal       10%   12min   37  9.4%     26  9.7%    10     3   12   12
+6. World War II                                 8%   11min   34  8.7%     23  8.6%    11     3   10   10
+7. Early Cold War and the 1950s                11%   12min   40 10.2%     29 10.9%    11     3   13   13
+8. Civil Rights, the Great Society, and Vietn  13%   16min   50 12.7%     34 12.7%    14     4   16   16
+9. From Watergate to Reagan                     9%   12min   39  9.9%     28 10.5%    14     3   11   11
+10. Contemporary America                        9%   11min   36  9.2%     23  8.6%    14     2   10   10
+
+THEMES (official vs. bank / exam A / exam B):
+  Political institutions, political developments, behavio   30%  bank  30.5%  A  31.7%  B  29.2%
+  Social developments                                       30%  bank  28.5%  A  29.2%  B  30.0%
+  Economic developments                                     10%  bank  10.4%  A  10.8%  B  10.0%
+  Cultural and intellectual developments                    20%  bank  19.6%  A  18.3%  B  18.3%
+  Diplomacy and international relations                     10%  bank  10.9%  A  10.0%  B  12.5%
+  1865-1914                                                 30%  bank  30.5%  A  30.0%
+  1915-present                                              70%  bank  69.5%  A  70.0%
+
+DIFFICULTY (target 30/50/20): easy 29.5%  medium 49.1%  hard 21.4%
+ANSWER POSITIONS quiz  {'A': 25, 'B': 25, 'C': 25, 'D': 24, 'E': 24}
+ANSWER POSITIONS diag  {'A': 6, 'B': 6, 'C': 6, 'D': 6, 'E': 6}
+ANSWER POSITIONS A     {'A': 24, 'B': 24, 'C': 24, 'D': 24, 'E': 24}
+ANSWER POSITIONS B     {'A': 24, 'B': 24, 'C': 24, 'D': 24, 'E': 24}
+
+COVERAGE: 7 questions whose correct-answer terms are <60% present in course text (review list):
+  0.45 u4q37: during world war i, anti-german sentiment in the united states led to
+  0.46 u7q38: j.d. salinger's  the catcher in the rye  (1951) resonated with young readers because its n
+  0.54 u8q43: the counterculture of the late 1960s was characterized by
+  0.55 u8q37: the pentagon papers, published in 1971, revealed that
+  0.56 u1q07: immediately after emancipation, which of the following was a top priority for many freedpe
+  0.56 u4q19: the "flapper" of the 1920s symbolized
+  0.58 u2q45: thorstein veblen's phrase "conspicuous consumption" refers to
