@@ -1,0 +1,51 @@
+{
+  "exam": "CLEP History of the United States II: 1865 to the Present",
+  "source_url": "https://clep.collegeboard.org/exam/history-us-ii",
+  "supporting_urls": [
+    "https://secure-media.collegeboard.org/digitalServices/pdf/clep/history_united_states_II_fact_sheet.pdf",
+    "https://clep.collegeboard.org/clep/pdf/information-test-takers-bulletin.pdf"
+  ],
+  "retrieved": "2026-10-15",
+  "verification_note": "The build container's network policy blocked direct requests to collegeboard.org. Figures below were cross-checked in two independent web searches that indexed the official exam page and the official At-a-Glance fact sheet; both returned identical numbers. An older (2015-2017) version of the outline used 35/25/10/15/15 theme weights; the current College Board figures below supersede it.",
+  "format": {
+    "questions": "approximately 120 (some are unscored pretest questions)",
+    "question_count_for_practice": 120,
+    "time_limit_minutes": 90,
+    "question_type": "multiple choice, 5 options",
+    "status": "verified (via search index of official page)"
+  },
+  "scoring": {
+    "scale": "20-80",
+    "ace_recommended_passing_score": 50,
+    "credit_recommendation": "3 semester hours",
+    "status": "unverified (standard CLEP policy; not confirmed on the exam page from this environment)"
+  },
+  "thematic_weights": [
+    {"id": "pol", "name": "Political institutions, political developments, behavior, and public policy", "percent": 30, "status": "verified"},
+    {"id": "soc", "name": "Social developments", "percent": 30, "status": "verified"},
+    {"id": "eco", "name": "Economic developments", "percent": 10, "status": "verified"},
+    {"id": "cul", "name": "Cultural and intellectual developments", "percent": 20, "status": "verified"},
+    {"id": "dip", "name": "Diplomacy and international relations", "percent": 10, "status": "verified"}
+  ],
+  "chronological_weights": [
+    {"id": "early", "name": "1865-1914", "percent": 30, "status": "verified"},
+    {"id": "late", "name": "1915-present", "percent": 70, "status": "verified"}
+  ],
+  "skills_tested": {
+    "items": ["Identify and describe historical phenomena", "Analyze and interpret historical phenomena", "Compare and contrast historical phenomena"],
+    "status": "verified (listed without percentages)"
+  },
+  "unit_plan": [
+    {"unit": 1, "title": "Reconstruction and the New South", "years": "1865-1900", "period": "early", "weight": 8},
+    {"unit": 2, "title": "The Gilded Age: Industry, Labor, the West, and the Cities", "years": "1865-1900", "period": "early", "weight": 12},
+    {"unit": 3, "title": "Populism, Empire, and the Progressive Era", "years": "1890-1914", "period": "early", "weight": 10},
+    {"unit": 4, "title": "World War I and the 1920s", "years": "1914-1929", "period": "late", "weight": 10},
+    {"unit": 5, "title": "The Great Depression and the New Deal", "years": "1929-1941", "period": "late", "weight": 10},
+    {"unit": 6, "title": "World War II", "years": "1939-1945", "period": "late", "weight": 8},
+    {"unit": 7, "title": "Early Cold War and the 1950s", "years": "1945-1960", "period": "late", "weight": 11},
+    {"unit": 8, "title": "Civil Rights, the Great Society, and Vietnam", "years": "1954-1975", "period": "late", "weight": 13},
+    {"unit": 9, "title": "From Watergate to Reagan", "years": "1968-1989", "period": "late", "weight": 9},
+    {"unit": 10, "title": "Contemporary America", "years": "1989-present", "period": "late", "weight": 9}
+  ],
+  "unit_plan_note": "The official outline is thematic (5 themes) plus chronological (2 periods). Units are chronological so the story can be learned in order; unit weights sum to the official 30% (1865-1914) / 70% (1915-present) split. Every question also carries a theme tag, and the bank is balanced to the official 30/30/10/20/10 theme weights."
+}
