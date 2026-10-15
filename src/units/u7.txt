@@ -1,0 +1,469 @@
+@title: Early Cold War and the 1950s
+@years: 1945–1960
+@period: late
+@weight: 11
+
+@lesson
+## The big picture
+World War II left two superpowers with opposite systems. The **United States** stood for capitalism and liberal democracy. The **Soviet Union** stood for communism and one-party rule. Their rivalry, the **Cold War**, shaped American foreign policy for 45 years. It also shaped life at home: a **second Red Scare**, a permanent military buildup, and federal money for highways, science, and schools. At the same time, the 1950s brought **unprecedented prosperity**: the **baby boom**, **suburbs**, **television**, and a consumer culture that critics attacked as conformist.
+
+## 1. How the Cold War began (1945–1949)
+The Soviets had lost over 20 million people and wanted a **buffer zone** of friendly states. At Yalta, Stalin had promised free elections in Eastern Europe, but he installed **communist governments** in Poland, Hungary, Romania, Bulgaria, and (in 1948) Czechoslovakia. In 1946 **Winston Churchill** warned that an **"iron curtain"** had descended across Europe.
+
+American diplomat **George Kennan** argued in his **"Long Telegram"** (1946) and his **"X" article** (1947) that Soviet expansion must be met with patient, firm **containment**. Containment became the core of U.S. policy:
+- **Truman Doctrine** (March 1947): Truman asked Congress for **$400 million** for **Greece and Turkey**, declaring that the U.S. must "support free peoples who are resisting attempted subjugation."
+- **Marshall Plan** (1948): about **$13 billion** in economic aid to rebuild Western Europe, so that poverty would not breed communism. The Soviets refused it for their bloc.
+- **Berlin Blockade and Airlift** (1948–49): Stalin cut off land access to West Berlin, and the U.S. and Britain **flew in supplies for nearly a year** until he backed down.
+- **NATO** (1949): the first U.S. **peacetime military alliance**, built on the idea that an attack on one is an attack on all. The Soviet bloc answered with the **Warsaw Pact** (1955).
+- The **National Security Act** (1947) created the **Department of Defense**, the **CIA**, and the **National Security Council**.
+
+1949 was a shock year. The Soviets tested an **atomic bomb**, and **Mao Zedong's** communists won China's civil war. Republicans charged that Truman had "lost China." A secret report, **NSC-68** (1950), called for a massive military buildup to fight communism everywhere.
+
+!cec Soviet control of Eastern Europe; fear of communist expansion | Containment: Truman Doctrine, Marshall Plan, NATO | A permanent U.S. global military presence and an arms race
+
+## 2. The Korean War (1950–1953)
+In **June 1950**, communist **North Korea** invaded **South Korea**. The **UN Security Council** authorized a defense; the Soviets were boycotting it and could not veto. The war unfolded in stages:
+- **General Douglas MacArthur's** landing at **Inchon** turned the tide, and UN forces drove north toward China's border at the Yalu River.
+- **China** entered with hundreds of thousands of troops and pushed them back.
+- MacArthur publicly demanded a wider war, including bombing China. Truman **fired him** in April 1951 for insubordination, upholding **civilian control of the military**.
+- After two years of stalemate, an **armistice (1953)** left Korea divided near the **38th parallel**, where it had started.
+
+Korea was the first "**limited war**" of the Cold War, fought for containment rather than total victory. About 36,000 Americans died.
+
+## 3. The Second Red Scare
+Fear of communist subversion swept the country:
+- Truman's **loyalty program** (1947) screened federal employees.
+- The **House Un-American Activities Committee (HUAC)** investigated Hollywood. The **"Hollywood Ten"** were jailed for refusing to testify, and a **blacklist** cost hundreds of people their jobs.
+- **Alger Hiss**, a former State Department official accused of spying, was convicted of **perjury** (1950). The case made Congressman **Richard Nixon** famous.
+- **Julius and Ethel Rosenberg** were executed (1953) for passing atomic secrets to the Soviets.
+- The **McCarran Internal Security Act** (1950) required communist organizations to register.
+
+In February 1950, Senator **Joseph McCarthy** of Wisconsin claimed to have a list of communists in the State Department. He never proved a single case, but **"McCarthyism"**, meaning reckless accusations of disloyalty, ruined many careers. His downfall came in the televised **Army-McCarthy hearings** (1954). Army lawyer **Joseph Welch** asked, "Have you no sense of decency, sir?" The **Senate censured** McCarthy in December 1954. Playwright **Arthur Miller's** *The Crucible* (1953) used the Salem witch trials as an allegory for the hunt.
+
+## 4. Truman at home
+- **Reconversion:** a massive **strike wave** (1946) and inflation followed the end of price controls.
+- The **Employment Act** (1946) made maximum employment a federal goal and created the **Council of Economic Advisers**.
+- The Republican Congress passed the **Taft-Hartley Act** (1947) over Truman's veto. It **banned the closed shop**, allowed states to pass **"right-to-work" laws**, permitted 80-day "cooling-off" injunctions in national-emergency strikes, and required union leaders to swear they were not communists.
+- **Civil rights:** Truman's committee report *To Secure These Rights* (1947) called for federal action. In 1948 Truman issued **Executive Order 9981**, **desegregating the armed forces**. That same year, **Jackie Robinson** had broken baseball's color line with the Brooklyn Dodgers (1947).
+- **Election of 1948:** Truman faced a three-way split. Southern **Dixiecrats** (**Strom Thurmond**) walked out over civil rights, and **Henry Wallace's** Progressives attacked Truman from the left. Truman won a famous **upset** over Thomas Dewey anyway.
+- **Fair Deal:** Truman won a higher minimum wage, expanded Social Security, and public housing, but Congress rejected **national health insurance**.
+- The **Twenty-second Amendment** (1951) limited presidents to **two terms**.
+
+## 5. Eisenhower: the middle way
+**Dwight Eisenhower** (1953–61) practiced **"Modern Republicanism."** He accepted and even expanded the New Deal: Social Security grew, and he created the Department of Health, Education, and Welfare. But he favored balanced budgets. The **Interstate Highway Act** (1956), justified partly for defense and evacuation, built 41,000 miles of highway, the largest public works program in history.
+
+**Foreign policy:** Secretary of State **John Foster Dulles** practiced **brinkmanship**.
+- The **"New Look"** relied on nuclear weapons and the threat of **"massive retaliation"** rather than costly ground forces: "more bang for the buck."
+- The **CIA** ran **covert operations**, overthrowing governments in **Iran** (1953) and **Guatemala** (1954).
+- Eisenhower's **domino theory** (1954) held that if Vietnam fell to communism, its neighbors would follow. After the French defeat at Dien Bien Phu, the **Geneva Accords** (1954) temporarily divided Vietnam at the **17th parallel**. The U.S. backed **Ngo Dinh Diem's** South Vietnam and formed **SEATO**.
+- In the **Suez Crisis** (1956), Eisenhower forced Britain, France, and Israel to withdraw from Egypt.
+- He did **not** intervene when the Soviets crushed the **Hungarian Revolution** (1956).
+- The **Eisenhower Doctrine** (1957) offered aid against communism in the **Middle East**.
+
+**Sputnik:** In October 1957 the Soviets launched **Sputnik**, the first artificial satellite. Americans feared a "missile gap" and a science gap. Congress created **NASA** (1958) and passed the **National Defense Education Act** (1958), which funded science, math, and foreign-language education.
+
+At the end of his term, the **U-2 incident** (1960), a U.S. spy plane shot down over the USSR, wrecked a summit. In 1959 **Fidel Castro** took power in Cuba. In his **Farewell Address** (1961), Eisenhower warned against the **"military-industrial complex."**
+
+!cec Sputnik (1957) | NASA, National Defense Education Act, space race | Federal investment in science and education; Cold War competition reaches schools
+
+## 6. The affluent society
+The postwar economy boomed. Pent-up savings, government spending (defense, highways, the **GI Bill**), and cheap energy fueled it. Births soared in the **baby boom** (1946–1964).
+
+**Suburbs:** Builder **William Levitt** mass-produced affordable homes in **Levittown**, New York. **FHA and VA mortgages** made them easy to buy. But **restrictive covenants and "redlining"** excluded Black families, which cemented residential segregation. Millions moved to suburbs and to the **Sun Belt**, while inner cities lost people and tax revenue.
+
+**Consumer culture:** Families bought **cars**, appliances, and **television**. By 1960 almost 90% of households had a TV, which spread shared programs and advertising. Credit cards appeared. A **religious revival** (evangelist **Billy Graham**) went with Cold War anti-communism: "under God" was added to the Pledge of Allegiance (1954). **Jonas Salk's polio vaccine** (1955) was a triumph of science.
+
+**The ideal of domesticity:** Popular culture celebrated the suburban homemaker, and **Dr. Benjamin Spock's** *Baby and Child Care* (1946) became a bestseller. In reality, more married women were taking paid jobs every year.
+
+**Critics of conformity:**
+- **David Riesman**, *The Lonely Crowd* (1950): "other-directed" people seek approval from peers.
+- **William Whyte**, *The Organization Man* (1956): corporate conformity.
+- **John Kenneth Galbraith**, *The Affluent Society* (1958): private wealth amid public neglect.
+- **C. Wright Mills**, *The Power Elite* (1956).
+- Novels like *The Man in the Gray Flannel Suit* (Sloan Wilson).
+
+**Rebels:** The **Beat Generation** rejected materialism and conformity: **Jack Kerouac's** *On the Road* (1957) and **Allen Ginsberg's** *Howl* (1956). **J.D. Salinger's** *The Catcher in the Rye* (1951) spoke to alienated teens. **Rock and roll** (Elvis Presley, Chuck Berry, Little Richard) blended Black rhythm and blues with country and alarmed parents. **Abstract Expressionist** painters such as **Jackson Pollock** made New York the center of the art world.
+
+**Left behind:** Prosperity did not reach everyone. Federal Indian policy shifted to **"termination"** (ending tribal recognition) and **relocation** to cities. **"Operation Wetback"** (1954) deported large numbers of Mexican migrants. Rural and urban poverty persisted (see Unit 8).
+
+@mustknow
+- **Containment** (George Kennan) was the core Cold War strategy.
+- **Truman Doctrine** (1947, Greece/Turkey military aid). **Marshall Plan** (1948, economic aid to rebuild Europe).
+- **Berlin Airlift** (1948–49); **NATO** (1949, first peacetime alliance); 1949: Soviet A-bomb + China falls to Mao.
+- **Korean War** (1950–53): UN action, Inchon, China enters, **Truman fires MacArthur** (civilian control), armistice at the 38th parallel.
+- **Second Red Scare**: HUAC/Hollywood Ten, Hiss, Rosenbergs, **McCarthy** (Army-McCarthy hearings 1954, censure).
+- **Taft-Hartley** (1947, curbed unions); **EO 9981** (1948, desegregated the military); **1948**: Truman beats Dewey despite Dixiecrats.
+- **Eisenhower**: Modern Republicanism, **Interstate Highway Act** (1956), **massive retaliation/brinkmanship**, CIA coups (Iran, Guatemala), **domino theory**.
+- **Sputnik** (1957) → **NASA** and the **National Defense Education Act** (1958). **Military-industrial complex** warning (1961).
+- 1950s society: **baby boom**, **Levittown** suburbs (with racial exclusion), TV, religious revival.
+- Critics/rebels: Riesman, Whyte, Galbraith; **Beats** (Kerouac, Ginsberg); **rock and roll**; Salinger.
+
+@timeline
+1946 | Kennan's Long Telegram; Churchill's "Iron Curtain" speech; Employment Act; strike wave
+1947 | Truman Doctrine; Taft-Hartley Act; National Security Act; HUAC Hollywood hearings; Jackie Robinson; Levittown begins | key
+1948 | Marshall Plan; Berlin Airlift begins; EO 9981; Truman upsets Dewey | key
+1949 | NATO formed; Soviet atomic bomb; communist victory in China | key
+1950 | McCarthy's Wheeling speech; Korean War begins; NSC-68; Hiss convicted | key
+1951 | Truman fires MacArthur; 22nd Amendment
+1953 | Korean armistice; Rosenbergs executed; CIA coup in Iran
+1954 | Army-McCarthy hearings and censure; Geneva Accords; domino theory; Guatemala coup
+1955 | Warsaw Pact; Salk polio vaccine
+1956 | Interstate Highway Act; Suez Crisis; Hungarian Revolution; *Howl*
+1957 | Sputnik; Eisenhower Doctrine; *On the Road* | key
+1958 | NASA and National Defense Education Act
+1959 | Castro takes power in Cuba
+1960 | U-2 incident
+1961 | Eisenhower's Farewell Address ("military-industrial complex")
+
+@cards
+Containment :: George Kennan's strategy: firmly resist Soviet expansion wherever it threatens, without all-out war.
+Iron Curtain speech (1946) :: Churchill's warning in Fulton, Missouri, that Soviet domination had divided Europe.
+Truman Doctrine (1947) :: $400 million in aid to Greece and Turkey. The U.S. would "support free peoples" resisting communist subjugation.
+Marshall Plan (1948) :: About $13 billion in economic aid to rebuild Western Europe and blunt communism's appeal.
+Berlin Airlift (1948–49) :: U.S. and British planes supplied West Berlin during the Soviet blockade until Stalin lifted it.
+NATO (1949) :: North Atlantic Treaty Organization. First U.S. peacetime military alliance. An attack on one is an attack on all.
+National Security Act (1947) :: Created the Department of Defense, the CIA, and the National Security Council.
+NSC-68 (1950) :: Secret policy paper calling for a massive military buildup to contain communism globally.
+Korean War (1950–53) :: North invaded South. UN/U.S. defense, Chinese intervention, MacArthur fired, armistice near the 38th parallel.
+MacArthur's firing (1951) :: Truman removed MacArthur for publicly demanding a wider war with China. Civilian control of the military.
+HUAC / Hollywood Ten :: House Un-American Activities Committee investigated Hollywood communism. The Ten were jailed, and a blacklist followed.
+Alger Hiss :: Ex-State Department official accused of spying for the USSR. Convicted of perjury (1950). Boosted Nixon's career.
+Rosenbergs :: Julius and Ethel Rosenberg, executed in 1953 for passing atomic secrets to the USSR.
+McCarthyism :: Sen. Joseph McCarthy's reckless anti-communist accusations (1950–54). Ended after the Army-McCarthy hearings and censure.
+Taft-Hartley Act (1947) :: Passed over Truman's veto. Banned the closed shop, allowed right-to-work laws, cooling-off periods, anti-communist oaths.
+Executive Order 9981 (1948) :: Truman's order desegregating the U.S. armed forces.
+Election of 1948 :: Truman's upset win over Dewey despite Dixiecrat (Thurmond) and Progressive (Wallace) splits.
+Twenty-second Amendment (1951) :: Limits presidents to two elected terms.
+Modern Republicanism :: Eisenhower's acceptance of New Deal programs combined with fiscal conservatism.
+Interstate Highway Act (1956) :: Built 41,000 miles of interstate highways. Spurred suburbs and car culture, justified for defense.
+Massive retaliation / Brinkmanship :: Eisenhower–Dulles "New Look": rely on nuclear threats rather than large conventional forces, going to the brink of war.
+Domino theory :: Eisenhower (1954): if one Southeast Asian nation falls to communism, its neighbors will follow.
+Sputnik (1957) :: First Soviet satellite. Sparked U.S. fears and led to NASA and the National Defense Education Act (1958).
+Military-industrial complex :: Eisenhower's 1961 farewell warning about the influence of the permanent arms industry and military.
+Baby boom :: Surge in births, 1946–1964, shaping schools, suburbs, and culture for decades.
+Levittown :: Mass-produced suburban housing (William Levitt). Affordable but initially excluded Black families.
+Beat Generation :: 1950s writers rejecting conformity and materialism: Jack Kerouac (*On the Road*), Allen Ginsberg (*Howl*).
+*The Lonely Crowd* / *The Organization Man* :: 1950s critiques of conformity: Riesman's "other-directed" people and Whyte's corporate conformists.
+Termination policy :: 1950s federal effort to end tribal recognition and move Native Americans into the mainstream. Reversed in the 1970s.
+
+@questions
+Q dip e
+The Cold War policy of "containment," first proposed by George Kennan, called for the United States to
++ resist the expansion of Soviet influence wherever it threatened to spread || Containment shaped the Truman Doctrine, the Marshall Plan, NATO, and later Korea and Vietnam.
+- launch an immediate nuclear attack on the Soviet Union || Kennan favored patient pressure, not preventive war.
+- withdraw U.S. forces from Europe and Asia || Containment required a global U.S. presence.
+- form an alliance with the Soviet Union against China || That was not containment. Nixon's later opening to China played the two against each other.
+- rely on the United Nations alone for security || Containment relied on U.S. power and alliances.
+
+Q dip e
+The Marshall Plan (1948) provided
++ economic aid to help rebuild Western European economies after World War II || About $13 billion helped Western Europe recover and reduced communism's appeal.
+- military aid to Greece and Turkey || That was the Truman Doctrine (1947).
+- a military alliance among Western nations || That was NATO (1949).
+- loans to Japan to rebuild its navy || The Marshall Plan focused on Europe, and Japan was demilitarized.
+- funding for the Manhattan Project || The Manhattan Project was a wartime program.
+
+Q dip e
+The North Atlantic Treaty Organization, formed in 1949, was significant because it
++ was the first peacetime military alliance the United States joined || NATO members pledged that an attack on one would be an attack on all.
+- ended the Korean War || NATO was formed before the Korean War began.
+- brought the Soviet Union into an alliance with the West || The Soviets formed the rival Warsaw Pact.
+- replaced the United Nations || NATO is a regional alliance and did not replace the UN.
+- provided economic aid to Latin America || NATO is a military alliance in Europe and North America.
+
+Q dip m
+The Berlin Airlift of 1948–1949 was a response to
++ the Soviet blockade of land routes into West Berlin || U.S. and British planes delivered food and fuel for nearly a year until Stalin lifted the blockade.
+- the construction of the Berlin Wall || The Wall went up in 1961.
+- the Soviet launch of Sputnik || Sputnik came in 1957.
+- the North Korean invasion of South Korea || Korea was a separate crisis (1950).
+- a Nazi uprising in East Germany || There was no such uprising.
+
+Q dip m
+President Truman dismissed General Douglas MacArthur in 1951 because MacArthur
++ publicly challenged the administration's policy of limited war by advocating attacks on China || Truman upheld civilian control of the military and the goal of avoiding a wider war.
+- refused to land troops at Inchon || MacArthur planned and led the Inchon landing.
+- lost the Battle of Midway || Midway was a U.S. victory in 1942.
+- was convicted of spying for the Soviet Union || MacArthur was never accused of espionage.
+- opposed the use of United Nations forces in Korea || MacArthur commanded the UN forces.
+
+Q dip h
+Eisenhower and Dulles's "New Look" defense policy emphasized
++ reliance on nuclear weapons and the threat of massive retaliation rather than large conventional forces || It promised "more bang for the buck," a cheaper deterrent than big armies.
+- a large standing army stationed in every allied nation || The New Look cut conventional forces.
+- complete nuclear disarmament || The New Look expanded nuclear arsenals.
+- a policy of isolationism || Eisenhower kept global commitments.
+- flexible response with many conventional options || Flexible response was Kennedy's alternative to the New Look.
+
+Q dip h
+The CIA-supported overthrow of governments in Iran (1953) and Guatemala (1954) demonstrated Eisenhower's
++ use of covert operations to oppose leaders seen as threats to U.S. interests || Covert action was cheaper and less visible than war. It also bred long-term resentment.
+- commitment to the Good Neighbor Policy of nonintervention || The coups contradicted nonintervention.
+- willingness to send large ground armies abroad || These operations were covert, not large invasions.
+- support for nationalist movements against colonial powers || The U.S. helped topple nationalist leaders (Mossadegh, Árbenz).
+- cooperation with the Soviet Union in the Third World || The operations were anti-communist.
+
+Q pol e
+The Truman Doctrine (1947) committed the United States to
++ support free peoples resisting subjugation by armed minorities or outside pressure, beginning with aid to Greece and Turkey || Congress approved $400 million, the first concrete step of containment.
+- rebuild the economy of Western Europe || That was the Marshall Plan.
+- defend Latin America against European intervention || That echoes the Monroe Doctrine.
+- withdraw from all overseas commitments || The doctrine expanded commitments.
+- share atomic secrets with the Soviets || The U.S. kept its atomic monopoly until 1949.
+
+Q pol e
+Senator Joseph McCarthy's influence declined sharply after
++ the televised Army-McCarthy hearings of 1954 exposed his bullying tactics || Joseph Welch's rebuke ("Have you no sense of decency?") turned opinion. The Senate censured McCarthy that December.
+- he was convicted of perjury in the Alger Hiss case || Hiss, not McCarthy, was convicted of perjury.
+- he lost the 1952 presidential election || McCarthy was never a presidential nominee.
+- the Supreme Court declared HUAC unconstitutional || HUAC continued until 1975.
+- the Soviet Union collapsed || The Soviet Union collapsed in 1991.
+
+Q pol m
+The Taft-Hartley Act of 1947 was opposed by organized labor because it
++ banned the closed shop and allowed states to pass right-to-work laws || Passed over Truman's veto, it rolled back some Wagner Act gains and required anti-communist oaths from union leaders.
+- abolished the minimum wage || The minimum wage remained in place.
+- gave unions the right to bargain collectively for the first time || That right came with the Wagner Act (1935).
+- required all workers to join unions || It banned the closed shop, which required union membership before hiring.
+- merged the AFL and the CIO || The merger came in 1955, by the unions themselves.
+
+Q pol m
+In the 1948 presidential election, Harry Truman won despite
++ splits in the Democratic Party by the Dixiecrats on the right and Henry Wallace's Progressives on the left || Strom Thurmond's States' Rights Party opposed Truman's civil rights stand. Wallace attacked his Cold War policy. Truman still beat Dewey.
+- the endorsement of Dewey by every labor union || Labor largely backed Truman, angered by Taft-Hartley.
+- having served two full terms already || Truman had served most of FDR's fourth term, and the Twenty-second Amendment did not yet exist.
+- losing every southern state || Thurmond carried only four southern states.
+- the absence of any Republican candidate || Thomas Dewey was the Republican nominee.
+
+Q pol m
+Executive Order 9981, issued by President Truman in 1948,
++ ordered the desegregation of the U.S. armed forces || It took several years to carry out, but integrated units fought in Korea.
+- banned discrimination in defense industries || That was FDR's EO 8802 (1941).
+- established the loyalty program for federal employees || That was EO 9835 (1947).
+- created the Marshall Plan || The Marshall Plan was enacted by Congress.
+- desegregated public schools || That came with Brown v. Board (1954).
+
+Q pol m
+The Twenty-second Amendment, ratified in 1951, was a response to
++ Franklin Roosevelt's election to four terms as president || Republicans and conservative Democrats wanted to restore the two-term tradition.
+- the assassination of President Kennedy || The Twenty-fifth Amendment (1967) dealt with succession after JFK's death.
+- Truman's firing of MacArthur || The amendment concerns presidential terms.
+- the McCarthy hearings || The amendment is unrelated to McCarthy.
+- the disputed election of 1876 || That election is unrelated.
+
+Q pol m
+The National Security Act of 1947 reorganized the government for the Cold War by creating
++ the Department of Defense, the Central Intelligence Agency, and the National Security Council || It unified the military services and created a permanent intelligence agency.
+- the Department of Homeland Security || That was created after 9/11, in 2002.
+- NASA and the National Defense Education Act || Those came in 1958 after Sputnik.
+- the House Un-American Activities Committee || HUAC was a congressional committee dating from 1938.
+- the Federal Bureau of Investigation || The FBI's origins go back to 1908.
+
+Q pol h
+Which of the following correctly pairs a Second Red Scare event with its outcome?
++ Alger Hiss case: conviction for perjury that boosted Richard Nixon's career || Nixon's pursuit of Hiss through HUAC made him a national figure.
+- Rosenberg case: acquittal of both defendants || The Rosenbergs were convicted and executed in 1953.
+- Army-McCarthy hearings: McCarthy's election as president || McCarthy was censured, not elected.
+- Hollywood Ten: appointment to the Federal Communications Commission || The Ten were jailed and blacklisted.
+- McCarran Act: abolition of HUAC || The McCarran Act required communist registration. HUAC continued.
+
+Q pol m
+President Eisenhower's domestic policy, sometimes called "Modern Republicanism," is best described as
++ accepting and modestly expanding New Deal programs such as Social Security while favoring balanced budgets || Eisenhower expanded Social Security and launched the Interstate Highway System.
+- dismantling Social Security and other New Deal programs || Eisenhower did not repeal the New Deal.
+- nationalizing major industries || Eisenhower favored private enterprise.
+- launching a War on Poverty || That was Lyndon Johnson.
+- supporting the closed shop for unions || The closed shop had been banned by Taft-Hartley.
+
+Q pol h
+In his 1961 Farewell Address, President Eisenhower warned Americans about
++ the growing influence of a permanent "military-industrial complex" || The warning was striking coming from a former five-star general.
+- the threat of the domino theory in Southeast Asia || Eisenhower introduced the domino theory in 1954, but that was not the farewell warning.
+- the danger of the Beat Generation to American values || The Beats were not the subject.
+- the risk of losing the space race to Japan || The space race was with the Soviets.
+- the need to repeal the Twenty-second Amendment || He did not argue for repeal.
+
+Q pol h
+> Secretary of State: "The ability to get to the verge without getting into the war is the necessary art... If you are scared to go to the brink, you are lost."
+The policy expressed above is best described as
++ brinkmanship, associated with John Foster Dulles || Dulles argued that a willingness to risk war would deter Soviet and Chinese aggression.
+- détente, associated with Henry Kissinger || Détente sought to relax tensions, not risk war.
+- the Good Neighbor Policy || The Good Neighbor Policy concerned nonintervention in Latin America.
+- isolationism, associated with the America First Committee || The passage describes active confrontation, not withdrawal.
+- flexible response, associated with John F. Kennedy || Flexible response emphasized conventional options rather than nuclear brinkmanship.
+
+Q pol e
+The Interstate Highway Act of 1956 contributed to
++ the growth of suburbs and automobile culture || The highways made commuting possible and reshaped where Americans lived and shopped.
+- the revival of passenger railroads || Railroads lost passengers to highways and airlines.
+- a decline in car ownership || Car ownership soared.
+- the end of the Sun Belt's growth || Highways helped the Sun Belt grow.
+- higher population in inner cities || Cities generally lost population to the suburbs.
+
+Q soc e
+The term "baby boom" refers to
++ the sharp increase in births in the United States from 1946 to 1964 || The boomers shaped schools, suburbs, consumer markets, and later the 1960s youth culture.
+- the population growth caused by immigration in the 1900s || That was the New Immigration.
+- the rise in births during the Great Depression || Birth rates fell during the Depression.
+- the expansion of the Sun Belt after 1980 || The baby boom refers to births, not regional growth.
+- the growth of the toy industry in the 1920s || The term refers to postwar births.
+
+Q soc e
+Levittown, New York, became a symbol of
++ mass-produced postwar suburban housing || William Levitt's assembly-line methods made homes affordable for many families, though Black buyers were initially excluded.
+- urban renewal projects in inner cities || Levittown was a suburb.
+- public housing for low-income families || Levittown homes were privately built and sold.
+- Progressive Era settlement houses || That was Hull House and similar institutions.
+- the Dust Bowl migration || Levittown was a Long Island suburb.
+
+Q soc m
+Which of the following best describes how federal housing policy shaped postwar suburbs?
++ FHA and VA mortgages made homes affordable for many white families, while redlining and restrictive covenants excluded most Black families. || Federal policy subsidized suburbanization and deepened residential segregation.
+- Federal policy required all new suburbs to be racially integrated. || Integration was not required. Discrimination was often built into the policy.
+- The government built most suburban homes directly. || Private builders built them, with federal mortgage backing.
+- Federal programs discouraged home ownership in favor of renting. || Federal programs strongly encouraged home ownership.
+- Suburbs grew only in the Northeast. || Suburbs grew nationwide, especially in the Sun Belt.
+
+Q soc m
+In the 1950s, the federal "termination" policy toward Native Americans aimed to
++ end federal recognition of tribes and encourage relocation to cities || Termination reversed the Indian New Deal. It was abandoned in the 1960s–70s as tribes pushed for self-determination.
+- restore tribal lands taken under the Dawes Act || Termination took away federal support.
+- strengthen tribal self-government || That was the 1934 Indian Reorganization Act's aim.
+- grant Native Americans citizenship for the first time || Citizenship came in 1924.
+- create new reservations in the West || Termination sought to end the reservation system's federal role.
+
+Q soc m
+Jackie Robinson's joining the Brooklyn Dodgers in 1947 was significant because it
++ broke the color line in Major League Baseball and became an early symbol of postwar integration || Robinson's success under intense abuse foreshadowed the civil rights movement.
+- was ordered by the Supreme Court || It was a decision by Dodgers executive Branch Rickey.
+- ended segregation in the armed forces || Military desegregation came through Truman's 1948 order.
+- led to the Brown v. Board decision || Brown came out of NAACP legal work on schools.
+- was opposed by the NAACP || The NAACP celebrated it.
+
+Q soc m
+A major social consequence of the growth of suburbs in the 1950s was
++ the decline of many inner cities as middle-class residents and businesses moved out || Lost tax bases and segregated housing left cities with concentrated poverty.
+- the end of automobile commuting || Suburbs depended on cars.
+- a decrease in racial segregation in housing || Segregation hardened through suburban exclusion.
+- a sharp drop in home ownership || Home ownership rose to historic highs.
+- a decline in church membership || Church membership rose in the 1950s.
+
+Q soc h
+The Second Red Scare differed from the first Red Scare (1919–1920) in that the Second Red Scare
++ was tied to Cold War espionage cases and focused heavily on government employees and Hollywood || Unlike the immigrant-focused Palmer Raids, the 1940s–50s scare targeted federal workers, entertainers, and intellectuals amid real Soviet spying cases.
+- targeted mainly southern and eastern European immigrants || That describes the first Red Scare's Palmer Raids.
+- lasted only a few months || It ran from about 1947 into the mid-1950s.
+- was opposed by both major political parties from the start || Politicians of both parties participated.
+- led to the deportation of Sacco and Vanzetti || Sacco and Vanzetti were executed in 1927.
+
+Q soc m
+The 1950s ideal of family life, as presented in television shows and magazines, emphasized
++ a suburban household with a breadwinner father and a homemaker mother || The image ignored the growing number of married women in paid work and the diversity of families.
+- women's leadership in corporate and political life || Women's leadership was not the 1950s ideal.
+- communal living and rejection of consumer goods || Communes were part of the 1960s counterculture.
+- urban apartment living for large extended families || The ideal was the suburban nuclear family.
+- the flapper's independence || The flapper was a 1920s image.
+
+Q eco e
+Which of the following contributed to American economic prosperity in the 1950s?
++ High consumer demand, government spending on defense and highways, and the GI Bill || Pent-up savings, the baby boom, and federal spending all fueled growth.
+- Severe shortages of oil and gasoline || Cheap energy, not shortages, marked the 1950s. The shortages came in the 1970s.
+- The collapse of labor unions || Unions were at peak strength in the 1950s.
+- Heavy competition from rebuilt European and Japanese industries || Foreign competition was limited in the 1950s.
+- A sharp decline in the birth rate || The birth rate soared during the baby boom.
+
+Q eco m
+The Employment Act of 1946 committed the federal government to
++ promote maximum employment, production, and purchasing power, and created the Council of Economic Advisers || The act made economic management a permanent federal responsibility, reflecting Keynesian ideas.
+- guarantee a job to every adult citizen || A guaranteed-jobs version was proposed but rejected.
+- abolish the minimum wage || The act did not affect the minimum wage.
+- end all government spending on public works || The act did not limit spending in that way.
+- return to the gold standard || The gold standard was not restored.
+
+Q eco h
+Economist John Kenneth Galbraith's *The Affluent Society* (1958) argued that
++ America's private wealth existed alongside neglected public needs such as schools and parks || Galbraith criticized the imbalance between private consumption and public investment.
+- the United States was in a deep economic depression || The 1950s were prosperous.
+- government spending should be eliminated entirely || Galbraith favored more public investment.
+- the frontier had closed and the economy would stagnate || That echoes Turner's frontier thesis.
+- Social Darwinism explained American success || Galbraith was a liberal critic of unregulated markets.
+
+Q cul e
+Jack Kerouac's *On the Road* and Allen Ginsberg's *Howl* are associated with the
++ Beat Generation, which rejected 1950s conformity and materialism || The Beats celebrated spontaneity, jazz, and personal freedom, foreshadowing the 1960s counterculture.
+- Harlem Renaissance || The Harlem Renaissance was a 1920s movement.
+- Lost Generation || The Lost Generation wrote in the 1920s.
+- muckrakers || The muckrakers were Progressive Era journalists.
+- New Deal Federal Writers' Project || The Beats came after the New Deal.
+
+Q cul e
+The Soviet launch of Sputnik in 1957 led the United States to
++ create NASA and increase federal funding for science and math education || The National Defense Education Act (1958) funded science, math, and language programs.
+- withdraw from the space race || The U.S. accelerated its space program.
+- sign a treaty banning all satellites || No such treaty was signed.
+- end the Cold War || The Cold War intensified.
+- cut defense spending sharply || Defense and missile spending rose.
+
+Q cul m
+David Riesman's *The Lonely Crowd* and William Whyte's *The Organization Man* criticized 1950s America for
++ conformity and the pressure to fit in with peers and corporate expectations || Riesman described "other-directed" people. Whyte described employees who subordinated themselves to corporations.
+- excessive individualism and rebellion || They argued the reverse: too little individualism.
+- the failure of the New Deal || Their focus was social character, not the New Deal.
+- the poverty of the Dust Bowl || That was a 1930s theme.
+- the spread of communism in labor unions || They wrote about middle-class culture.
+
+Q cul m
+Early rock and roll music in the 1950s drew heavily on
++ African American rhythm and blues, combined with country music || Artists like Chuck Berry, Little Richard, and Elvis Presley blended these traditions, crossing racial lines in popular culture.
+- European classical opera || Rock's roots were American popular music.
+- Big Band swing exclusively || Swing influenced popular music, but rock drew mostly on R&B and country.
+- Native American ceremonial music || That was not a major source.
+- government propaganda songs || Rock developed commercially.
+
+Q cul m
+Arthur Miller's play *The Crucible* (1953), set during the Salem witch trials, was widely understood as a commentary on
++ McCarthyism and the anti-communist hunts of the early 1950s || Miller drew parallels between the witch hunts and contemporary loyalty investigations.
+- the Vietnam War || Vietnam was not yet a U.S. war in 1953.
+- the Great Depression || The play's allegory concerned 1950s politics.
+- the Scopes Trial || The parallel was to McCarthyism.
+- the civil rights movement || The allegory centered on the Red Scare.
+
+Q cul m
+During the 1950s, the addition of "under God" to the Pledge of Allegiance reflected
++ a religious revival linked to Cold War contrasts with "godless" communism || Church membership rose, and leaders like Billy Graham drew huge crowds.
+- the influence of the Beat Generation || The Beats were not part of this mainstream religiosity.
+- a Supreme Court ruling requiring school prayer || In 1962 the Court ruled against official school prayer.
+- the end of the Cold War || The Cold War was intensifying.
+- a decline in American religious life || Religious participation rose.
+
+Q cul m
+By 1960, television had become a dominant force in American culture, which
++ spread a common national popular culture and expanded the reach of advertising || Nearly 90% of households had a set, and television shaped consumer tastes and politics.
+- caused radio to disappear entirely || Radio adapted with music formats.
+- had no effect on politics || TV mattered greatly in the McCarthy hearings and the 1960 debates.
+- was controlled directly by the federal government || Networks were private companies regulated by the FCC.
+- was available only in cities || TV spread to suburbs and rural areas.
+
+Q cul h
+J.D. Salinger's *The Catcher in the Rye* (1951) resonated with young readers because its narrator, Holden Caulfield,
++ expressed alienation from adult "phoniness" and conformity || The novel became a touchstone for postwar youth disaffection.
+- celebrated suburban family life || Holden rejects conventional adult society.
+- fought in the Korean War || The novel is not about the war.
+- led a civil rights protest || The novel does not deal with civil rights activism.
+- became a successful corporate executive || Holden is a troubled teenager.
+
+Q cul h
+Abstract Expressionist painters such as Jackson Pollock are significant in American cultural history because they
++ helped shift the center of the Western art world from Paris to New York after World War II || Pollock's "drip" paintings made New York the capital of avant-garde art.
+- painted realistic scenes of rural Midwestern life || That was Regionalism (Grant Wood, Thomas Hart Benton).
+- produced Pop Art based on consumer products || Pop Art (Warhol) came in the 1960s.
+- were employed by the WPA to paint post office murals || Some had WPA backgrounds, but their postwar fame came from abstract work.
+- led the Ashcan School || The Ashcan School was early-twentieth-century urban realism.
+
+Q cul m
+Jonas Salk's development of a polio vaccine in the mid-1950s was celebrated as
++ a triumph of American medical science that conquered a feared childhood disease || Mass vaccination dramatically cut polio cases.
+- a product of the Manhattan Project || Salk's work was medical research funded largely by the March of Dimes.
+- a Soviet achievement copied by the U.S. || Salk was an American researcher.
+- the reason for the baby boom || The baby boom began earlier, in 1946.
+- a government program that failed || The vaccine was a major success.
