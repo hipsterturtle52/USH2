@@ -1,0 +1,405 @@
+@title: Reconstruction and the New South
+@years: 1865–1900
+@period: early
+@weight: 8
+
+@lesson
+## The big question
+In 1865 the Union had won the war, and about four million enslaved people were free. Two questions followed. **On what terms would the eleven Confederate states rejoin the Union?** And **what would freedom actually mean for formerly enslaved people?** The struggle over these questions is called **Reconstruction** (1865–1877). The short version: freedpeople won major constitutional rights during Reconstruction. Then the North lost interest, white southern Democrats retook power, and most of those rights were stripped away by 1900.
+
+## Presidential Reconstruction (1865–1866)
+Lincoln had planned a lenient restoration. Under his **Ten Percent Plan** (1863), a state could form a new government once 10% of its 1860 voters swore loyalty to the Union. Congress pushed back with the harsher **Wade-Davis Bill**, which required 50% and an "ironclad oath," but Lincoln pocket-vetoed it. Lincoln was assassinated in April 1865, and **Andrew Johnson**, a pro-Union Democrat from Tennessee, became president.
+
+Johnson pardoned thousands of ex-Confederates and let the old southern elite rebuild state governments. Those governments passed **Black Codes**. These laws limited freedpeople's right to own or rent land, required them to sign yearly labor contracts, and let authorities arrest unemployed Black men for "vagrancy" and hire them out. Johnson also returned land confiscated during the war to its prewar owners. That ended the hopes raised by General Sherman's Field Order No. 15 that freedpeople would get **"forty acres and a mule."**
+
+!cec Johnson's lenient pardons; old elites back in power | Southern states pass Black Codes; anti-Black riots in Memphis and New Orleans (1866) | Northern voters elect a Republican supermajority in 1866; Congress takes over Reconstruction
+
+The **Thirteenth Amendment** (ratified December 1865) abolished slavery. Congress also created the **Freedmen's Bureau** (1865). It provided food and medical care and supervised labor contracts. Its most lasting work was **education**: with northern missionary societies, it helped found schools and colleges such as **Howard** and **Fisk**.
+
+## Congressional (Radical) Reconstruction (1867–1877)
+The **Radical Republicans**, led by **Thaddeus Stevens** in the House and **Charles Sumner** in the Senate, wanted to remake southern society and protect Black rights. Congress passed the **Civil Rights Act of 1866** over Johnson's veto. Then, to put those rights beyond the reach of future majorities, it wrote the **Fourteenth Amendment** (ratified 1868). The amendment made everyone born in the U.S. a **citizen** and barred states from denying anyone **"due process"** or **"equal protection of the laws."** It later became the foundation of the twentieth-century civil rights revolution.
+
+When southern states refused to ratify it, Congress passed the **Reconstruction Acts of 1867**. These acts divided the former Confederacy (except Tennessee, already readmitted) into **five military districts**. To be readmitted, a state had to write a new constitution guaranteeing **Black male suffrage** and ratify the Fourteenth Amendment.
+
+Congress also passed the **Tenure of Office Act**, which barred the president from removing certain officials without Senate approval. Johnson fired Secretary of War Edwin Stanton anyway, and in 1868 the House **impeached** him. The Senate fell **one vote** short of removing him. Johnson finished his term with little power left.
+
+**Ulysses S. Grant** won the presidency in 1868. The **Fifteenth Amendment** (1870) barred denying the vote on account of **"race, color, or previous condition of servitude."** It did not mention sex, which angered woman suffrage leaders and split their movement.
+
+### Reconstruction governments in the South
+Southern Republican governments drew support from three groups:
+- freedmen, who voted in large numbers
+- **"carpetbaggers"**, northerners who moved South
+- **"scalawags"**, white southerners who joined the Republicans
+
+About 2,000 Black men held office. **Hiram Revels** of Mississippi became the **first African American U.S. senator** (1870). These governments created the South's first **public school systems** and rebuilt railroads, but they also ran up debt and suffered some corruption, which opponents exaggerated.
+
+Freedpeople built independent lives. They **reunited families**, legalized marriages, and founded **Black churches**, which became the center of community and political life. They also flocked to schools.
+
+### Violence and retreat
+The **Ku Klux Klan** (founded 1866) and similar groups used terror to keep Black men from voting. Congress answered with the **Enforcement Acts** and the **Ku Klux Klan Act** (1870–71), which let federal troops and courts crush the first Klan. But northern commitment faded for several reasons:
+- the **Panic of 1873** turned voters' attention to the economy
+- scandals in Grant's administration, including the **Crédit Mobilier** railroad bribery scheme and the **Whiskey Ring** tax fraud, discredited Republican rule
+- northern racism made voters weary of the "southern question"
+
+The Supreme Court also narrowed the new amendments. In the **Slaughterhouse Cases** (1873), the Court read the Fourteenth Amendment's protections narrowly. **U.S. v. Cruikshank** (1876) overturned convictions from the **Colfax Massacre** and left protection of Black citizens mostly to the states.
+
+## The end of Reconstruction: the Compromise of 1877
+The **election of 1876** between **Rutherford B. Hayes** (Republican) and **Samuel Tilden** (Democrat) hinged on disputed electoral votes from three southern states. In the informal **Compromise of 1877**, Democrats accepted Hayes as president, and Hayes **withdrew the last federal troops** from southern statehouses. Southern Democrats who called themselves **"Redeemers"** took over every southern state.
+
+!cec Northern fatigue, depression, violence, court rulings | Compromise of 1877 removes federal troops | "Redeemer" Democrats rule the South; Black rights erode
+
+## The "New South" and Jim Crow (1877–1900)
+Atlanta editor **Henry Grady** promoted a **"New South"** of factories, railroads, and diversified farming. Some industry did grow: **textile mills**, **Birmingham steel**, and **tobacco** (James B. Duke's American Tobacco Company). But the South stayed poor and mostly agricultural, and northern capital often owned its industry.
+
+### The farm trap
+Without land, most freedpeople, and many poor whites, became **sharecroppers**. They farmed a landowner's land in exchange for a share of the crop, often half. Others were **tenant farmers** who rented land. Under the **crop-lien system**, local merchants supplied seed and food on credit, secured by a lien on the coming crop. High interest and low cotton prices kept families in **permanent debt**.
+
+### Jim Crow and disfranchisement
+By the 1890s southern states built a system of legal segregation known as **Jim Crow**. To get around the Fifteenth Amendment, they used:
+- **poll taxes**
+- **literacy tests**, applied unfairly by white registrars
+- **white primaries**
+- **grandfather clauses**, which excused a man from these tests if his grandfather could vote before 1867, so poor whites kept the vote
+
+The Supreme Court went along:
+- **Civil Rights Cases (1883):** struck down the Civil Rights Act of 1875, holding that the Fourteenth Amendment limits *state* action, not private businesses.
+- **Plessy v. Ferguson (1896):** upheld segregated railroad cars under the doctrine of **"separate but equal."** Justice **John Marshall Harlan** dissented alone: "Our Constitution is color-blind."
+
+**Lynching** peaked in the 1890s. Journalist **Ida B. Wells** exposed it in pamphlets such as *Southern Horrors* (1892). Some Black southerners left. The **Exodusters** moved to Kansas in 1879.
+
+### Two Black strategies
+**Booker T. Washington** founded the **Tuskegee Institute** (1881). In his **Atlanta Compromise** speech (1895), he urged Black southerners to accept segregation for now and focus on **vocational education** and economic self-help. **W.E.B. Du Bois** answered in *The Souls of Black Folk* (1903). He demanded **full civil and political rights now** and higher education for a **"Talented Tenth"** of leaders. (Du Bois's later work is in Unit 3.)
+
+Meanwhile, white southerners built the **"Lost Cause"** memory of the war. It cast the Confederacy as a noble fight for states' rights rather than slavery. Monuments and textbooks spread this view for generations.
+
+### One diplomatic footnote
+In 1867 Secretary of State **William Seward** bought **Alaska** from Russia for $7.2 million. Critics mocked it as "Seward's Folly."
+
+@mustknow
+- **13th Amendment** (1865) abolished slavery. **14th** (1868) gave citizenship plus **equal protection** and **due process**. **15th** (1870) barred race-based denial of the vote.
+- **Black Codes** (1865–66): southern laws restricting freedpeople's labor and movement. They provoked **Radical Reconstruction**.
+- **Reconstruction Acts of 1867**: five military districts; readmission required Black male suffrage and ratifying the 14th Amendment.
+- **Johnson's impeachment** (1868) came from firing Stanton in violation of the **Tenure of Office Act**. He was acquitted by one vote.
+- **Freedmen's Bureau**: aid, labor contracts, and especially **schools** (Howard, Fisk).
+- **Sharecropping + crop-lien** = a cycle of debt for Black and poor white farmers.
+- **Compromise of 1877**: Hayes becomes president and federal troops leave the South. Reconstruction ends.
+- **Plessy v. Ferguson** (1896) = "separate but equal." Harlan's dissent: "color-blind."
+- Disfranchisement tools: **poll tax, literacy test, grandfather clause, white primary**.
+- **Booker T. Washington** (accommodation, Tuskegee, Atlanta Compromise) vs. **W.E.B. Du Bois** (immediate rights, Talented Tenth).
+
+@timeline
+1863 | Lincoln's Ten Percent Plan
+1865 | Lincoln assassinated; Freedmen's Bureau created; 13th Amendment ratified; Black Codes begin | key
+1866 | Civil Rights Act passed over Johnson's veto; Ku Klux Klan founded
+1867 | Reconstruction Acts (military districts); Tenure of Office Act; Alaska purchased | key
+1868 | Johnson impeached and acquitted; 14th Amendment ratified; Grant elected | key
+1870 | 15th Amendment; Hiram Revels first Black U.S. senator | key
+1870–71 | Enforcement Acts and Ku Klux Klan Act
+1873 | Panic of 1873; Slaughterhouse Cases; Colfax Massacre
+1876 | Disputed Hayes–Tilden election; U.S. v. Cruikshank
+1877 | Compromise of 1877: troops withdrawn, Reconstruction ends | key
+1879 | Exoduster migration to Kansas
+1881 | Booker T. Washington opens Tuskegee Institute
+1883 | Civil Rights Cases strike down Civil Rights Act of 1875
+1890 | Mississippi constitution adds poll tax and literacy test
+1892 | Ida B. Wells publishes *Southern Horrors*
+1895 | Washington's Atlanta Compromise speech
+1896 | Plessy v. Ferguson: "separate but equal" | key
+
+@cards
+Thirteenth Amendment (1865) :: Abolished slavery and involuntary servitude, except as punishment for a crime.
+Fourteenth Amendment (1868) :: Citizenship for all persons born in the U.S.; states may not deny "due process" or "equal protection of the laws." The basis of later civil rights rulings.
+Fifteenth Amendment (1870) :: The right to vote cannot be denied because of "race, color, or previous condition of servitude." It left out women.
+Ten Percent Plan vs. Wade-Davis Bill :: Lincoln: a state is restored once 10% of 1860 voters swear loyalty. Congress (Wade-Davis): 50% plus an ironclad oath. Lincoln pocket-vetoed it.
+Freedmen's Bureau (1865) :: Federal agency that gave freedpeople food and medical care and supervised labor contracts. Its biggest legacy was schools and colleges (Howard, Fisk).
+Black Codes :: Laws passed by southern states in 1865–66 restricting freedpeople's labor, movement, and property rights. They sparked Radical Reconstruction.
+Radical Republicans :: Congressional faction (Thaddeus Stevens, Charles Sumner) that pushed for Black civil and voting rights and tough terms for the South.
+Reconstruction Acts of 1867 :: Split the South into five military districts. Readmission required new constitutions with Black male suffrage and ratification of the 14th Amendment.
+Impeachment of Andrew Johnson (1868) :: The House impeached him for firing Secretary of War Stanton in violation of the Tenure of Office Act. The Senate acquitted by one vote.
+Carpetbaggers / Scalawags :: Carpetbaggers were northerners who moved South during Reconstruction. Scalawags were white southerners who supported the Republicans.
+Sharecropping :: Landless farmers worked a landowner's land in exchange for a share of the crop. It was the dominant labor system for freedpeople.
+Crop-lien system :: Merchants advanced seed and supplies on credit, secured by the future crop. High interest kept farmers in endless debt.
+Enforcement Acts / Ku Klux Klan Act (1870–71) :: Federal laws that let the government use courts and troops against Klan terror aimed at Black voters.
+Compromise of 1877 :: Settled the disputed Hayes–Tilden election. Hayes became president and withdrew the last federal troops from the South, ending Reconstruction.
+Redeemers :: Southern white Democrats who took back state governments from Republicans in the 1870s and rolled back Reconstruction.
+New South :: Henry Grady's vision of an industrialized, diversified southern economy (textiles, steel, tobacco). Only partly achieved.
+Jim Crow disfranchisement tools :: Poll taxes, literacy tests, white primaries, and grandfather clauses, used to strip Black men of the vote despite the 15th Amendment.
+Plessy v. Ferguson (1896) :: Supreme Court upheld segregated railroad cars under "separate but equal." Justice Harlan dissented: "Our Constitution is color-blind."
+Atlanta Compromise (1895) :: Booker T. Washington's speech urging Black southerners to accept segregation for now and pursue vocational education and economic progress.
+Ida B. Wells :: Black journalist who led the crusade against lynching (*Southern Horrors*, 1892).
+Exodusters (1879) :: Black southerners who migrated to Kansas to escape the post-Reconstruction South.
+
+@questions
+Q pol e
+Which constitutional amendment established that all persons born in the United States are citizens and guaranteed them "equal protection of the laws"?
++ The Fourteenth Amendment || Ratified in 1868, the Fourteenth Amendment defined national citizenship and barred states from denying due process or equal protection.
+- The Thirteenth Amendment || The Thirteenth Amendment (1865) abolished slavery but did not define citizenship.
+- The Fifteenth Amendment || The Fifteenth Amendment (1870) dealt with voting rights, not citizenship.
+- The Sixteenth Amendment || The Sixteenth Amendment (1913) authorized a federal income tax.
+- The Nineteenth Amendment || The Nineteenth Amendment (1920) guaranteed women's suffrage.
+
+Q pol e
+The Fifteenth Amendment (1870) prohibited states from denying the right to vote on the basis of
++ race, color, or previous condition of servitude || This is the amendment's exact wording. It aimed to protect Black men's suffrage.
+- sex || Sex was deliberately left out, which angered woman suffrage leaders. Women won the vote only with the Nineteenth Amendment in 1920.
+- failure to pay a poll tax || Poll taxes in federal elections were banned only by the Twenty-fourth Amendment (1964).
+- age, for citizens 18 or older || The voting age was lowered to 18 by the Twenty-sixth Amendment (1971).
+- literacy || The Fifteenth Amendment said nothing about literacy, which is why southern states could later use literacy tests.
+
+Q pol m
+Congress passed the Reconstruction Acts of 1867 mainly in response to which of the following?
++ Southern states' passage of Black Codes and their refusal to ratify the Fourteenth Amendment || The Black Codes, the 1866 riots, and southern rejection of the Fourteenth Amendment convinced Congress to impose military reconstruction.
+- The assassination of Abraham Lincoln || Lincoln's death in 1865 brought Johnson to power, but the 1867 acts responded to what southern governments did under Johnson's lenient plan.
+- The disputed presidential election of 1876 || That election came almost a decade later and led to the end of Reconstruction, not its start.
+- A Supreme Court ruling that the Thirteenth Amendment was unconstitutional || No such ruling occurred. The Thirteenth Amendment was never struck down.
+- A wave of Black migration to Kansas || The Exoduster migration happened in 1879, after Reconstruction ended.
+
+Q pol m
+The House of Representatives impeached President Andrew Johnson in 1868 chiefly because he had
++ removed Secretary of War Edwin Stanton in apparent violation of the Tenure of Office Act || The formal charges centered on Stanton's dismissal, though the real conflict was over Johnson's obstruction of Congressional Reconstruction.
+- accepted bribes in the Crédit Mobilier scandal || Crédit Mobilier involved congressmen and Grant-era officials, not Johnson's impeachment.
+- refused to enforce the Fifteenth Amendment || The Fifteenth Amendment was not ratified until 1870, after Johnson left office.
+- ordered federal troops out of the South || Troops were withdrawn in 1877 under Hayes, not by Johnson.
+- purchased Alaska without congressional approval || The Senate approved the Alaska treaty, and it was not a ground for impeachment.
+
+Q pol m
+Which of the following was a direct result of the Compromise of 1877?
++ Federal troops were withdrawn from the remaining Reconstruction governments in the South. || In return for Democrats accepting Hayes's election, the last federal troops left southern statehouses, ending Reconstruction.
+- The Fifteenth Amendment was ratified. || The Fifteenth Amendment was ratified in 1870.
+- Southern states were divided into five military districts. || Military districts were created by the Reconstruction Acts of 1867, the start of Radical Reconstruction rather than its end.
+- Samuel Tilden became president. || Tilden won the popular vote but lost the presidency to Hayes under the compromise.
+- The Freedmen's Bureau was created. || The Freedmen's Bureau was created in 1865.
+
+Q pol h
+Which of the following occurred FIRST?
++ Southern legislatures enacted Black Codes. || The Black Codes were passed in 1865–1866 under Presidential Reconstruction, before every other event listed.
+- Andrew Johnson was impeached by the House. || Johnson's impeachment came in 1868.
+- The Fifteenth Amendment was ratified. || The Fifteenth Amendment was ratified in 1870.
+- Hiram Revels took his seat in the U.S. Senate. || Revels was seated in 1870.
+- Rutherford B. Hayes became president. || Hayes took office in 1877.
+
+Q soc e
+Immediately after emancipation, which of the following was a top priority for many freedpeople?
++ Reuniting families that had been separated by slavery || Freedpeople traveled widely and placed newspaper ads searching for relatives sold away. Family reunification was a defining early goal.
+- Moving to the Great Plains as cattle ranchers || A few moved West, but ranching was not a widespread priority.
+- Joining the Democratic Party || Freedmen overwhelmingly supported the Republican Party, the party of Lincoln and Reconstruction.
+- Returning to work for their former owners for wages under the same conditions as slavery || Freedpeople resisted gang labor and conditions resembling slavery. This is why sharecropping emerged as a compromise.
+- Emigrating to Africa || Some emigration schemes existed, but very few freedpeople chose to leave.
+
+Q soc m
+The most lasting achievement of the Freedmen's Bureau was in the field of
++ education || With northern aid societies, the Bureau set up thousands of schools and helped found Black colleges such as Howard and Fisk.
+- land redistribution || Most confiscated land was returned to former owners after Johnson's pardons, so redistribution largely failed.
+- voting rights enforcement || Voting rights were enforced, briefly, by the army and the Enforcement Acts, not mainly by the Bureau.
+- railroad construction || The Bureau did not build railroads.
+- immigration control || Immigration had nothing to do with the Bureau's mission.
+
+Q soc m
+The Black Codes passed by southern states in 1865–1866 were designed primarily to
++ restrict the freedom of formerly enslaved people and keep them as a controlled labor force || Vagrancy laws, mandatory labor contracts, and limits on land ownership kept freedpeople working on plantations under white control.
+- grant freedpeople limited voting rights || The Black Codes did not grant suffrage. Southern governments under Johnson refused Black voting.
+- provide public schools for Black children || The first southern public school systems came from Reconstruction governments, not the Black Codes.
+- implement the provisions of the Fourteenth Amendment || The codes contradicted equal protection. Their passage helped prompt the amendment.
+- redistribute plantation land to freedpeople || The codes protected white landowners' interests rather than redistributing land.
+
+Q pol m
+Thaddeus Stevens and Charles Sumner are best known as leaders of which group?
++ Radical Republicans in Congress who pushed for Black civil rights and strict terms for the South || Stevens (House) and Sumner (Senate) led the Radicals who took control of Reconstruction in 1867.
+- Redeemer Democrats who ended Reconstruction || Redeemers were southern Democrats, opponents of the Radicals.
+- Liberal Republicans who opposed Grant in 1872 || The Liberal Republicans of 1872 (Horace Greeley) wanted to end Reconstruction. Sumner did briefly side with them in 1872, but neither man is known as their leader.
+- Populists who demanded free silver || Populism arose in the 1890s, after both men had died.
+- Copperheads who opposed the Civil War || Copperheads were antiwar Democrats. Stevens and Sumner were firm Unionists.
+
+Q pol e
+The Supreme Court's decision in Plessy v. Ferguson (1896) is significant because it
++ upheld state-mandated racial segregation under the "separate but equal" doctrine || Plessy approved segregated railroad cars, giving constitutional cover to Jim Crow for nearly 60 years.
+- outlawed segregation in public schools || Segregated schools were struck down in Brown v. Board of Education (1954), which overturned Plessy's reasoning.
+- declared that Black Americans could not be citizens || That was Dred Scott v. Sandford (1857), which the Fourteenth Amendment overturned.
+- struck down poll taxes in federal elections || Poll taxes in federal elections ended with the Twenty-fourth Amendment (1964).
+- established the right of the Court to review state laws || Judicial review dates to Marbury v. Madison (1803).
+
+Q pol h
+> "Our Constitution is color-blind, and neither knows nor tolerates classes among citizens."
+The statement above comes from
++ Justice John Marshall Harlan's dissent in Plessy v. Ferguson || Harlan was the lone dissenter in Plessy. He argued that segregation violated the Fourteenth Amendment.
+- the majority opinion in Plessy v. Ferguson || The majority upheld segregation, the opposite of this statement.
+- Booker T. Washington's Atlanta Compromise speech || Washington's speech accepted social segregation for the time being. It did not attack it on constitutional grounds.
+- the majority opinion in the Civil Rights Cases || The majority in 1883 struck down the Civil Rights Act of 1875. (Harlan dissented there too, but this line is from Plessy.)
+- the text of the Fifteenth Amendment || The Fifteenth Amendment concerns voting and does not contain this language.
+
+Q soc m
+In his 1895 Atlanta Compromise speech, Booker T. Washington urged Black Americans to
++ focus on vocational training and economic progress while temporarily accepting segregation || Washington argued that economic self-help would earn respect and rights over time. Critics saw this as accommodation to Jim Crow.
+- demand immediate social and political equality through protest || This was Du Bois's position, not Washington's.
+- emigrate to Africa to escape discrimination || Back-to-Africa ideas are associated with Marcus Garvey in the 1920s.
+- form a separate political party to contest southern elections || Washington avoided direct political confrontation.
+- support the Populist Party's alliance of Black and white farmers || Washington did not tie himself to the Populists.
+
+Q cul m
+W.E.B. Du Bois criticized Booker T. Washington chiefly because Du Bois believed that African Americans should
++ demand full civil and political rights immediately and develop a college-educated "Talented Tenth" || In *The Souls of Black Folk* (1903), Du Bois rejected accommodation and called for higher education and immediate equal rights.
+- concentrate on industrial and agricultural training || That was Washington's program at Tuskegee.
+- avoid politics until they had achieved economic independence || This summarizes Washington's gradualism, which Du Bois opposed.
+- move to the West to claim homesteads || Du Bois did not promote western migration.
+- separate completely from white society and return to Africa || Separatism is associated with Marcus Garvey, whom Du Bois opposed.
+
+Q soc e
+Ida B. Wells is best known for her
++ journalism exposing and campaigning against lynching || Wells documented lynchings in works such as *Southern Horrors* (1892) and fought for federal anti-lynching action.
+- founding of Tuskegee Institute || Tuskegee was founded by Booker T. Washington.
+- service as the first African American U.S. senator || That was Hiram Revels (1870).
+- leadership of the Exoduster migration to Kansas || The Exodusters are associated with Benjamin "Pap" Singleton.
+- novel *Uncle Tom's Cabin* || Harriet Beecher Stowe wrote *Uncle Tom's Cabin* (1852).
+
+Q soc m
+Southern "grandfather clauses" of the 1890s were designed to
++ exempt white men from literacy tests and poll taxes if their ancestors could vote before 1867 || Since Black men could not vote before 1867, these clauses disfranchised Black voters while protecting poor whites' votes.
+- guarantee voting rights to elderly freedmen || They did the opposite. They shielded white voters, not freedmen.
+- let grandsons of Confederate veterans skip military service || The clauses concerned voting, not military service.
+- give land to the descendants of formerly enslaved people || No such land policy existed.
+- require voters to have lived in the state for three generations || The clauses exempted voters from tests. They did not set residency requirements.
+
+Q eco m
+Under the crop-lien system that spread across the postwar South,
++ merchants supplied seed and goods on credit in exchange for a claim on the farmer's future crop || High interest and falling cotton prices meant many farmers never got out of debt.
+- the federal government lent farmers money at low interest || Federal farm credit programs came much later (Federal Farm Loan Act 1916, New Deal).
+- farmers pooled crops in cooperatives to bypass middlemen || Cooperatives were a Farmers' Alliance remedy against the crop-lien system, not the system itself.
+- landowners paid farm workers fixed daily wages || Wage labor was not the crop-lien arrangement. Credit secured by the crop was.
+- railroads guaranteed minimum prices for cotton || Railroads set shipping rates. They did not guarantee crop prices.
+
+Q eco m
+Henry Grady's idea of a "New South" called for the South to
++ industrialize and diversify its economy by attracting northern investment || Grady, an Atlanta editor, promoted textile mills, railroads, and industry alongside reconciliation with the North.
+- restore a plantation economy based on slave labor || Slavery was abolished, and Grady looked forward rather than back.
+- secede again from the Union || Grady preached sectional reconciliation, not secession.
+- redistribute land to freedpeople || Grady did not advocate land redistribution.
+- rely entirely on cotton exports to Britain || Dependence on cotton was the problem the New South idea was meant to fix.
+
+Q eco m
+> The following terms are typical of a contract signed in Georgia in 1867: The laborer agrees to cultivate the land and furnish his own labor. The owner furnishes land, a mule, tools, and seed. At harvest the owner receives one-half of the crop, and from the laborer's half are deducted all advances of food and supplies.
+The arrangement described is best identified as
++ sharecropping || The laborer works the owner's land and supplies and is paid with a share of the crop. That is the defining feature of sharecropping.
+- the encomienda system || Encomienda was a Spanish colonial labor system.
+- indentured servitude || Indentured servants worked a fixed term to repay passage. They were not paid a crop share.
+- wage labor || Wage laborers receive fixed cash pay, not a share of the harvest.
+- homesteading || Homesteaders got title to public land by living on and improving it.
+
+Q pol h
+Supreme Court decisions such as the Slaughterhouse Cases (1873) and United States v. Cruikshank (1876) affected Reconstruction by
++ narrowing the protections of the Fourteenth Amendment and leaving the protection of Black citizens largely to the states || These rulings read federal protections narrowly. In practice, that let southern states and private violence undermine Black rights.
+- requiring the federal government to enforce desegregation of public schools || Court-ordered school desegregation began with Brown (1954).
+- expanding federal power to prosecute private acts of violence || Cruikshank did the reverse. It overturned federal convictions from the Colfax Massacre.
+- declaring the Reconstruction Acts unconstitutional || Neither case struck down the Reconstruction Acts.
+- guaranteeing land to freedpeople as compensation for slavery || No Supreme Court decision required land grants.
+
+Q pol m
+The Crédit Mobilier and Whiskey Ring scandals are associated with the presidency of
++ Ulysses S. Grant || Both scandals tarnished Grant's administration (1869–1877) and weakened northern support for Republican Reconstruction.
+- Andrew Johnson || Johnson's presidency was defined by his clashes with Congress, not these scandals.
+- Rutherford B. Hayes || Hayes came to office in 1877 promising reform after the Grant-era scandals.
+- Grover Cleveland || Cleveland was known for honesty and vetoes in the 1880s–1890s.
+- Abraham Lincoln || Lincoln died in 1865. These scandals came to light in the 1870s.
+
+Q soc m
+The Enforcement Acts and the Ku Klux Klan Act of 1870–1871 were passed in order to
++ protect Black voters and officeholders from terrorist violence || These laws let federal courts and troops prosecute the Klan, which briefly broke the first Klan.
+- prohibit Black men from serving on juries || The acts aimed to protect, not restrict, Black civil rights.
+- end military occupation of the South || They expanded federal enforcement rather than ending it.
+- establish segregated public facilities || Segregation laws came from southern states later, not from these federal acts.
+- grant amnesty to former Confederate officers || Amnesty came through presidential pardons and the Amnesty Act of 1872, not these acts.
+
+Q soc e
+Hiram Revels is historically significant as the
++ first African American to serve in the U.S. Senate || Revels was elected from Mississippi and seated in 1870.
+- founder of the NAACP || The NAACP was founded in 1909 by a multiracial group including Du Bois.
+- author of *Up From Slavery* || *Up From Slavery* is Booker T. Washington's autobiography.
+- head of the Freedmen's Bureau || General Oliver O. Howard headed the Freedmen's Bureau.
+- Supreme Court justice who dissented in Plessy || The Plessy dissenter was John Marshall Harlan.
+
+Q pol m
+Lincoln's Ten Percent Plan differed from the Wade-Davis Bill in that Lincoln's plan
++ allowed a state to be restored once 10 percent of its 1860 voters took a loyalty oath, while Wade-Davis required a majority || Lincoln favored a quick, lenient restoration. Congress's Wade-Davis Bill demanded 50 percent and an ironclad oath, and Lincoln pocket-vetoed it.
+- required Black male suffrage, while Wade-Davis did not || Neither plan required Black suffrage. That came with the 1867 Reconstruction Acts.
+- placed the South under military rule, while Wade-Davis did not || Military districts came in 1867 under Congress, not Lincoln's plan.
+- confiscated all plantations, while Wade-Davis protected property || Lincoln's plan offered pardons and protected most property except enslaved people.
+- was passed by Congress over a presidential veto || The Ten Percent Plan was an executive proclamation, not a law passed over a veto.
+
+Q dip e
+In 1867 the United States purchased Alaska from
++ Russia || Secretary of State William Seward bought Alaska from Russia for $7.2 million, which critics mocked as "Seward's Folly."
+- Great Britain || Britain controlled Canada, not Alaska.
+- Spain || Spain gave up Florida (1819) and later Puerto Rico and the Philippines (1898), not Alaska.
+- France || France sold Louisiana in 1803.
+- Mexico || Mexico ceded the Southwest in 1848. It never held Alaska.
+
+Q soc h
+The "Exodusters" of 1879 were
++ African Americans who left the South for Kansas to escape violence and economic oppression after Reconstruction || Thousands left after the troops were withdrawn, hoping for land and safety on the plains.
+- white farmers who abandoned the Dust Bowl for California || That describes the "Okies" of the 1930s.
+- former Confederates who emigrated to Brazil || Some Confederates did go to Brazil (the Confederados), but they were not called Exodusters.
+- Mormon settlers who moved from Illinois to Utah || The Mormon migration took place in the 1840s.
+- Chinese laborers expelled from California || Chinese exclusion is a separate story (1882 act). They were not called Exodusters.
+
+Q cul e
+Booker T. Washington founded which institution in 1881 to provide industrial and agricultural education?
++ Tuskegee Institute || Washington built Tuskegee in Alabama into a model of vocational education.
+- Howard University || Howard was founded in 1867 with Freedmen's Bureau support and offered a liberal arts curriculum.
+- Hull House || Hull House was Jane Addams's Chicago settlement house (1889).
+- The NAACP || The NAACP is a civil rights organization founded in 1909.
+- Harvard University || Harvard is a colonial-era university (1636). Du Bois earned his PhD there.
+
+Q cul h
+The "Lost Cause" interpretation of the Civil War, widely promoted in the South after Reconstruction, held that
++ the Confederacy had fought nobly for states' rights and honor rather than to preserve slavery || This myth shaped monuments, textbooks, and white southern memory, and it downplayed slavery's central role.
+- the war had been lost because of Black soldiers' desertion || That was not the Lost Cause argument. Black Union soldiers fought with distinction.
+- Reconstruction was a success that should be extended || Lost Cause writers portrayed Reconstruction as a disastrous era of corruption.
+- the North had been right to abolish slavery || Lost Cause advocates minimized slavery rather than celebrating abolition.
+- the South should industrialize to compete with the North || That is the New South argument, a separate idea.
+
+Q pol m
+The southern Democrats who regained control of state governments in the 1870s and ended Reconstruction called themselves
++ Redeemers || They claimed to "redeem" the South from Republican rule, then cut spending on schools and began rolling back Black rights.
+- Mugwumps || Mugwumps were reform-minded Republicans who backed Democrat Grover Cleveland in 1884.
+- Copperheads || Copperheads were northern Democrats who opposed the Civil War.
+- Half-Breeds || Half-Breeds were a moderate Republican faction of the 1870s–80s that favored civil service reform.
+- Know-Nothings || The Know-Nothings were a nativist party of the 1850s.
+
+Q soc e
+During Reconstruction, white southerners who supported the Republican Party were called
++ scalawags || Opponents used the insult "scalawag" for white southerners who cooperated with Republican governments.
+- carpetbaggers || Carpetbaggers were northerners who moved South, not native southerners.
+- doughfaces || Doughfaces were pre–Civil War northerners with southern sympathies.
+- Redeemers || Redeemers were the Democrats who overthrew Republican rule.
+- Exodusters || Exodusters were Black migrants to Kansas.
+
+Q pol m
+In 1867 a former Confederate state that wanted its representatives seated in Congress first had to write a new constitution guaranteeing Black male suffrage and ratify the Fourteenth Amendment. This requirement came from
++ the Reconstruction Acts passed by Congress || The 1867 Reconstruction Acts set these conditions and placed the South under military supervision until they were met.
+- Lincoln's Ten Percent Plan || Lincoln's plan required only a 10 percent loyalty oath and made no mention of Black suffrage.
+- Andrew Johnson's amnesty proclamation || Johnson's plan readmitted states with few conditions.
+- the Compromise of 1877 || The Compromise ended Reconstruction. It set no readmission conditions.
+- the Supreme Court's decision in Plessy v. Ferguson || Plessy (1896) concerned segregation, not readmission.
+
+Q pol h
+In the Civil Rights Cases (1883), the Supreme Court ruled that
++ the Fourteenth Amendment barred discrimination by states but not by private individuals and businesses || This "state action" reasoning struck down the Civil Rights Act of 1875's ban on discrimination in inns, theaters, and railroads.
+- segregated public schools were unconstitutional || That was Brown v. Board of Education (1954).
+- the Fifteenth Amendment guaranteed voting rights to women || The Court never read the Fifteenth Amendment to cover sex.
+- Congress could ban racial discrimination in hotels under its commerce power || That reasoning was upheld only in 1964 (Heart of Atlanta Motel v. U.S.).
+- Black Codes were constitutional || The Black Codes had been superseded by the Civil Rights Act of 1866 and the Fourteenth Amendment. They were not the issue in 1883.
+
+Q cul m
+During and after Reconstruction, independent Black churches became important primarily because they
++ served as centers of community life, education, and political organizing || Free of white control, Black churches hosted schools and meetings and produced many Reconstruction-era leaders.
+- were funded and controlled by the Freedmen's Bureau || The churches were independent institutions, not Bureau agencies.
+- opposed education for freedpeople || Churches were among the strongest supporters of Black education.
+- encouraged members to join the Democratic Party || Black voters and leaders overwhelmingly backed the Republicans.
+- were required by federal law in every southern county || No federal law required churches. Establishing religion would violate the First Amendment.
+
+Q soc h
+Freedpeople's hopes of receiving "forty acres and a mule" were largely disappointed because
++ President Johnson's pardons restored most confiscated land to its former owners || Sherman's Field Order No. 15 had set aside coastal land, but Johnson reversed it and returned land to pardoned planters.
+- the Fifteenth Amendment prohibited land grants to freedpeople || The Fifteenth Amendment concerns voting and says nothing about land.
+- most freedpeople preferred to move to northern cities || The Great Migration north came decades later. Most freedpeople wanted land in the South.
+- the Homestead Act of 1862 excluded all southern land || The Southern Homestead Act of 1866 opened some southern public land, but it was poor land and the program largely failed.
+- Radical Republicans opposed any land redistribution || Thaddeus Stevens actually proposed confiscating planter land for freedpeople. Moderates and Johnson blocked it.

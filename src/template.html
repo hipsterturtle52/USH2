@@ -303,17 +303,17 @@ function readiness(){
 }
 function readinessCard(){
   const {a, b, ready} = readiness();
-  const shown = [a, b].filter(x => x != null);
-  const score = shown.length ? Math.min(...shown) : 0;
+  const taken = [a, b].filter(x => x != null).length;
+  const score = Math.min(a || 0, b || 0); // the lower exam is what gates booking (untaken = 0)
   const col = ready ? 'var(--good)' : 'var(--accent)';
-  const deg = Math.round((shown.length === 2 ? score : shown.length ? score / 2 : 0) * 360);
+  const deg = Math.round(Math.min(1, score / 0.75) * 360);
   const status = ready ? '<span class="pill good">Ready to book</span>' : '<span class="pill warn">Not ready yet</span>';
   const line = x => x == null ? '<span class="muted">not taken</span>' : `<b>${pct(x)}</b> ${x >= 0.75 ? '<span class="pill good">≥75%</span>' : '<span class="pill bad">below 75%</span>'}`;
   return `<div class="card"><div class="meter">
-    <div class="dial" style="background:conic-gradient(${col} ${deg}deg, var(--surface2) 0)"><span>${shown.length ? pct(score) : '—'}<small>${shown.length === 2 ? 'lowest' : 'readiness'}</small></span></div>
+    <div class="dial" style="background:conic-gradient(${col} ${deg}deg, var(--surface2) 0)"><span>${taken ? pct(score) : '—'}<small>lower exam</small></span></div>
     <div><h3 style="margin:0 0 6px">Readiness ${status}</h3>
     <div class="small">Practice Exam 1 (best): ${line(a)}<br>Practice Exam 2 (best): ${line(b)}</div>
-    <div class="small muted" style="margin-top:6px">“Ready to book” turns on only when <b>both</b> practice exams are at 75% or higher.</div></div>
+    <div class="small muted" style="margin-top:6px">“Ready to book” turns on only when <b>both</b> practice exams are at 75% or higher. The dial fills as your <b>lower</b> score approaches 75%.</div></div>
   </div></div>`;
 }
 function nextStep(){
