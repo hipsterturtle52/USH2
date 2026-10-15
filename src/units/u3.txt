@@ -208,7 +208,7 @@ The presidential election of 1896 is considered a turning point because it
 - established free silver as national policy || McKinley's victory led to the Gold Standard Act (1900).
 - was the first election in which women voted nationally || Women voted nationally first in 1920.
 
-Q pol m
+Q pol e
 The Seventeenth Amendment (1913) changed the federal government by
 + requiring the direct popular election of U.S. senators || Before 1913, state legislatures chose senators, a system Progressives and Populists saw as corrupt.
 - authorizing a federal income tax || That was the Sixteenth Amendment.
@@ -424,7 +424,7 @@ Opponents of annexing the Philippines, including members of the Anti-Imperialist
 - the navy needed more coaling stations in Asia || That was an imperialist argument.
 - Spain should keep the Philippines || They favored Philippine independence, not Spanish rule.
 
-Q cul m
+Q cul e
 The philosopher John Dewey is best known for promoting
 + progressive education emphasizing learning by doing and preparation for democratic citizenship || Dewey's pragmatism shaped schools that stressed experience, problem-solving, and social participation.
 - Social Darwinism and laissez-faire economics || Dewey rejected Social Darwinism.

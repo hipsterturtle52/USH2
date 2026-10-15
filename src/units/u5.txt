@@ -294,7 +294,7 @@ Supporters of Keynesian economics would most likely argue that during a depressi
 - rely solely on private charity for relief || Keynes called for an active government role.
 - raise tariffs to protect domestic industry || Keynesian demand management is not built on tariffs, and high tariffs worsened the Depression.
 
-Q pol m
+Q pol e
 The Securities and Exchange Commission, created in 1934, was established to
 + regulate the stock market and protect investors from fraud || The SEC required disclosure and policed manipulation, responding to abuses before the 1929 crash.
 - insure savings accounts || That is the FDIC.

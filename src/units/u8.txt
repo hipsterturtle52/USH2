@@ -384,7 +384,7 @@ The Freedom Rides of 1961 were organized to
 - protest the Vietnam War || The Freedom Rides were a civil rights campaign.
 - support the Montgomery Bus Boycott || The boycott ended in 1956.
 
-Q soc m
+Q soc e
 Title IX of the Education Amendments of 1972
 + prohibited sex discrimination in educational programs receiving federal funds || It dramatically expanded opportunities for women in college admissions and athletics.
 - guaranteed women the right to vote || That was the Nineteenth Amendment (1920).
@@ -392,7 +392,7 @@ Title IX of the Education Amendments of 1972
 - required equal pay for equal work || That was the Equal Pay Act (1963).
 - added the Equal Rights Amendment to the Constitution || The ERA was never ratified.
 
-Q soc m
+Q soc e
 The Stonewall riots of 1969 are significant because they
 + marked the start of the modern gay liberation movement || The resistance to a police raid on a New York bar inspired activism and the first Pride marches.
 - ended the Vietnam War || Stonewall was unrelated to the war's end.

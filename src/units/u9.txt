@@ -1,0 +1,485 @@
+@title: From Watergate to Reagan
+@years: 1968–1989
+@period: late
+@weight: 9
+
+@lesson
+## The big picture
+After 1968 the liberal consensus of the New Deal and Great Society came apart. Several blows hit at once:
+- **Watergate** destroyed trust in the presidency.
+- **Stagflation**, high inflation plus high unemployment, ended the long postwar boom.
+- **Oil shocks** revealed U.S. dependence on foreign energy.
+- **Defeat in Vietnam** and the **Iranian hostage crisis** dented confidence abroad.
+
+Out of that frustration rose a **new conservative coalition** that elected **Ronald Reagan** in 1980. In foreign policy the period moved from **détente** (relaxing tensions with the USSR and China) to a renewed Cold War under Reagan, and then to the dramatic thaw with **Gorbachev** that set up the Cold War's end.
+
+## 1. Nixon at home: more liberal than you'd think
+Richard Nixon (1969–74) courted conservatives with a **"Southern strategy"** aimed at white southern voters, talk of the **"silent majority,"** and **"New Federalism,"** which returned money to the states through **revenue sharing**. But he also signed major regulatory laws:
+- the **Environmental Protection Agency** (EPA, 1970)
+- the **Clean Air Act** (1970)
+- the **Occupational Safety and Health Administration** (OSHA)
+- the **Endangered Species Act** (1973)
+
+He proposed a guaranteed income, the Family Assistance Plan, which did not pass. He also began **affirmative action** requirements for federal contractors (the Philadelphia Plan).
+
+**Economics:** Inflation from Vietnam spending plus slowing growth produced **stagflation**. In 1971 Nixon imposed temporary **wage and price controls** and **ended the dollar's convertibility to gold**. That effectively ended the **Bretton Woods** system of fixed exchange rates.
+
+## 2. Nixon abroad: détente
+With national security adviser (later Secretary of State) **Henry Kissinger**, Nixon practiced **realpolitik**: national interest over ideology. He exploited the **Sino-Soviet split**:
+- **Nixon's visit to China** (February 1972) opened relations with the communist People's Republic, a stunning reversal by a lifelong anti-communist.
+- In Moscow (May 1972) he signed **SALT I**, the Strategic Arms Limitation Talks agreement, which froze the number of offensive missiles, and the **Anti-Ballistic Missile (ABM) Treaty**. This relaxation of tensions was called **détente**.
+
+When Egypt and Syria attacked Israel in the **Yom Kippur War** (1973), the U.S. airlifted aid to Israel. Arab members of **OPEC** responded with an **oil embargo** (1973–74). Oil prices **quadrupled**, gas lines formed, and the era of cheap energy ended.
+
+!cec Vietnam spending + rising global competition + OPEC oil shock (1973) | Stagflation: inflation and unemployment rise together | Keynesian tools look broken; voters open to deregulation, tax cuts, and conservative economics
+
+## 3. Watergate (1972–1974)
+In June **1972**, burglars connected to Nixon's reelection committee were caught breaking into **Democratic National Committee headquarters** at the **Watergate** complex. Nixon won a **landslide** over George McGovern that November. But *Washington Post* reporters **Bob Woodward and Carl Bernstein**, tipped by a secret source ("Deep Throat"), traced the burglary toward the White House. The crime was the **cover-up**: payments of hush money and obstruction of the FBI. The investigation unfolded in steps:
+- **1973:** A **Senate committee** (Sam Ervin) held televised hearings. Former counsel **John Dean** testified against Nixon. An aide revealed that Nixon had **secretly taped** Oval Office conversations.
+- **"Saturday Night Massacre"** (October 1973): Nixon ordered special prosecutor Archibald Cox fired. The attorney general and his deputy resigned rather than do it.
+- **Separately**, Vice President **Spiro Agnew** resigned over bribery and tax evasion. Under the **Twenty-fifth Amendment**, Nixon appointed **Gerald Ford** vice president.
+- **United States v. Nixon** (July 1974): the Supreme Court ruled unanimously that **executive privilege** did not shield the tapes. The "smoking gun" tape showed Nixon ordering the cover-up.
+- The House Judiciary Committee approved **articles of impeachment**.
+- On **August 9, 1974**, Nixon became the **only president to resign**.
+
+**Ford** became president without being elected to either office. A month later he **pardoned Nixon**, which probably cost him the 1976 election.
+
+**Aftermath:** Congress passed reforms:
+- **campaign finance** limits (1974)
+- a stronger **Freedom of Information Act**
+- the **Ethics in Government Act** (1978), which created independent counsels
+- the **Church Committee** (1975) exposed CIA and FBI abuses
+
+Public **trust in government fell** and never fully recovered.
+
+!cec Watergate break-in and cover-up | Hearings, tapes, U.S. v. Nixon | Nixon resigns (1974); new limits on executive power; deep public cynicism
+
+## 4. Ford and Carter: a time of limits
+**Gerald Ford** (1974–77) faced inflation (his "Whip Inflation Now" buttons were mocked) and the **fall of Saigon** (1975). He signed the **Helsinki Accords** (1975), which accepted Europe's postwar borders in exchange for Soviet human rights pledges.
+
+**Jimmy Carter** (1977–81), a born-again Baptist and Washington outsider from Georgia, made **human rights** the centerpiece of his foreign policy:
+- The **Panama Canal Treaties** (1977) agreed to return the canal to Panama by 1999.
+- The **Camp David Accords** (1978): Carter brokered peace between Egypt's **Anwar Sadat** and Israel's **Menachem Begin**, the first Arab–Israeli peace treaty (1979). It is his greatest achievement.
+- He established full **diplomatic relations with China** (1979).
+- After the **Soviet invasion of Afghanistan** (December 1979), he withdrew the SALT II treaty from the Senate, imposed a **grain embargo**, and **boycotted the 1980 Moscow Olympics**. Détente was dead.
+- **The Iranian hostage crisis:** the 1979 **Iranian Revolution** toppled the U.S.-backed Shah and set off a second **oil shock**. In November 1979 militants seized the **U.S. embassy in Tehran** and held **52 Americans hostage for 444 days**. A rescue mission failed in April 1980. The hostages were released minutes after Reagan's inauguration in January 1981.
+
+At home, inflation hit double digits. Carter's **"malaise" speech** (1979) blamed a national "crisis of confidence" and backfired. He created the Departments of **Energy** and **Education** and began **deregulation** (airlines, 1978). The **Three Mile Island** nuclear accident (1979) set back nuclear power. Fed chairman **Paul Volcker** (appointed 1979) raised **interest rates** sharply to crush inflation. That worked, at the cost of a severe recession in 1981–82.
+
+## 5. Society in the 1970s
+- **The "Me Decade"** (Tom Wolfe's phrase) and Christopher Lasch's *The Culture of Narcissism* (1979) described a turn inward toward self-fulfillment.
+- **Rust Belt and Sun Belt:** **Deindustrialization** hit the Northeast and Midwest as factories closed, while population and political power shifted to the **Sun Belt**.
+- **Tax revolt:** California's **Proposition 13** (1978) capped property taxes and inspired anti-tax movements nationwide.
+- **Affirmative action:** In **Regents of the University of California v. Bakke** (1978), the Court ruled that **racial quotas** in admissions were unconstitutional but that **race could be one factor**.
+- **Busing:** court-ordered busing provoked violent resistance in places like **Boston** (1974).
+- **Roe v. Wade** (1973) energized a **pro-life movement**. **Phyllis Schlafly's** campaign helped defeat the **ERA** (it died in 1982).
+- **Culture:** Alex Haley's *Roots* (TV miniseries, 1977) drew record audiences and sparked interest in family and ethnic heritage.
+
+### The New Right
+Several groups converged:
+- **Evangelical Christians**, organized in **Jerry Falwell's Moral Majority** (1979), opposed abortion, the ERA, gay rights, and the ban on school prayer.
+- **Neoconservatives**, former liberals who became hawkish on the Soviet Union and skeptical of the Great Society.
+- **Free-market economists** such as Milton Friedman.
+- Former Democrats, especially white southerners and blue-collar northerners known as **"Reagan Democrats"**, angry about taxes, crime, and cultural change.
+
+## 6. The Reagan Revolution (1981–1989)
+In 1980 **Ronald Reagan** asked voters, "Are you better off than you were four years ago?" and beat Carter decisively. "Government is not the solution to our problem; government is the problem," he declared.
+
+**Reaganomics** (**supply-side economics**) held that cutting taxes would spur investment and growth:
+- The **Economic Recovery Tax Act** (1981) cut income tax rates about 25% over three years.
+- He cut domestic spending and promoted **deregulation**.
+- When **air traffic controllers** (PATCO) struck illegally in 1981, Reagan **fired them**, a blow to organized labor.
+- After the 1981–82 recession, the economy boomed and inflation fell.
+- But big tax cuts plus a huge **military buildup** produced record **budget deficits**, and the **national debt roughly tripled**.
+- Income inequality widened. The 1987 stock market crash and the **savings and loan crisis** showed the risks of deregulation.
+
+Reagan appointed **Sandra Day O'Connor**, the **first woman on the Supreme Court** (1981). He survived an assassination attempt (1981) and won a 49-state landslide in **1984** over Walter Mondale, whose running mate **Geraldine Ferraro** was the first woman on a major-party ticket. The **Immigration Reform and Control Act** (1986) gave **amnesty** to about 3 million undocumented immigrants while penalizing employers who hired undocumented workers. The **AIDS** epidemic, first identified in 1981, devastated gay communities, and critics faulted the administration's slow response.
+
+### Reagan and the Cold War
+Reagan called the USSR an **"evil empire"** (1983). He began the largest peacetime **military buildup** and proposed the **Strategic Defense Initiative** (SDI, "Star Wars"), a space-based missile shield. The **Reagan Doctrine** aided **anti-communist insurgents**: the mujahideen in **Afghanistan** and the **Contras** in **Nicaragua**. U.S. forces invaded **Grenada** (1983). A suicide bombing killed **241 U.S. servicemen** in **Beirut** (1983).
+
+The **Iran-Contra affair** (revealed 1986) was the administration's major scandal. Officials secretly **sold arms to Iran**, hoping to free hostages in Lebanon, and **diverted the profits to the Contras**, defying a congressional ban (the **Boland Amendment**). National Security Council aide **Oliver North** and others were prosecuted. Reagan said he did not know of the diversion.
+
+Then came the thaw. **Mikhail Gorbachev** (Soviet leader from 1985) pursued reforms: **glasnost** (openness) and **perestroika** (restructuring). After summits in Geneva and Reykjavik, the two leaders signed the **INF Treaty** (1987), the first treaty to **eliminate an entire class of nuclear weapons** (intermediate-range missiles). In Berlin, Reagan challenged: **"Mr. Gorbachev, tear down this wall!"** (1987).
+
+!cec Stagflation, hostage crisis, cultural backlash, rise of the New Right | Reagan elected (1980): tax cuts, deregulation, military buildup | Conservative realignment; record deficits; Cold War pressure followed by a Reagan–Gorbachev thaw
+
+@mustknow
+- **Nixon**: Southern strategy and "silent majority," but also the **EPA**, Clean Air Act, OSHA; **wage-price controls**; ended **gold convertibility** (1971).
+- **Détente**: Nixon to **China** (1972), **SALT I** and the **ABM Treaty** (1972). Kissinger. Realpolitik.
+- **OPEC oil embargo** (1973) after the Yom Kippur War → **stagflation**.
+- **Watergate**: break-in (1972), cover-up, tapes, **U.S. v. Nixon** (1974, no absolute executive privilege), **resignation** (Aug. 1974); Ford **pardon**.
+- **Ford**: Helsinki Accords, fall of Saigon. **25th Amendment** made Ford VP after Agnew resigned.
+- **Carter**: human rights; **Camp David Accords** (1978); Panama Canal Treaties; China recognition; **Soviet invasion of Afghanistan** → Olympic boycott; **Iranian hostage crisis** (444 days); "malaise"; Volcker's high interest rates.
+- **Bakke** (1978): quotas out, race as one factor OK. **Proposition 13** tax revolt. **Moral Majority** (Falwell). ERA defeated (Schlafly).
+- **Reaganomics**: supply-side tax cuts (1981), deregulation, military buildup → **huge deficits**; **PATCO** firing.
+- **Reagan Cold War**: "evil empire," **SDI**, Reagan Doctrine (Contras, Afghanistan), **Iran-Contra** scandal.
+- **Gorbachev** (glasnost, perestroika) → **INF Treaty** (1987, first to eliminate a class of nuclear weapons). **O'Connor**, first woman justice.
+
+@timeline
+1969 | Nixon inaugurated; Apollo 11 moon landing
+1970 | EPA created; Clean Air Act; OSHA
+1971 | Wage-price controls; dollar taken off gold
+1972 | Nixon visits China; SALT I and ABM Treaty; Watergate break-in; Nixon reelected | key
+1973 | Yom Kippur War and OPEC oil embargo; Roe v. Wade; Agnew resigns; Saturday Night Massacre | key
+1974 | U.S. v. Nixon; Nixon resigns (Aug. 9); Ford pardons Nixon | key
+1975 | Helsinki Accords; fall of Saigon; Church Committee
+1977 | Carter inaugurated; Panama Canal Treaties; *Roots*
+1978 | Camp David Accords; Bakke decision; Proposition 13 | key
+1979 | Iranian Revolution; hostage crisis begins; Soviet invasion of Afghanistan; Three Mile Island; Moral Majority; Volcker at the Fed | key
+1980 | Moscow Olympics boycott; failed hostage rescue; Reagan elected | key
+1981 | Hostages released; Reagan tax cuts; PATCO strike; O'Connor joins the Court; AIDS identified
+1983 | "Evil empire" speech; SDI proposed; Beirut bombing; Grenada invasion
+1985 | Gorbachev takes power in the USSR
+1986 | Iran-Contra revealed; Immigration Reform and Control Act
+1987 | INF Treaty; "Tear down this wall"; stock market crash | key
+
+@cards
+Southern strategy :: Nixon-era Republican effort to win white southern voters alienated by Democratic civil rights policies.
+New Federalism :: Nixon's (and later Reagan's) effort to shift power and funds to the states, e.g., revenue sharing.
+EPA (1970) :: Environmental Protection Agency, created under Nixon to enforce environmental laws.
+Stagflation :: High inflation plus high unemployment and slow growth. Defined the 1970s economy.
+Nixon shock (1971) :: Nixon ended the dollar's convertibility to gold and imposed wage-price controls. Ended Bretton Woods fixed exchange rates.
+Détente :: Relaxation of Cold War tensions under Nixon and Kissinger: arms control and trade with the USSR.
+Nixon's China trip (1972) :: Opened relations with communist China, exploiting the Sino-Soviet split.
+SALT I / ABM Treaty (1972) :: First U.S.–Soviet nuclear arms limitation agreements.
+OPEC oil embargo (1973) :: Arab oil producers cut off oil to the U.S. after it aided Israel in the Yom Kippur War. Prices quadrupled.
+Watergate :: 1972 break-in at DNC headquarters and Nixon's cover-up. Led to his resignation in 1974.
+United States v. Nixon (1974) :: Unanimous Court: executive privilege is not absolute. Nixon had to release the tapes.
+Saturday Night Massacre (1973) :: Nixon ordered special prosecutor Cox fired. The attorney general and deputy resigned in protest.
+Twenty-fifth Amendment :: Presidential succession and disability. Filling a VP vacancy put Ford (and later Rockefeller) in office.
+Ford's pardon of Nixon (1974) :: A "full, free, and absolute" pardon. Widely unpopular and hurt Ford in 1976.
+Helsinki Accords (1975) :: Recognized postwar European borders in exchange for Soviet human rights commitments.
+Camp David Accords (1978) :: Carter brokered peace between Egypt (Sadat) and Israel (Begin).
+Panama Canal Treaties (1977) :: Agreed to transfer the canal to Panama by 1999.
+Iranian hostage crisis (1979–81) :: Militants held 52 Americans for 444 days. Doomed Carter's presidency.
+Soviet invasion of Afghanistan (1979) :: Ended détente. Carter withdrew SALT II, embargoed grain, and boycotted the 1980 Olympics.
+"Malaise" speech (1979) :: Carter blamed a national "crisis of confidence." Politically damaging.
+Bakke (1978) :: Racial quotas in admissions are unconstitutional, but race may be one factor (affirmative action).
+Proposition 13 (1978) :: California ballot measure capping property taxes. Launched a national tax revolt.
+Moral Majority (1979) :: Jerry Falwell's evangelical political organization. A key part of the New Right.
+Reaganomics / supply-side economics :: Cut taxes (esp. top rates) to spur investment and growth. Also deregulation and less domestic spending.
+PATCO strike (1981) :: Reagan fired over 11,000 striking air traffic controllers. A major defeat for organized labor.
+Strategic Defense Initiative (1983) :: Reagan's proposed space-based missile defense ("Star Wars").
+Iran-Contra affair :: Secret arms sales to Iran, with profits illegally diverted to the Nicaraguan Contras. Revealed in 1986.
+INF Treaty (1987) :: Reagan–Gorbachev treaty eliminating all intermediate-range nuclear missiles. The first to abolish a whole class.
+
+@questions
+Q pol e
+The Watergate scandal led to
++ the resignation of President Richard Nixon in August 1974 || Facing almost certain impeachment and conviction after the "smoking gun" tape was released, Nixon resigned.
+- the impeachment and removal of President Nixon by the Senate || The House Judiciary Committee approved articles, but Nixon resigned before a House vote or Senate trial.
+- the impeachment of President Ford || Ford was never impeached.
+- the defeat of Nixon in the 1972 election || Nixon won a landslide in 1972.
+- the passage of the Twenty-second Amendment || The Twenty-second Amendment (1951) concerns presidential terms.
+
+Q pol e
+In United States v. Nixon (1974), the Supreme Court ruled that
++ the president must turn over the White House tapes because executive privilege is not absolute || The unanimous decision led directly to Nixon's resignation.
+- the Watergate burglars were innocent || The burglars were convicted in criminal trials.
+- the president cannot be impeached while in office || The case was about the tapes, not impeachment.
+- Congress could not investigate the executive branch || Congress's investigation continued.
+- the Pentagon Papers could be published || That was New York Times Co. v. United States (1971).
+
+Q pol e
+Gerald Ford became president in 1974 without ever having been elected president or vice president because
++ Nixon appointed him vice president under the Twenty-fifth Amendment after Agnew resigned, and then Nixon himself resigned || The Twenty-fifth Amendment (1967) allowed filling a vice-presidential vacancy with congressional approval.
+- he won a special election called by Congress || There was no special election.
+- the Supreme Court appointed him || The Court has no such power.
+- he was Speaker of the House when Nixon resigned || Ford had been House minority leader before becoming VP.
+- Nixon died in office || Nixon resigned. He died in 1994.
+
+Q pol m
+Which of the following was enacted during Richard Nixon's presidency?
++ The creation of the Environmental Protection Agency || Nixon created the EPA in 1970 and signed the Clean Air Act and other regulatory laws.
+- The Civil Rights Act of 1964 || That was signed by Lyndon Johnson.
+- The Interstate Highway Act || That was signed by Eisenhower in 1956.
+- The Economic Recovery Tax Act || That was Reagan's 1981 tax cut.
+- The Immigration Reform and Control Act || That was signed by Reagan in 1986.
+
+Q pol m
+President Ford's pardon of Richard Nixon in September 1974
++ was widely unpopular and damaged Ford's chances in the 1976 election || Many Americans suspected a deal, and Ford lost narrowly to Jimmy Carter.
+- was required by the Supreme Court || The pardon was Ford's own decision.
+- led to Nixon's imprisonment || The pardon prevented prosecution.
+- was approved by a vote of Congress || Pardons do not require congressional approval.
+- ended the Vietnam War || The war ended separately, with the fall of Saigon in 1975.
+
+Q pol m
+Which of the following was a reform passed in response to Watergate and related abuses?
++ The Ethics in Government Act, which created a mechanism for independent counsels || Watergate reforms also included campaign finance limits and a stronger Freedom of Information Act.
+- The Twenty-second Amendment || That predates Watergate (1951).
+- The Taft-Hartley Act || That was a 1947 labor law.
+- The Pendleton Civil Service Act || That was passed in 1883 after Garfield's assassination.
+- The Gulf of Tonkin Resolution || That authorized force in Vietnam in 1964.
+
+Q pol m
+Nixon's "Southern strategy" sought to
++ win support from white southern voters who were disaffected with the Democratic Party's civil rights policies || The strategy helped accelerate the South's shift toward the Republican Party.
+- enforce desegregation more aggressively in the South || The strategy courted voters resistant to aggressive federal desegregation.
+- win back the South through a new Reconstruction program || There was no such program.
+- build military bases throughout the South || The strategy was political.
+- end the Vietnam War by negotiating with southern governors || It was an electoral strategy, unrelated to Vietnam.
+
+Q pol m
+Reagan's economic program, often called "Reaganomics," was based on the theory that
++ cutting taxes, especially on high earners and investment, would stimulate growth that benefits everyone || Supply-side theory justified the 1981 tax cuts. Combined with defense spending, the results included large deficits.
+- government spending on social programs should increase sharply || Reagan cut domestic spending.
+- wage and price controls were the best way to fight inflation || That was Nixon's 1971 approach.
+- the gold standard should be restored immediately || Reagan did not restore the gold standard.
+- labor unions should receive more legal protection || Reagan fired striking air traffic controllers.
+
+Q pol m
+President Reagan's firing of striking air traffic controllers in 1981
++ weakened organized labor and signaled a tougher stance toward unions || Breaking the PATCO strike emboldened private employers to take a harder line.
+- was struck down by the Supreme Court || The firings stood.
+- led to the creation of the AFL-CIO || The AFL-CIO merged in 1955.
+- strengthened the Wagner Act || Labor's position weakened.
+- was opposed by most Republicans in Congress || Most Republicans supported Reagan.
+
+Q pol h
+The Iran-Contra affair involved
++ secret arms sales to Iran, with profits diverted to Contra rebels in Nicaragua despite a congressional ban || The Boland Amendment barred such aid. Investigations led to convictions of officials such as Oliver North (later overturned on appeal).
+- the CIA's overthrow of Iran's government in 1953 || That coup was decades earlier.
+- the rescue of hostages from the U.S. embassy in Tehran || The 1980 rescue attempt failed and was not Iran-Contra.
+- U.S. military support for Iran in a war against the Soviet Union || Iran and the USSR were not at war.
+- the sale of nuclear secrets to Nicaragua || No such sale occurred.
+
+Q pol h
+> Number of the 11 former Confederate states carried by the Republican presidential candidate:
+> T| Election | Republican candidate | States carried (of 11)
+> T| 1960 | Nixon | 3
+> T| 1964 | Goldwater | 5
+> T| 1972 | Nixon | 11
+> T| 1984 | Reagan | 11
+The trend in this table most likely reflects
++ white southern voters' shift toward the Republican Party after the civil rights era || The Southern strategy, reaction against civil rights and cultural change, and Reagan's appeal reshaped the region's politics.
+- a decline in African American voting after the Voting Rights Act || Black registration rose sharply after 1965, mostly for Democrats.
+- the South's continued loyalty to the Democratic Party || The table shows Republicans sweeping the region by 1972.
+- the effects of the Twenty-sixth Amendment only || Lowering the voting age cannot explain a regional partisan shift.
+- the Republican Party's support for the Great Society || Republicans gained by opposing Great Society liberalism.
+
+Q pol e
+Sandra Day O'Connor, appointed by Reagan in 1981, was historically significant as
++ the first woman to serve on the U.S. Supreme Court || O'Connor served until 2006 and was often the Court's swing vote.
+- the first woman to run for vice president on a major-party ticket || That was Geraldine Ferraro (1984).
+- the first woman elected to Congress || That was Jeannette Rankin (1916).
+- the author of the Equal Rights Amendment || Alice Paul first proposed the ERA in 1923.
+- the first woman secretary of state || That was Madeleine Albright (1997).
+
+Q pol m
+The Immigration Reform and Control Act of 1986
++ offered legal status to about 3 million undocumented immigrants while imposing penalties on employers who hired undocumented workers || It combined amnesty with enforcement, though employer sanctions proved weak.
+- ended national-origins quotas || That was the 1965 act.
+- barred all immigration from Latin America || The act did no such thing.
+- created the Bracero Program || The Bracero Program ran from 1942 to 1964.
+- excluded Chinese immigrants || Chinese exclusion ended in 1943.
+
+Q pol h
+The "Saturday Night Massacre" of October 1973 refers to
++ Nixon's order to fire the Watergate special prosecutor, which led the attorney general and deputy attorney general to resign rather than carry it out || The firing of Archibald Cox triggered a public outcry and the first serious impeachment moves.
+- the killing of students at Kent State || That was May 1970.
+- the Tet Offensive attacks on Saigon || Tet was in January 1968.
+- the arrest of the Watergate burglars || The burglars were arrested in June 1972.
+- Reagan's firing of air traffic controllers || That was 1981.
+
+Q soc m
+In Regents of the University of California v. Bakke (1978), the Supreme Court ruled that
++ rigid racial quotas in admissions were unconstitutional, but race could be considered as one factor || Bakke shaped affirmative action policy for decades.
+- all affirmative action programs were unconstitutional || The Court allowed race as one factor.
+- universities must admit students by lottery || No such requirement exists.
+- segregated universities were constitutional || Segregated universities had long been unconstitutional.
+- women must be admitted to all public universities || Bakke concerned race, not sex.
+
+Q soc e
+California's Proposition 13 (1978) is significant because it
++ sharply limited property taxes and helped launch a nationwide tax revolt || Its success foreshadowed Reagan-era tax cutting.
+- legalized same-sex marriage || That was not Prop 13.
+- created the Environmental Protection Agency || The EPA was created by Nixon's executive reorganization in 1970.
+- required bilingual education || Prop 13 concerned taxes.
+- ended affirmative action in California || That was Proposition 209 (1996).
+
+Q soc e
+The term "Sun Belt" refers to
++ the southern and southwestern states that grew rapidly in population and political influence after World War II || Air conditioning, defense spending, and business-friendly policies drew people from the Rust Belt.
+- the industrial region of the Northeast and Midwest || That is the Rust Belt.
+- the region affected by the Dust Bowl || The Dust Bowl was on the southern Plains in the 1930s.
+- states that supported the Confederacy || The term is about postwar growth, not Civil War allegiance.
+- the area of the Great Plains settled by homesteaders || That is a nineteenth-century topic.
+
+Q soc m
+The term "Rust Belt" came into use in the late 1970s and 1980s to describe
++ the declining industrial cities of the Northeast and Midwest hit by factory closures || Deindustrialization cost millions of manufacturing jobs as companies moved south or overseas.
+- farming regions affected by drought || That would describe the Dust Bowl.
+- the fast-growing southern and western states || That is the Sun Belt.
+- areas damaged by the Three Mile Island accident || Three Mile Island was a single nuclear plant.
+- the oil-producing states of the Southwest || Oil states boomed during the 1970s energy crisis.
+
+Q soc m
+The Moral Majority, founded by Jerry Falwell in 1979, was significant because it
++ mobilized evangelical Christians as a political force supporting conservative candidates and causes || It helped elect Reagan and campaigned against abortion, the ERA, and gay rights.
+- led the movement for the Equal Rights Amendment || The Moral Majority opposed the ERA.
+- organized the antiwar movement against Vietnam || It was a conservative religious organization.
+- was a labor union for teachers || It was a political advocacy group.
+- supported the Supreme Court's ban on school prayer || It wanted school prayer restored.
+
+Q soc m
+Court-ordered busing to desegregate schools in the 1970s provoked
++ fierce resistance in some northern cities, notably Boston || Violent protests in 1974 showed that resistance to desegregation was not only southern.
+- immediate national approval with little controversy || Busing was highly controversial.
+- the Brown v. Board decision || Brown came first (1954). Busing was a later remedy.
+- the end of the Vietnam War || Busing was unrelated to the war.
+- the passage of the Twenty-fourth Amendment || That amendment (1964) banned poll taxes.
+
+Q soc h
+Which of the following best explains why many blue-collar Democrats in the North voted for Ronald Reagan in 1980 and 1984?
++ Frustration with inflation, taxes, crime, and cultural changes they associated with liberalism, along with Reagan's patriotic appeal || These "Reagan Democrats" were crucial to his victories in industrial states.
+- Reagan promised to expand union rights || Reagan was not pro-union, as the PATCO firings showed.
+- Reagan pledged to raise taxes on the middle class || Reagan promised tax cuts.
+- They supported the Equal Rights Amendment, which Reagan championed || Reagan opposed the ERA.
+- Reagan promised to end the Cold War by disbanding the military || Reagan expanded the military.
+
+Q soc m
+The AIDS epidemic, first identified in the United States in 1981,
++ devastated gay communities and spurred activism demanding more government research and treatment || Activists criticized the Reagan administration's slow early response.
+- was cured by the end of the 1980s || There is still no cure, though treatments improved after the mid-1990s.
+- affected only people outside the United States || It hit American cities hard.
+- led to the repeal of Title IX || There is no connection.
+- was the main issue of the 1980 election || AIDS had not yet been identified in 1980.
+
+Q soc h
+The phrase "the Me Decade," used to describe the 1970s, reflected critics' view that Americans had
++ turned away from collective political causes toward self-fulfillment and personal concerns || Tom Wolfe and Christopher Lasch described a culture of introspection and narcissism.
+- become more active in civil rights protests than ever before || Critics saw a retreat from 1960s activism.
+- embraced communal living in large numbers || Communes peaked in the late 1960s and declined after.
+- volunteered en masse for military service || The draft ended in 1973, and enlistment was not a mass trend.
+- rejected consumer culture completely || Consumerism remained strong.
+
+Q eco e
+The OPEC oil embargo of 1973–1974 caused
++ sharp increases in gasoline prices and shortages in the United States || Oil prices roughly quadrupled, which worsened inflation and ended the era of cheap energy.
+- a long period of falling oil prices || Prices rose dramatically.
+- the end of the Cold War || The embargo was unrelated to the Cold War's end.
+- the passage of the Interstate Highway Act || That passed in 1956.
+- the U.S. annexation of oil-producing territories || No territory was annexed.
+
+Q eco e
+"Stagflation" in the 1970s refers to
++ the combination of high inflation, high unemployment, and slow economic growth || The combination puzzled economists, since Keynesian theory expected inflation and unemployment to move in opposite directions.
+- rapid economic growth with low inflation || That describes the 1950s or 1990s.
+- falling prices during a depression || That is deflation, as in the 1930s.
+- a stock market bubble || Stagflation describes the broader economy.
+- rising wages caused by union growth || Unions were declining in the 1970s.
+
+Q eco m
+Paul Volcker, chairman of the Federal Reserve from 1979, fought inflation by
++ raising interest rates sharply, which caused a severe recession in 1981–1982 but brought inflation down || Tight money broke the inflation of the 1970s at a high short-term cost.
+- printing more money to stimulate the economy || That would have worsened inflation.
+- imposing wage and price controls || Nixon used controls in 1971. Volcker relied on monetary policy.
+- abolishing the Federal Reserve || The Fed remained.
+- returning the dollar to the gold standard || The dollar was not returned to gold.
+
+Q eco h
+The national debt grew rapidly during the Reagan years mainly because
++ large tax cuts were combined with a major military buildup without matching spending cuts || The debt roughly tripled during the 1980s.
+- Reagan created several large new social welfare programs || Reagan cut domestic programs.
+- the government nationalized major industries || There was no nationalization.
+- the stock market crash of 1987 forced massive bailouts || The 1987 crash did not cause the deficits.
+- tariffs were eliminated entirely || Tariff policy was not the main cause.
+
+Q eco m
+In 1971 President Nixon responded to inflation and a weakening dollar by
++ imposing temporary wage and price controls and ending the dollar's convertibility into gold || These steps ended the Bretton Woods system of fixed exchange rates.
+- cutting taxes on the wealthy by 25 percent || That was Reagan's 1981 tax cut.
+- raising interest rates to 20 percent || Volcker's Fed did that around 1980–81.
+- returning the country to the gold standard || Nixon moved further from gold.
+- abolishing the minimum wage || Nixon did not abolish it.
+
+Q cul e
+The Iranian hostage crisis (1979–1981) damaged Jimmy Carter's presidency because
++ militants held 52 Americans for 444 days, and a rescue attempt failed || The crisis made the U.S. look powerless and contributed to Carter's defeat in 1980.
+- Carter ordered a full-scale invasion of Iran that failed || There was no invasion. A small rescue mission failed in the desert.
+- the hostages were released early, embarrassing Reagan || They were released minutes after Reagan took office in January 1981.
+- Iran declared war on the United States || Iran did not formally declare war.
+- it led to the Camp David Accords || Camp David (1978) came before the crisis.
+
+Q cul m
+The New Right coalition that emerged in the late 1970s included
++ evangelical Christians, neoconservatives, free-market advocates, and anti-tax activists || This coalition powered Reagan's victory in 1980.
+- civil rights activists and antiwar protesters || Those groups were mostly on the left.
+- the Students for a Democratic Society || SDS was a New Left group.
+- the United Farm Workers || The UFW was a labor and Latino rights group.
+- the Black Panther Party || The Panthers were a radical left organization.
+
+Q cul m
+Jimmy Carter's 1979 "malaise" speech
++ blamed a national "crisis of confidence" and backfired politically || Many Americans heard it as blaming them, which hurt Carter heading into 1980.
+- announced the Camp David Accords || Camp David was announced in 1978.
+- declared victory in the Cold War || The Cold War was intensifying in 1979.
+- called for the impeachment of Nixon || Nixon had resigned in 1974.
+- introduced the Strategic Defense Initiative || SDI was Reagan's 1983 proposal.
+
+Q cul m
+Alex Haley's *Roots*, broadcast as a television miniseries in 1977, was significant because it
++ drew record audiences and sparked widespread interest in African American history and family genealogy || The story of Kunta Kinte and his descendants reached over 100 million viewers.
+- was banned by the federal government || It was broadcast on network TV.
+- celebrated the Lost Cause view of the Civil War || *Roots* depicted the brutality of slavery.
+- was the first television broadcast in color || Color TV existed long before 1977.
+- described the Dust Bowl migration || *Roots* concerned slavery and its legacy.
+
+Q cul h
+> "Government is not the solution to our problem; government is the problem."
+This 1981 statement best expresses the philosophy of
++ Ronald Reagan and the conservative movement that sought to reduce the size of the federal government || Reagan's first inaugural address set the tone for tax cuts, deregulation, and spending restraint.
+- Franklin Roosevelt's New Deal || FDR expanded government.
+- Lyndon Johnson's Great Society || LBJ expanded federal programs.
+- the Progressive Era reformers || Progressives believed in active government.
+- John F. Kennedy's New Frontier || Kennedy proposed expanded federal action.
+
+Q cul e
+Phyllis Schlafly is best known for
++ leading the conservative campaign that helped defeat the Equal Rights Amendment || Her STOP ERA campaign argued the amendment threatened traditional family roles.
+- founding the National Organization for Women || Betty Friedan co-founded NOW.
+- writing *The Feminine Mystique* || That was Friedan.
+- becoming the first woman Supreme Court justice || That was Sandra Day O'Connor.
+- leading the Montgomery Bus Boycott || That was led by King and others after Rosa Parks's arrest.
+
+Q cul h
+Many historians see the 1970s as a turning point in American political culture because
++ public trust in government fell sharply after Vietnam, Watergate, and economic troubles || This "crisis of confidence" helped clear the way for Reagan's anti-government conservatism.
+- the New Deal coalition grew stronger than ever || The coalition was fracturing.
+- the federal government expanded social programs faster than in the 1960s || Expansion slowed and faced backlash.
+- the Cold War ended || The Cold War ended around 1989–1991.
+- the United States won the Vietnam War || The U.S. withdrew, and South Vietnam fell.
+
+Q cul e
+The nuclear accident at Three Mile Island (1979) contributed to
++ public fears about nuclear power and a slowdown in building new nuclear plants || The partial meltdown in Pennsylvania deepened distrust of the industry.
+- the end of the oil embargo || The embargo had ended in 1974.
+- the creation of NASA || NASA was created in 1958.
+- the Cuban Missile Crisis || That was 1962.
+- the expansion of nuclear power nationwide || Expansion stalled afterward.
+
+Q dip e
+The Camp David Accords (1978) are considered President Carter's greatest diplomatic achievement because they
++ produced a peace agreement between Egypt and Israel || Carter brokered talks between Sadat and Begin, leading to the 1979 Egypt–Israel peace treaty.
+- ended the Iranian hostage crisis || The hostages were released in 1981.
+- returned the Panama Canal to Panama immediately || The Panama Canal Treaties set the transfer for 1999.
+- ended the Cold War || The Cold War continued.
+- created NATO || NATO was formed in 1949.
+
+Q dip m
+Nixon's trip to China in 1972 was significant because it
++ opened diplomatic relations with communist China and exploited the split between China and the Soviet Union || The visit reshaped the Cold War balance and was part of Nixon and Kissinger's détente strategy.
+- ended the Korean War || That war ended with the 1953 armistice.
+- led to the reunification of China and Taiwan || There was no reunification.
+- caused China to join NATO || China never joined NATO.
+- was followed immediately by war with the Soviet Union || Nixon signed SALT I with the Soviets three months later.
+
+Q dip m
+The Intermediate-Range Nuclear Forces (INF) Treaty of 1987 was significant because it
++ was the first agreement to eliminate an entire class of nuclear weapons || Reagan and Gorbachev agreed to destroy all intermediate-range missiles, a sign of the Cold War's thaw.
+- ended the Vietnam War || That ended with the 1973 Paris Accords and 1975 fall of Saigon.
+- created the Strategic Defense Initiative || SDI was a U.S. program, not a treaty.
+- was the first nuclear agreement ever between the U.S. and USSR || Earlier agreements included the 1963 Test Ban Treaty and SALT I.
+- was rejected by the Senate || The Senate ratified it in 1988.

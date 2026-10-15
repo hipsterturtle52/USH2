@@ -218,7 +218,7 @@ In Schenck v. United States (1919), the Supreme Court ruled that
 - the Sedition Act of 1798 was constitutional || Schenck concerned the WWI-era Espionage Act.
 - states could not ban the teaching of evolution || The Court ruled on that issue in 1968 (Epperson v. Arkansas).
 
-Q pol m
+Q pol e
 The Teapot Dome scandal of the 1920s involved
 + a cabinet officer who accepted bribes to lease federal oil reserves to private companies || Interior Secretary Albert Fall became the first cabinet member jailed for crimes in office.
 - the sale of federal judgeships by President Coolidge || Coolidge was not involved. He was seen as honest.
@@ -403,7 +403,7 @@ Sinclair Lewis's novels *Main Street* and *Babbitt* criticized
 - the corruption of big-city political machines || That was the muckraker Lincoln Steffens's subject.
 - the treatment of Native Americans in the West || That was Helen Hunt Jackson's subject.
 
-Q cul m
+Q cul e
 The term "Lost Generation" refers to
 + American writers, many living abroad, who were disillusioned by World War I and modern materialism || Gertrude Stein's label fit Hemingway, Fitzgerald, and others.
 - children who were orphaned by the 1918 influenza pandemic || The term refers to writers, not orphans.

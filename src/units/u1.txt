@@ -202,7 +202,7 @@ The Black Codes passed by southern states in 1865–1866 were designed primarily
 - implement the provisions of the Fourteenth Amendment || The codes contradicted equal protection. Their passage helped prompt the amendment.
 - redistribute plantation land to freedpeople || The codes protected white landowners' interests rather than redistributing land.
 
-Q pol m
+Q pol e
 Thaddeus Stevens and Charles Sumner are best known as leaders of which group?
 + Radical Republicans in Congress who pushed for Black civil rights and strict terms for the South || Stevens (House) and Sumner (Senate) led the Radicals who took control of Reconstruction in 1867.
 - Redeemer Democrats who ended Reconstruction || Redeemers were southern Democrats, opponents of the Radicals.
@@ -292,7 +292,7 @@ Supreme Court decisions such as the Slaughterhouse Cases (1873) and United State
 - declaring the Reconstruction Acts unconstitutional || Neither case struck down the Reconstruction Acts.
 - guaranteeing land to freedpeople as compensation for slavery || No Supreme Court decision required land grants.
 
-Q pol m
+Q pol e
 The Crédit Mobilier and Whiskey Ring scandals are associated with the presidency of
 + Ulysses S. Grant || Both scandals tarnished Grant's administration (1869–1877) and weakened northern support for Republican Reconstruction.
 - Andrew Johnson || Johnson's presidency was defined by his clashes with Congress, not these scandals.
