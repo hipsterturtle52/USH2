@@ -1,0 +1,410 @@
+@title: World War II
+@years: 1939–1945
+@period: late
+@weight: 8
+
+@lesson
+## The big picture
+In the 1930s Americans were determined to stay out of another European war, and Congress passed strict **Neutrality Acts**. As Germany, Italy, and Japan conquered their neighbors, **Franklin Roosevelt** moved the country step by step from neutrality to **"arsenal of democracy"** to open war after **Pearl Harbor** (December 7, 1941). The war ended the Depression, transformed the home front, opened jobs to women and minorities, and saw the **internment of Japanese Americans**. It left the U.S. a **superpower** holding the **atomic bomb**.
+
+## 1. Isolationism in the 1930s
+Disillusionment with World War I ran deep. The **Nye Committee** (1934–36) suggested that bankers and arms makers, the **"merchants of death,"** had dragged the U.S. into that war for profit. Congress responded with the **Neutrality Acts** (1935–37):
+- **no arms sales or loans** to nations at war
+- no travel by Americans on belligerent ships
+- after 1937, **"cash-and-carry"**: warring nations could buy non-military goods if they paid cash and carried them away in their own ships
+
+Meanwhile aggression spread:
+- **Japan** seized **Manchuria** (1931) and invaded **China** (1937).
+- **Italy** conquered **Ethiopia** (1935).
+- **Germany** under Hitler rearmed, took Austria, and took Czechoslovakia's Sudetenland after the **Munich Conference** (1938). There Britain and France practiced **appeasement**.
+
+Roosevelt's **"Quarantine Speech"** (1937) suggested isolating aggressors but drew a hostile reaction.
+
+## 2. From neutrality to "arsenal of democracy" (1939–1941)
+Germany invaded **Poland** on **September 1, 1939**, and Britain and France declared war. Roosevelt took a series of steps toward the Allies:
+- **1939:** Congress allowed **cash-and-carry for arms**, which favored Britain and France since they controlled the seas.
+- **1940:** After **France fell** (June), Britain stood nearly alone. The **destroyers-for-bases deal** traded 50 old U.S. destroyers for leases on British bases. Congress passed the **first peacetime draft** (Selective Training and Service Act).
+- **The debate:** The **America First Committee** (with **Charles Lindbergh**) argued for staying out. Interventionists such as the **Committee to Defend America by Aiding the Allies** answered them.
+- **Election of 1940:** FDR won an unprecedented **third term** over Wendell Willkie. He pledged to make America the **"arsenal of democracy."**
+- **January 1941:** The **Four Freedoms** speech named the goals: freedom of **speech** and of **worship**, freedom **from want** and **from fear**.
+- **March 1941:** The **Lend-Lease Act** let the president lend or lease war supplies to any nation whose defense was vital to the U.S. It went first to Britain and later to the **Soviet Union**. This ended any pretense of neutrality.
+- **August 1941:** FDR and Churchill issued the **Atlantic Charter**: no territorial gains, **self-determination**, free trade, and a future system of collective security. It previewed the United Nations.
+- **Fall 1941:** U.S. warships escorted convoys and fought an **undeclared naval war** with German U-boats in the Atlantic.
+
+In the Pacific, Japan moved into French Indochina. In July 1941 the U.S. **froze Japanese assets** and imposed an **oil embargo**. Negotiations failed. On **December 7, 1941**, Japan attacked the U.S. fleet at **Pearl Harbor**, Hawaii, killing about 2,400 Americans. Roosevelt called it "a date which will live in infamy." Congress declared war on Japan, and Germany and Italy declared war on the U.S. days later.
+
+!cec Axis aggression; U.S. aid to Britain (Lend-Lease); oil embargo on Japan | Japan attacks Pearl Harbor (Dec. 7, 1941) | U.S. enters the war against Japan, Germany, and Italy
+
+## 3. Fighting the war
+The Allies chose a **"Europe first"** strategy, because Germany was considered the greater threat.
+
+**Europe and North Africa:**
+- **North Africa** (Operation Torch, late 1942), then **Sicily and Italy** (1943).
+- The Soviets broke the German advance at **Stalingrad** (1942–43), at enormous cost.
+- **D-Day** (**June 6, 1944**): **Dwight D. Eisenhower** commanded the largest amphibious invasion in history at **Normandy**, opening a western front.
+- Germany's last offensive, the **Battle of the Bulge** (December 1944), failed.
+- Germany surrendered on **V-E Day**, **May 8, 1945**. Allied troops liberating the camps revealed the full horror of the **Holocaust**, the Nazi murder of six million Jews and millions of others.
+
+**The Pacific:**
+- Early disasters included the fall of the Philippines and the **Bataan Death March** (1942).
+- At **Midway** (**June 1942**), U.S. carriers sank four Japanese carriers. Midway was the **turning point** of the Pacific war.
+- The U.S. then used **"island hopping"** (also called leapfrogging) under **Douglas MacArthur** and **Chester Nimitz**: seize key islands, bypass others, and move bomber bases closer to Japan. Major battles included **Guadalcanal**, **Iwo Jima**, and **Okinawa** (1945).
+- The secret **Manhattan Project** (J. Robert Oppenheimer at Los Alamos) built the **atomic bomb**.
+- **Harry Truman**, president after FDR's death in April 1945, ordered bombs dropped on **Hiroshima** (August 6) and **Nagasaki** (August 9). Japan surrendered (V-J Day, August 1945; formal surrender September 2). Truman argued the bombs saved the lives an invasion would have cost. Critics have debated the decision ever since, including whether Japan was already near surrender and whether the bombs were meant partly to impress the Soviets.
+
+## 4. Wartime diplomacy
+The "Big Three" were Roosevelt, **Churchill**, and **Stalin**.
+- **Casablanca** (1943): Roosevelt and Churchill demanded the Axis's **unconditional surrender**.
+- **Tehran** (1943): the Allies agreed on the **second front** in France.
+- **Yalta** (**February 1945**) was the most controversial meeting:
+  - Stalin agreed to enter the war against Japan and to join the **United Nations**.
+  - He promised **free elections** in Eastern Europe, which he did not honor.
+  - Germany would be divided into **occupation zones**.
+  - Critics later charged that FDR "gave away" Eastern Europe, though the Red Army already occupied it.
+- **Potsdam** (July 1945): Truman, Stalin, and Churchill (replaced midway by Attlee) set occupation policy and warned Japan to surrender.
+- The **United Nations** charter was signed at **San Francisco** (1945). This time the Senate approved U.S. membership overwhelmingly.
+- The **Bretton Woods** conference (1944) created the **International Monetary Fund** and **World Bank** and made the dollar the anchor of the world economy.
+
+## 5. The home front
+**Production won the war.** The **War Production Board** converted factories, and auto plants built tanks and bombers. The **Office of Price Administration** **rationed** goods (gasoline, sugar, meat, tires) and controlled prices. War bonds and a broader **income tax** (with paycheck **withholding**, starting in 1943) paid for it all. National output nearly doubled, and **unemployment virtually disappeared**, which ended the Depression.
+
+**Women:** About **six million women** entered the workforce, symbolized by **"Rosie the Riveter."** Many did industrial work for the first time. Some 350,000 served in uniform (WACs, WAVES). Most were pushed out of industrial jobs when men returned, but the experience mattered for later change.
+
+**African Americans:** The **Double V campaign** demanded victory over fascism abroad *and* racism at home. When **A. Philip Randolph** threatened a **March on Washington** (1941), FDR issued **Executive Order 8802**, banning discrimination in **defense industries** and creating the **Fair Employment Practices Committee**. Some 1.2 million Black Americans served in a **segregated** military, including the **Tuskegee Airmen**. A second wave of the Great Migration moved north and west to defense jobs. Racial tension exploded in the **Detroit riot** (1943).
+
+**Mexican Americans:** The **Bracero Program** (1942) brought Mexican laborers for farm work. In the **Zoot Suit Riots** (Los Angeles, 1943), servicemen attacked young Mexican Americans.
+
+**Native Americans:** About 25,000 served, including the **Navajo code talkers**, whose code the Japanese never broke.
+
+**Japanese American internment:** After Pearl Harbor, **Executive Order 9066** (February 1942) led to the forced removal of about **120,000 people of Japanese ancestry** from the West Coast to **internment camps**. **About two-thirds were U.S. citizens.** No comparable mass action was taken against German or Italian Americans, and no Japanese American was convicted of espionage. In **Korematsu v. United States** (1944), the Supreme Court **upheld** the removal as a military necessity. Meanwhile the Japanese American **442nd Regimental Combat Team** became one of the most decorated units of the war. In **1988** Congress apologized and paid **$20,000** to each surviving internee.
+
+**Refugees:** U.S. immigration policy kept most Jewish refugees out. The ship *St. Louis* was turned away in 1939. A **War Refugee Board** was created only in 1944.
+
+**Looking ahead:** The **GI Bill** (1944) gave veterans money for **college, job training, and low-interest home loans**. It helped build the postwar middle class and suburbs (Unit 7). Defense spending pulled people and industry to the **West and South** (the future **Sun Belt**).
+
+!cec Total war mobilization | Full employment, women and minorities in new jobs, internment, civil rights pressure | Depression ends; seeds of the civil rights movement; a bigger federal government; U.S. emerges as a superpower
+
+@mustknow
+- **Neutrality Acts** (1935–37) came from the **Nye Committee** "merchants of death" view of WWI.
+- Steps toward war: **cash-and-carry** (1939), **destroyers-for-bases** and the **peacetime draft** (1940), **Lend-Lease** (March 1941), **Atlantic Charter** (Aug. 1941).
+- **Four Freedoms**: speech, worship, from want, from fear. **America First** = isolationists (Lindbergh).
+- **Pearl Harbor** (Dec. 7, 1941) followed the U.S. **oil embargo** on Japan.
+- **Europe-first** strategy; **D-Day** (June 6, 1944); **Midway** (June 1942) was the Pacific turning point; **island hopping**.
+- **Manhattan Project** → **Hiroshima/Nagasaki** (Aug. 1945), decided by **Truman**.
+- **Yalta** (Feb. 1945): Soviet entry against Japan, promised free elections in Eastern Europe, UN, German zones.
+- **Japanese American internment**: **EO 9066**, about 120,000 removed (2/3 citizens), upheld in **Korematsu** (1944), 1988 apology and reparations.
+- **EO 8802** (defense-industry nondiscrimination, after **A. Philip Randolph's** threatened march). **Double V**. **Rosie the Riveter**. **Bracero Program**.
+- **GI Bill** (1944): college, home loans. **UN** (1945). **Bretton Woods** (IMF, World Bank).
+
+@timeline
+1931 | Japan seizes Manchuria
+1934–36 | Nye Committee hearings
+1935–37 | Neutrality Acts
+1937 | Japan invades China; FDR's Quarantine Speech
+1938 | Munich Conference (appeasement)
+1939 | Germany invades Poland (Sept. 1); cash-and-carry for arms | key
+1940 | France falls; destroyers-for-bases deal; first peacetime draft; FDR's third term
+1941 | Four Freedoms; Lend-Lease (March); EO 8802; Atlantic Charter (Aug.); Pearl Harbor (Dec. 7) | key
+1942 | EO 9066 (Japanese American internment); Battle of Midway (June); Bracero Program; Manhattan Project | key
+1943 | Casablanca and Tehran conferences; Detroit riot and Zoot Suit Riots; Italy invaded
+1944 | D-Day (June 6); Korematsu v. U.S.; GI Bill; Bretton Woods; Battle of the Bulge | key
+1945 | Yalta (Feb.); FDR dies, Truman president (April); V-E Day (May 8); Potsdam; Hiroshima and Nagasaki (Aug.); Japan surrenders; UN founded | key
+
+@cards
+Nye Committee (1934–36) :: Senate investigation suggesting bankers and arms makers ("merchants of death") had pushed the U.S. into WWI. Fed isolationism.
+Neutrality Acts (1935–37) :: Banned arms sales and loans to belligerents and U.S. travel on belligerent ships. Later allowed "cash-and-carry."
+Cash-and-carry :: Warring nations could buy U.S. goods (arms after 1939) if they paid cash and shipped them themselves. Favored Britain.
+Quarantine Speech (1937) :: FDR suggested "quarantining" aggressor nations. Met with isolationist backlash.
+America First Committee :: Isolationist group (Charles Lindbergh) opposing U.S. aid to Britain and entry into WWII.
+Destroyers-for-bases deal (1940) :: Fifty old U.S. destroyers for leases on British bases in the Western Hemisphere.
+Four Freedoms (1941) :: FDR's war aims: freedom of speech, freedom of worship, freedom from want, freedom from fear.
+Lend-Lease Act (March 1941) :: Let the president lend or lease arms to nations vital to U.S. defense (Britain, later the USSR). "Arsenal of democracy."
+Atlantic Charter (Aug. 1941) :: FDR–Churchill statement of goals: no territorial gain, self-determination, free trade, collective security.
+Pearl Harbor (Dec. 7, 1941) :: Japanese surprise attack on the U.S. fleet in Hawaii after the U.S. oil embargo. The U.S. entered WWII.
+Europe-first strategy :: The Allied decision to defeat Germany before concentrating on Japan.
+D-Day (June 6, 1944) :: Allied invasion of Normandy under Eisenhower. Opened the western front.
+Battle of Midway (June 1942) :: U.S. carriers sank four Japanese carriers. The turning point of the Pacific war.
+Island hopping :: U.S. Pacific strategy of capturing key islands and bypassing others to approach Japan.
+Manhattan Project :: Secret U.S. program (Oppenheimer, Los Alamos) that built the atomic bomb.
+Hiroshima and Nagasaki (Aug. 1945) :: Atomic bombings ordered by Truman. Japan surrendered days later. Still debated.
+Yalta Conference (Feb. 1945) :: FDR, Churchill, Stalin: Soviet entry against Japan, UN, German zones, promised free elections in Eastern Europe.
+Executive Order 9066 (1942) :: Authorized removal of about 120,000 Japanese Americans (2/3 citizens) from the West Coast to internment camps.
+Korematsu v. United States (1944) :: Supreme Court upheld Japanese American internment as military necessity. Widely condemned later.
+Executive Order 8802 (1941) :: Banned racial discrimination in defense industries and created the FEPC, after A. Philip Randolph threatened a march.
+Double V campaign :: Black Americans' call for victory over fascism abroad and racism at home.
+Rosie the Riveter :: Symbol of the roughly six million women who entered the wartime workforce, many in industry.
+GI Bill (1944) :: Servicemen's Readjustment Act. Paid for veterans' college and job training and backed low-interest home loans.
+
+@questions
+Q dip e
+The Neutrality Acts passed by Congress between 1935 and 1937 were intended to
++ keep the United States out of foreign wars by banning arms sales and loans to warring nations || Lawmakers believed trade and loans had dragged the U.S. into WWI and wanted to prevent a repeat.
+- provide military aid to Britain and France || Aid to the Allies came later, with cash-and-carry for arms (1939) and Lend-Lease (1941).
+- create a military alliance with the Soviet Union || The U.S. had no Soviet alliance before 1941.
+- prepare for war with Japan || They aimed to avoid all foreign wars.
+- establish the United Nations || The UN was created in 1945.
+
+Q dip e
+The Lend-Lease Act of 1941 allowed the United States to
++ supply war materials to Britain and other nations whose defense was considered vital to U.S. security || Lend-Lease made the U.S. the "arsenal of democracy" months before Pearl Harbor.
+- declare war on Germany || Congress declared war on Germany in December 1941, after Germany declared war on the U.S.
+- lease military bases to Japan || The U.S. did not lease bases to Japan.
+- lend money to Germany to pay reparations || That describes the 1920s Dawes Plan.
+- draft men into the army for the first time in peacetime || That was the Selective Training and Service Act (1940).
+
+Q dip e
+The immediate cause of U.S. entry into World War II was
++ Japan's attack on Pearl Harbor on December 7, 1941 || Congress declared war on Japan the next day. Germany and Italy declared war on the U.S. on December 11.
+- Germany's invasion of Poland || The U.S. stayed out of the war in 1939.
+- the sinking of the Lusitania || The Lusitania was sunk in 1915.
+- the Zimmermann Telegram || The Zimmermann Telegram was a WWI event (1917).
+- the fall of France || France fell in 1940, and the U.S. remained officially neutral.
+
+Q dip m
+Which of the following events occurred FIRST?
++ The destroyers-for-bases deal with Britain || September 1940, before Lend-Lease (March 1941), the Atlantic Charter (August 1941), Pearl Harbor, and Yalta.
+- Passage of the Lend-Lease Act || That was March 1941.
+- Signing of the Atlantic Charter || That was August 1941.
+- The attack on Pearl Harbor || That was December 1941.
+- The Yalta Conference || That was February 1945.
+
+Q dip m
+The Atlantic Charter (1941) issued by Roosevelt and Churchill
++ outlined shared goals such as self-determination, no territorial expansion, and a future system of collective security || It was issued before the U.S. entered the war and became a foundation for the United Nations.
+- formally declared war on Germany || It was a statement of principles, not a declaration of war.
+- divided Germany into occupation zones || Zones were agreed at Yalta and Potsdam in 1945.
+- created NATO || NATO was founded in 1949.
+- ended the Lend-Lease program || Lend-Lease continued through the war.
+
+Q dip m
+At the Yalta Conference in February 1945, Stalin agreed to
++ enter the war against Japan after Germany's defeat and allow free elections in Eastern Europe || The Soviets entered the Pacific war in August 1945 but did not honor the promise of free elections.
+- withdraw the Red Army from Eastern Europe immediately || Soviet troops stayed and installed communist governments.
+- give the United States control of Berlin || Berlin was divided among four powers.
+- reject membership in the United Nations || Stalin agreed to join the UN.
+- share the secret of the atomic bomb with the West || The Soviets were spying on the Manhattan Project. There was no such agreement.
+
+Q dip m
+The Battle of Midway (June 1942) was significant because it
++ destroyed four Japanese aircraft carriers and turned the tide of the war in the Pacific || After Midway, Japan was on the defensive. U.S. code-breaking made the victory possible.
+- was the first use of the atomic bomb || The atomic bombs were used in August 1945.
+- liberated the Philippines || The Philippines were liberated in 1944–45.
+- opened a second front in Europe || That was D-Day in 1944.
+- ended the war in Europe || V-E Day came in May 1945.
+
+Q dip m
+The U.S. military strategy of "island hopping" in the Pacific involved
++ capturing selected islands as bases while bypassing heavily defended ones on the way toward Japan || MacArthur and Nimitz leapfrogged across the Pacific, moving airfields within bombing range of Japan.
+- defending every island in the Pacific from attack || The strategy was offensive and selective.
+- invading the Japanese home islands first || Invasion of Japan was planned for late 1945 but never needed.
+- withdrawing from the Pacific to focus on Europe || Europe came first, but the Pacific offensive continued.
+- negotiating island trades with Japan || There were no such negotiations.
+
+Q dip h
+> "In the future days, which we seek to make secure, we look forward to a world founded upon four essential human freedoms."
+In this 1941 speech, Franklin Roosevelt was attempting to
++ build support for aiding Britain by defining the war's stakes in terms of universal freedoms || The Four Freedoms speech (January 1941) framed U.S. aid as defending democracy, paving the way for Lend-Lease.
+- ask Congress for a declaration of war on Japan || That was his "date which will live in infamy" speech in December 1941.
+- announce the Good Neighbor Policy || That came in 1933.
+- defend the Neutrality Acts || FDR was trying to move beyond strict neutrality.
+- justify the internment of Japanese Americans || Internment came in 1942 and was not the subject of this speech.
+
+Q dip h
+Supporters of President Truman's decision to drop atomic bombs on Japan argued that
++ the bombs would end the war quickly and avoid the massive casualties of an invasion of Japan || This was the official justification. Historians still debate alternatives and whether impressing the Soviets was also a motive.
+- Japan had already surrendered and the bombs were a warning to Germany || Germany had surrendered in May 1945. Japan surrendered after the bombings.
+- the Yalta agreement required their use || Yalta said nothing about atomic weapons.
+- the bombs would only be used on military bases in remote areas || Hiroshima and Nagasaki were cities.
+- Congress had voted to authorize their use || The decision was made by the executive branch. Most of Congress did not know of the bomb.
+
+Q dip m
+The Bretton Woods Conference of 1944 created
++ the International Monetary Fund and the World Bank to stabilize the postwar world economy || The system tied currencies to the dollar, which was convertible to gold, anchoring postwar trade.
+- the North Atlantic Treaty Organization || NATO was created in 1949.
+- the League of Nations || The League dated from 1919–1920.
+- the Lend-Lease program || Lend-Lease was enacted in 1941.
+- the Marshall Plan || The Marshall Plan began in 1948.
+
+Q dip e
+Which wartime conference agreed that the Allies would demand the "unconditional surrender" of the Axis powers?
++ Casablanca (1943) || Roosevelt and Churchill announced the unconditional surrender policy at Casablanca.
+- Munich (1938) || Munich was where Britain and France appeased Hitler.
+- Potsdam (1945) || Potsdam issued an ultimatum to Japan, but the policy had been set earlier.
+- Versailles (1919) || Versailles ended WWI.
+- Bretton Woods (1944) || Bretton Woods dealt with economics.
+
+Q pol e
+Executive Order 9066, signed by President Roosevelt in 1942, led to
++ the forced removal and internment of Japanese Americans from the West Coast || About 120,000 people, roughly two-thirds of them citizens, were held in camps.
+- the desegregation of the armed forces || That was Truman's Executive Order 9981 (1948).
+- a ban on discrimination in defense industries || That was Executive Order 8802 (1941).
+- the creation of the Manhattan Project || The Manhattan Project was not created by EO 9066.
+- the rationing of gasoline and sugar || Rationing was run by the Office of Price Administration.
+
+Q pol m
+In Korematsu v. United States (1944), the Supreme Court
++ upheld the removal of Japanese Americans from the West Coast as a wartime military necessity || The decision is now widely regarded as one of the Court's worst. The Court formally repudiated it in 2018.
+- ruled that internment was unconstitutional and ordered all camps closed || The Court upheld the exclusion. Camps closed as the war ended.
+- struck down the Neutrality Acts || The Neutrality Acts were never struck down by the Court.
+- desegregated the armed forces || The military was desegregated by Truman's executive order in 1948.
+- upheld the Espionage Act of 1917 || That was Schenck (1919).
+
+Q pol m
+A. Philip Randolph's threat to lead a march on Washington in 1941 led President Roosevelt to
++ issue Executive Order 8802, banning racial discrimination in defense industries || Roosevelt created the Fair Employment Practices Committee to enforce it, an early federal civil rights action.
+- desegregate the armed forces immediately || The military stayed segregated until Truman's 1948 order.
+- sign the Civil Rights Act of 1941 || No such act exists.
+- end the Bracero Program || The Bracero Program began in 1942 and was unrelated.
+- appoint Randolph to the Supreme Court || Randolph was a labor leader, never a justice.
+
+Q pol m
+The Selective Training and Service Act of 1940 was significant because it
++ created the first peacetime military draft in U.S. history || Passed after France fell, it prepared the nation for possible war more than a year before Pearl Harbor.
+- ended the draft after World War I || The WWI draft had ended in 1918–1919.
+- allowed women to be drafted into combat || Women were not drafted.
+- was passed in response to Pearl Harbor || It came in September 1940, before Pearl Harbor.
+- established the GI Bill || The GI Bill came in 1944.
+
+Q pol m
+In 1940, Franklin Roosevelt broke a long-standing political tradition by
++ winning election to a third term as president || No previous president had served more than two terms. The Twenty-second Amendment (1951) later set a two-term limit.
+- appointing a woman as vice president || No woman was vice president in this era.
+- refusing to campaign at all || FDR campaigned against Wendell Willkie.
+- declaring war without congressional approval || Congress declared war after Pearl Harbor in 1941.
+- running as a Republican || FDR was a Democrat.
+
+Q soc e
+"Rosie the Riveter" was a symbol of
++ women who took industrial jobs during World War II || About six million women entered the workforce, many in defense factories.
+- women who campaigned for the Nineteenth Amendment || Suffrage was won in 1920.
+- flappers of the 1920s || Flappers were a Jazz Age image.
+- women who joined the Women's Army Corps in WWI || Rosie represents WWII industrial workers.
+- the 1960s women's liberation movement || Rosie dates from the 1940s.
+
+Q soc e
+The "Double V" campaign during World War II called for
++ victory over fascism abroad and victory over racial discrimination at home || Launched by the *Pittsburgh Courier*, it linked the war's ideals to the fight against Jim Crow.
+- victory in both Europe and the Pacific within one year || The slogan concerned racism, not timetables.
+- doubling war production and war bond sales || It was a civil rights slogan.
+- victory over the Soviet Union and Germany || The Soviet Union was an ally.
+- doubling the number of women in the workforce || It referred to African Americans' struggle.
+
+Q soc m
+The Bracero Program, begun in 1942, was established to
++ bring Mexican workers into the United States to meet wartime agricultural labor shortages || It continued until 1964 and shaped Mexican migration patterns.
+- deport Mexican Americans during the Depression || Repatriation took place in the early 1930s.
+- train Mexican soldiers to fight in Europe || The program was about farm labor.
+- provide college education for veterans || That was the GI Bill.
+- relocate Japanese Americans to Mexico || Japanese Americans were held in U.S. camps.
+
+Q soc m
+The Zoot Suit Riots of 1943 in Los Angeles involved
++ attacks by servicemen on young Mexican Americans, reflecting wartime ethnic tensions || Sailors and soldiers beat zoot-suited youths while police largely stood by.
+- strikes by defense workers demanding higher wages || These riots were ethnic violence, not a labor dispute.
+- protests against the internment of Japanese Americans || They were not internment protests.
+- a revolt by Japanese Americans in internment camps || There was unrest in some camps, but that is not the Zoot Suit Riots.
+- fights between rival labor unions || They were not union conflicts.
+
+Q soc m
+Which of the following statements about Japanese American internment during World War II is accurate?
++ A majority of those interned were U.S. citizens. || About two-thirds of the roughly 120,000 internees were American-born citizens (Nisei).
+- German Americans and Italian Americans were interned in equal numbers. || Far fewer German and Italian nationals were interned, and there was no mass removal of those communities.
+- Many Japanese Americans were convicted of espionage. || No Japanese American was convicted of espionage during the war.
+- Internment applied to all Japanese Americans in Hawaii. || Hawaii, with a large Japanese American population, saw only limited detentions.
+- Congress has never acknowledged the injustice. || The Civil Liberties Act of 1988 apologized and paid reparations.
+
+Q soc m
+The GI Bill (Servicemen's Readjustment Act) of 1944
++ provided veterans with funds for education and low-interest home loans, expanding the middle class || Millions of veterans attended college, and federally backed mortgages fueled suburban growth.
+- created a peacetime draft || The draft came in 1940 and again in 1948.
+- guaranteed jobs to women who had worked in war industries || Most women were pushed out of industrial jobs after the war.
+- desegregated universities in the South || Southern schools stayed segregated, and Black veterans often faced barriers in using benefits.
+- paid reparations to Japanese Americans || Reparations came in 1988.
+
+Q soc h
+During World War II, the federal government's response to the plight of European Jewish refugees is best characterized as
++ limited, since immigration quotas stayed strict and a War Refugee Board was created only in 1944 || The 1939 turning away of the *St. Louis* and restrictive visa policies kept most refugees out.
+- generous, admitting all refugees who applied || Quotas and bureaucratic barriers kept most out.
+- ignorant, since no reports of mass killing reached Washington before 1945 || Reports of mass murder reached officials by 1942.
+- focused on bombing concentration camps early in the war || Requests to bomb Auschwitz were refused.
+- carried out mainly through the United Nations || The UN did not yet exist as an operating body.
+
+Q soc m
+The Navajo code talkers contributed to the U.S. war effort by
++ transmitting military messages in a code based on the Navajo language that the Japanese never broke || About 400 Navajo Marines served as code talkers in the Pacific.
+- building the atomic bomb at Los Alamos || The bomb was built by Manhattan Project scientists.
+- leading the Bracero Program || The Bracero Program brought Mexican farm workers.
+- training the Tuskegee Airmen || The Tuskegee Airmen were Black pilots trained in Alabama.
+- serving as interpreters at the Yalta Conference || There is no connection to Yalta.
+
+Q soc e
+The Tuskegee Airmen of World War II were
++ African American military pilots who served with distinction in a segregated armed forces || Their record helped build the case for desegregating the military in 1948.
+- Japanese American soldiers of the 442nd Regiment || The 442nd was a Japanese American infantry unit.
+- Navajo Marines who transmitted coded messages || Those were the code talkers.
+- scientists who developed radar || Radar development involved British and American scientists.
+- women who ferried aircraft across the country || Those were the WASPs.
+
+Q soc h
+The 442nd Regimental Combat Team is notable in World War II history because it
++ was composed mainly of Japanese American soldiers and became one of the most decorated units for its size || Many of its soldiers had families in internment camps.
+- led the D-Day landing at Omaha Beach || The 442nd fought mainly in Italy and France.
+- was the first racially integrated unit in the army || It was segregated by ancestry.
+- dropped the atomic bomb on Hiroshima || The *Enola Gay*'s crew belonged to the Army Air Forces' 509th Composite Group.
+- guarded internment camps on the West Coast || The 442nd fought overseas.
+
+Q soc m
+World War II affected the American economy by
++ ending the Depression through massive government spending that created full employment || Federal spending dwarfed the New Deal, unemployment fell to about 1%, and output nearly doubled.
+- causing a deep depression that lasted until 1950 || The war produced a boom, not a depression.
+- reducing the size of the federal government || The federal government grew enormously.
+- eliminating the federal income tax || The income tax expanded to most workers, with withholding.
+- causing the stock market crash of 1941 || There was no 1941 crash.
+
+Q eco m
+The Office of Price Administration during World War II was responsible for
++ rationing scarce goods and controlling prices to prevent inflation || Families used ration books for gasoline, sugar, meat, and other goods.
+- building the atomic bomb || That was the Manhattan Project.
+- negotiating Lend-Lease agreements || Lend-Lease was run by other agencies and diplomats.
+- drafting soldiers || The Selective Service handled the draft.
+- regulating labor unions || The NLRB and War Labor Board handled labor matters.
+
+Q eco e
+During World War II, the federal government began collecting income taxes through
++ automatic withholding from workers' paychecks || Starting in 1943, withholding made the income tax a mass tax paid by most workers.
+- a single annual payment due only from the wealthy || The income tax broadened to most earners.
+- a national sales tax on all goods || There is no national sales tax.
+- contributions from state governments || Federal income tax is paid by individuals.
+- tariffs on imported goods only || Tariffs were a small share of wartime revenue.
+
+Q cul m
+During World War II, Norman Rockwell's popular paintings of the Four Freedoms and Frank Capra's *Why We Fight* films were used to
++ build public support for the war by illustrating American values and war aims || Government and private media framed the war as a defense of freedom and democracy.
+- criticize the internment of Japanese Americans || Mainstream wartime media rarely criticized internment.
+- promote isolationism || These works supported the war effort.
+- protest wartime rationing || They encouraged sacrifice rather than protest.
+- celebrate the Harlem Renaissance || They concerned the war effort.
+
+Q cul m
+The America First Committee, founded in 1940, argued that
++ the United States should stay out of the European war and avoid aiding Britain || With prominent members like Charles Lindbergh, it opposed Lend-Lease and intervention until Pearl Harbor.
+- the U.S. should immediately declare war on Germany || That was the opposite of its position.
+- Japan should be the first priority of U.S. foreign policy || The committee opposed involvement in war generally.
+- the U.S. should join the League of Nations || The committee was isolationist.
+- women should be drafted into the military || The committee did not address drafting women.
+
+Q cul h
+The Manhattan Project is significant in the history of American science and society because it
++ marked the beginning of large-scale government funding of scientific research tied to national security || It joined the federal government, universities, and industry, a model for the postwar military-industrial complex.
+- was the first private corporation to develop nuclear energy || It was a secret government project.
+- was publicly debated in Congress before the bomb was built || It was highly secret.
+- produced the first television broadcasts || Television had other origins.
+- was located entirely in New York City || Major sites included Los Alamos (NM), Oak Ridge (TN), and Hanford (WA).
+
+Q cul h
+Which of the following best describes how World War II changed attitudes about race in the United States?
++ The contradiction between fighting Nazi racism and practicing segregation at home strengthened demands for civil rights. || Black veterans, the Double V campaign, and growing NAACP membership laid foundations for the postwar civil rights movement.
+- Segregation ended in the armed forces during the war. || The military remained segregated until 1948.
+- Racial violence completely disappeared on the home front. || Riots erupted in Detroit, Los Angeles, and elsewhere in 1943.
+- The war had no effect on African American migration. || A second Great Migration drew many Black workers to defense jobs.
+- Congress passed a major civil rights act in 1944. || No major civil rights act passed until 1957.
