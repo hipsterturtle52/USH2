@@ -1,0 +1,447 @@
+@title: The Great Depression and the New Deal
+@years: 1929–1941
+@period: late
+@weight: 10
+
+@lesson
+## The big picture
+The Great Depression was the worst economic collapse in American history. By 1933 about **one worker in four was unemployed**, thousands of banks had failed, and national output had fallen by roughly a third. **Herbert Hoover** responded with limited, mostly voluntary measures. **Franklin D. Roosevelt's New Deal** created a much larger federal government that provided **relief, recovery, and reform** (the "**three R's**"). The New Deal did not end the Depression; World War II did. But it permanently changed what Americans expect from Washington: Social Security, bank deposit insurance, union rights, and federal economic management.
+
+## 1. Causes of the Depression
+The **stock market crash** of October 1929 (**"Black Tuesday,"** October 29) was the trigger, not the only cause. The underlying weaknesses were:
+- **Unequal distribution of income.** Wages lagged behind productivity, so workers could not buy all the goods factories produced (**overproduction / underconsumption**).
+- **Speculation and buying stocks "on margin"**, with borrowed money. When prices fell, margin calls forced more selling.
+- **A weak banking system.** Thousands of small, unregulated banks had **no deposit insurance**, so **bank runs** spread panic. About 9,000 banks failed between 1930 and 1933.
+- **A long farm depression** and heavy consumer debt from installment buying.
+- **A fragile international economy.** War debts and reparations were recycled through American loans. When U.S. lending stopped, Europe collapsed too.
+- **Policy mistakes.** The **Hawley-Smoot Tariff** (1930) raised rates to record highs, other nations retaliated, and world trade shrank. The Federal Reserve let the money supply contract.
+
+!cec Unequal income, margin buying, weak banks, high tariffs | Crash of 1929 and banking panics (1930–33) | Mass unemployment (~25% in 1933), shrinking output, and a demand for federal action
+
+## 2. Hoover's response
+Hoover was not idle, but he believed in **"rugged individualism"** and **voluntarism**. He asked business leaders to keep wages up and urged private charity and local governments to handle relief. He opposed direct federal payments to individuals. His main tools:
+- The **Reconstruction Finance Corporation (RFC, 1932)** lent money to **banks, railroads, and large businesses**, on the theory that aid would "trickle down."
+- A one-year **moratorium** on war debt and reparations payments (1931).
+
+Shantytowns of the homeless became known as **"Hoovervilles."** In 1932 the **Bonus Army**, about 15,000 to 20,000 World War I veterans demanding early payment of a promised bonus, camped in Washington. Hoover had the army, under **Douglas MacArthur**, drive them out with tanks and tear gas. Hoover's reputation collapsed, and **FDR** won the 1932 election in a landslide.
+
+## 3. The First New Deal (1933–1934)
+"The only thing we have to fear is fear itself," Roosevelt said in his inaugural address. Advised by his **"Brain Trust"** of professors, he moved fast during the **Hundred Days**. He explained his programs directly to the public in radio **"fireside chats."**
+
+**Banking and finance (reform):**
+- A national **bank holiday** and the **Emergency Banking Act** reopened sound banks under federal supervision.
+- The **Glass-Steagall Act** (1933) separated commercial and investment banking and created the **FDIC**, which **insures bank deposits**. Bank runs essentially ended.
+- The **Securities and Exchange Commission (SEC, 1934)** regulated the stock market.
+- The U.S. went **off the gold standard**.
+
+**Relief:**
+- The **Civilian Conservation Corps (CCC)** put young men to work planting forests and building parks.
+- The **Federal Emergency Relief Administration** (Harry Hopkins) gave grants to the states.
+- The **Home Owners' Loan Corporation** refinanced mortgages.
+
+**Recovery:**
+- The **Agricultural Adjustment Act (AAA)** **paid farmers to reduce production** to raise crop prices. Critics were horrified that crops and livestock were destroyed while people went hungry, and payments helped landowners more than tenants and sharecroppers.
+- The **National Industrial Recovery Act (NIRA)** created the **NRA**, which let industries write "codes of fair competition" setting prices, wages, and hours. Its **Section 7(a)** guaranteed workers the right to organize. NIRA also created the **Public Works Administration (PWA)**.
+- The **Tennessee Valley Authority (TVA)** built dams to provide flood control and **cheap public electricity** to one of the poorest regions. It was the boldest experiment in government-owned regional planning.
+
+Also in 1933, the **Twenty-first Amendment** repealed Prohibition.
+
+## 4. Critics left and right
+The **American Liberty League** (1934), backed by wealthy business leaders, called the New Deal socialism. Critics on the other side said it did too little:
+- Louisiana senator **Huey Long's "Share Our Wealth"** plan proposed confiscating great fortunes to guarantee every family a home and an income. Long was assassinated in 1935.
+- **Father Charles Coughlin**, a "radio priest," attacked bankers and drifted into antisemitism.
+- **Dr. Francis Townsend** proposed $200 monthly pensions for the elderly, pressure that helped produce Social Security.
+
+The **Supreme Court** struck down key First New Deal laws:
+- **Schechter Poultry v. U.S.** (1935, the "sick chicken" case) killed the NIRA.
+- **U.S. v. Butler** (1936) struck down the AAA's processing tax.
+
+## 5. The Second New Deal (1935–1938)
+Pushed by these critics and by the Court, Roosevelt moved toward **reform and security**:
+- **Works Progress Administration (WPA)** (Hopkins): employed millions building roads, schools, and airports. Its **Federal Writers', Art, Theatre, and Music Projects** employed artists and writers.
+- **Social Security Act (1935)**: **old-age pensions** funded by payroll taxes, **unemployment insurance**, and aid to dependent children and the disabled. At first it **excluded farm and domestic workers**, which left out many African Americans and women.
+- **Wagner Act (National Labor Relations Act, 1935)**: guaranteed workers' right to **organize and bargain collectively** and created the **National Labor Relations Board (NLRB)**. It is labor's most important New Deal victory.
+- **Rural Electrification Administration**: brought power lines to farms.
+- **Revenue Act of 1935**: the "wealth tax" raised top income tax rates.
+- **Fair Labor Standards Act (1938)**: the first federal **minimum wage**, a standard workweek (phased down to 40 hours) with overtime pay, and a ban on most **child labor**.
+
+### Labor's surge
+The **Congress of Industrial Organizations (CIO)**, led by **John L. Lewis**, organized whole **industries**, skilled and unskilled together, in autos, steel, and rubber. This put it at odds with the craft-based AFL. The **sit-down strike** at General Motors in **Flint, Michigan** (1936–37) won recognition of the United Auto Workers. Union membership roughly tripled during the decade.
+
+### Politics of the New Deal
+Roosevelt won a landslide in 1936 with the **New Deal coalition**: urban workers, union members, immigrants and their children, Catholics and Jews, **African Americans** (who shifted from the party of Lincoln), white southerners, and intellectuals. This coalition kept Democrats dominant for decades.
+
+Then Roosevelt overreached. His **"court-packing" plan** (1937) asked to add up to six new justices. Even allies called it an attack on judicial independence, and Congress rejected it. But the Court began upholding New Deal laws, starting with **West Coast Hotel v. Parrish** (1937), the "switch in time that saved nine."
+
+Roosevelt cut spending in 1937, and the economy fell back into the **"Roosevelt recession"** (1937–38). This seemed to support British economist **John Maynard Keynes**, who argued that government **deficit spending** should replace missing private demand during downturns. By 1938 a conservative coalition of Republicans and southern Democrats had stalled new reforms. **Massive WWII spending** finally ended the Depression.
+
+!cec Depression, plus pressure from the left and Court defeats | Second New Deal: WPA, Social Security, Wagner Act | Lasting welfare state, union power, the New Deal coalition, and a much larger federal role
+
+## 6. Society in the Depression
+- **The Dust Bowl.** Drought plus years of over-plowing on the southern Great Plains produced massive dust storms. Hundreds of thousands of **"Okies"** went west to California, where they found low-paid migrant work. **John Steinbeck's** *The Grapes of Wrath* (1939) told their story. **Dorothea Lange's** photograph "Migrant Mother," taken for the Farm Security Administration, became the Depression's iconic image.
+- **African Americans** were often "last hired, first fired," and New Deal programs were sometimes administered in discriminatory ways, especially in the South. Still, FDR's informal **"Black Cabinet"** (including **Mary McLeod Bethune**) and **Eleanor Roosevelt's** advocacy brought new attention. In 1939 Eleanor Roosevelt helped arrange **Marian Anderson's** concert at the **Lincoln Memorial** after the DAR barred her from Constitution Hall. The **Scottsboro Boys** case (1931), nine Black youths falsely accused of rape in Alabama, exposed southern injustice.
+- **Mexican Americans**: during the **repatriation** campaigns, hundreds of thousands of Mexicans and Mexican Americans, many of them U.S. citizens, were pressured or forced to leave for Mexico.
+- **Native Americans**: the **Indian Reorganization Act (1934)**, pushed by **John Collier**, ended allotment and encouraged **tribal self-government**, reversing the Dawes Act.
+- **Women**: **Frances Perkins** became the **first woman cabinet member** (Secretary of Labor). Many married women faced pressure to leave jobs to men.
+
+## 7. Culture and diplomacy
+Americans sought **escape** at the movies: *Gone with the Wind* and *The Wizard of Oz* (both 1939), and Disney's *Snow White*. They also listened to **radio** (Orson Welles's *War of the Worlds* broadcast of 1938 caused a stir), **swing** music, and comic books (Superman, 1938).
+
+Other artists documented hard times:
+- The **social realism** of Steinbeck and FSA photographers
+- James Agee and Walker Evans's *Let Us Now Praise Famous Men*
+- Richard Wright's *Native Son* (1940)
+- **Regionalist** painting such as **Grant Wood's** *American Gothic*
+
+Abroad, FDR announced the **Good Neighbor Policy** toward Latin America: no more armed intervention. The U.S. gave up its Platt Amendment rights in Cuba (1934). The U.S. also **recognized the Soviet Union** (1933).
+
+@mustknow
+- Causes: **unequal income/underconsumption**, **margin buying**, **weak banks**, farm slump, **Hawley-Smoot Tariff**, international debt. The Crash (**Oct. 1929**) was the trigger.
+- **Hoover**: voluntarism, **RFC** (loans to banks and business), opposed direct relief. **Bonus Army** (1932) dispersed by MacArthur.
+- The three R's: **Relief, Recovery, Reform**.
+- First New Deal: **Emergency Banking Act**, **FDIC** (Glass-Steagall), **SEC**, **CCC**, **AAA** (pay farmers to cut output), **NIRA/NRA**, **TVA**.
+- Critics: **Huey Long** (Share Our Wealth), **Coughlin**, **Townsend** (pensions), **American Liberty League** (right).
+- Court: **Schechter** (1935) killed the NIRA; **Butler** (1936) killed the AAA. **Court-packing** failed (1937).
+- Second New Deal: **WPA**, **Social Security Act**, **Wagner Act** (collective bargaining, NLRB), **Fair Labor Standards Act** (1938, minimum wage).
+- **CIO** (industrial unions, John L. Lewis) vs. AFL (craft). **Flint sit-down strike**.
+- **New Deal coalition** (incl. African Americans switching to the Democrats). **Keynes**: deficit spending.
+- **Dust Bowl** → *Grapes of Wrath*; **Indian Reorganization Act**; **Frances Perkins**; **Good Neighbor Policy**.
+
+@timeline
+1929 | Stock market crash (Black Tuesday, Oct. 29) | key
+1930 | Hawley-Smoot Tariff; bank failures spread
+1931 | Hoover debt moratorium; Scottsboro case
+1932 | Reconstruction Finance Corporation; Bonus Army routed; FDR elected | key
+1933 | Hundred Days: bank holiday, CCC, AAA, NIRA, TVA, FDIC; 21st Amendment; Good Neighbor Policy | key
+1934 | SEC created; Indian Reorganization Act; American Liberty League
+1935 | Second New Deal: WPA, Social Security Act, Wagner Act; Schechter decision; Huey Long assassinated; CIO formed | key
+1936 | U.S. v. Butler; FDR landslide reelection; Flint sit-down strike begins
+1937 | Court-packing plan fails; West Coast Hotel v. Parrish; "Roosevelt recession"
+1938 | Fair Labor Standards Act; *War of the Worlds* broadcast | key
+1939 | *The Grapes of Wrath*; Marian Anderson at the Lincoln Memorial
+
+@cards
+Black Tuesday (Oct. 29, 1929) :: The worst day of the stock market crash. It triggered, but did not by itself cause, the Great Depression.
+Buying on margin :: Buying stock with borrowed money. It inflated the 1920s bubble and magnified losses in the crash.
+Hawley-Smoot Tariff (1930) :: Record-high tariff. Other countries retaliated, and world trade shrank, deepening the Depression.
+Reconstruction Finance Corporation (1932) :: Hoover's agency lending to banks, railroads, and big business. "Trickle-down" relief.
+Bonus Army (1932) :: WWI veterans who camped in Washington demanding early bonus payment. Driven out by the army under MacArthur.
+Hoovervilles :: Shantytowns of homeless people during the early Depression, named mockingly for Hoover.
+Hundred Days (1933) :: FDR's first burst of legislation: banking reform, CCC, AAA, NIRA, TVA, and more.
+FDIC :: Federal Deposit Insurance Corporation (Glass-Steagall Act, 1933). Insures bank deposits and ended bank runs.
+SEC (1934) :: Securities and Exchange Commission. Regulates the stock market to prevent fraud and manipulation.
+CCC :: Civilian Conservation Corps. Employed young men in reforestation, parks, and flood control.
+AAA (1933) :: Agricultural Adjustment Act. Paid farmers to reduce production to raise prices. Struck down in U.S. v. Butler (1936).
+NIRA / NRA (1933) :: Industry codes on prices, wages, and hours. Section 7(a) union rights. Struck down in Schechter Poultry (1935).
+TVA :: Tennessee Valley Authority. Federal dams providing electricity, flood control, and development in a poor region.
+Huey Long :: Louisiana senator whose "Share Our Wealth" plan proposed redistributing great fortunes. Assassinated in 1935.
+WPA (1935) :: Works Progress Administration. Millions of public works jobs, plus federal arts, writers', and theater projects.
+Social Security Act (1935) :: Old-age pensions, unemployment insurance, and aid to dependent children. Initially excluded farm and domestic workers.
+Wagner Act (1935) :: National Labor Relations Act. Guaranteed the right to unionize and bargain collectively. Created the NLRB.
+Fair Labor Standards Act (1938) :: First federal minimum wage, 40-hour workweek standard, and a ban on most child labor.
+CIO :: Congress of Industrial Organizations (John L. Lewis). Organized whole industries (autos, steel), including unskilled workers.
+Court-packing plan (1937) :: FDR's failed proposal to add up to six justices. The Court began upholding New Deal laws anyway.
+New Deal coalition :: Urban workers, unions, immigrants, Catholics, Jews, African Americans, white southerners, and intellectuals voting Democratic.
+Keynesian economics :: John Maynard Keynes: government deficit spending can boost demand and fight depressions.
+Dust Bowl :: 1930s drought and over-plowing on the southern Plains. Okies migrated to California (*The Grapes of Wrath*).
+Indian Reorganization Act (1934) :: "Indian New Deal" (John Collier). Ended allotment and restored tribal self-government.
+Frances Perkins :: Secretary of Labor and the first woman in a presidential cabinet. Key architect of Social Security.
+Good Neighbor Policy :: FDR's pledge of non-intervention in Latin America. Gave up Platt Amendment rights (1934).
+
+@questions
+Q eco e
+Which of the following was a major underlying cause of the Great Depression?
++ Unequal distribution of income that limited consumers' ability to buy what industry produced || Wages lagged behind productivity, so purchasing power could not keep up with output, a classic underconsumption problem.
+- Excessively strict regulation of the stock market in the 1920s || The market was largely unregulated. The SEC came only in 1934.
+- High taxes on the wealthy during the 1920s || Mellon's policies cut taxes on the wealthy.
+- A shortage of consumer goods during the 1920s || The problem was overproduction, not shortage.
+- The New Deal's spending programs || The New Deal began in 1933, after the Depression started.
+
+Q eco e
+The Hawley-Smoot Tariff of 1930 worsened the Depression because it
++ led other nations to raise their own tariffs, causing international trade to collapse || Retaliation shrank world trade sharply and hurt American farmers and manufacturers who depended on exports.
+- abolished all tariffs and flooded U.S. markets with imports || It raised tariffs to record levels.
+- created the Federal Reserve || The Federal Reserve was created in 1913.
+- forced Germany to pay war reparations || Reparations came from the Treaty of Versailles.
+- required farmers to destroy crops || Crop reduction was the AAA's approach in 1933.
+
+Q eco m
+Buying stocks "on margin" in the 1920s contributed to the 1929 crash because
++ investors borrowed most of the purchase price, so falling prices forced them to sell to repay loans, which drove prices down further || Margin calls created a downward spiral, wiping out investors and the banks that lent to them.
+- it was illegal and led to mass arrests || Margin buying was legal and widespread.
+- the federal government guaranteed all stock losses || There was no such guarantee.
+- it restricted stock ownership to large banks || Margin buying drew in ordinary investors.
+- it caused stock prices to remain unrealistically low || It inflated prices during the boom.
+
+Q eco m
+The Agricultural Adjustment Act (1933) attempted to raise farm prices by
++ paying farmers to reduce the amount of crops and livestock they produced || Reducing supply would raise prices. Critics noted that landowners benefited while many tenants and sharecroppers were pushed off the land.
+- buying farmers' surplus crops and selling them abroad at low prices || That was close to the McNary-Haugen idea that Coolidge vetoed.
+- nationalizing large farms || The AAA did not nationalize farms.
+- eliminating all tariffs on farm products || The AAA used payments and a processing tax, not tariff changes.
+- encouraging farmers to plant more cotton and wheat || The goal was to reduce production.
+
+Q eco h
+> Unemployment rate (percentage of the labor force): 1929: 3%; 1933: 25%; 1937: 14%; 1938: 19%; 1941: 10%; 1944: 1%
+Which conclusion is best supported by the data above?
++ Unemployment improved under the New Deal but rose again in 1937–38 and fell to very low levels only during World War II. || The 1938 jump reflects the "Roosevelt recession" after spending cuts. Wartime mobilization nearly eliminated unemployment.
+- The New Deal fully ended unemployment by 1937. || Unemployment remained around 14% in 1937.
+- Unemployment was highest in 1929, the year of the crash. || 1929 was near full employment. The peak came in 1933.
+- Unemployment rose steadily from 1933 to 1944. || It fell overall, especially in the war years.
+- World War II had no effect on unemployment. || Unemployment dropped to about 1% by 1944.
+
+Q pol e
+President Hoover's main response to the Depression emphasized
++ voluntary cooperation by business and local relief, with federal loans to banks and businesses through the RFC || Hoover believed direct federal relief to individuals would undermine self-reliance ("rugged individualism").
+- direct federal payments to every unemployed worker || Hoover opposed direct federal relief.
+- government ownership of major industries || Hoover strongly opposed nationalization.
+- immediate abandonment of the gold standard || FDR left the gold standard in 1933.
+- the creation of Social Security || Social Security came under FDR in 1935.
+
+Q pol e
+The Federal Deposit Insurance Corporation (FDIC), created in 1933, was designed to
++ insure individual bank deposits and restore confidence in the banking system || Once deposits were insured, bank runs largely stopped. The FDIC still exists.
+- regulate the stock market || That is the SEC's job.
+- provide jobs for unemployed young men || That was the CCC.
+- build dams in the Tennessee Valley || That was the TVA.
+- pay pensions to the elderly || That is Social Security.
+
+Q pol e
+Which New Deal program provided old-age pensions funded by payroll taxes?
++ The Social Security Act || Passed in 1935, it also created unemployment insurance and aid to dependent children.
+- The Civilian Conservation Corps || The CCC employed young men in conservation work.
+- The Agricultural Adjustment Act || The AAA dealt with farm prices.
+- The Tennessee Valley Authority || The TVA was a regional development agency.
+- The Securities and Exchange Commission || The SEC regulates securities markets.
+
+Q pol e
+The Wagner Act (National Labor Relations Act) of 1935 was significant because it
++ guaranteed workers' right to organize unions and bargain collectively, enforced by the National Labor Relations Board || It led to explosive union growth, especially in CIO industrial unions.
+- outlawed strikes in essential industries || It protected labor activity. Restrictions came later, with Taft-Hartley in 1947.
+- established the first federal minimum wage || That was the Fair Labor Standards Act (1938).
+- abolished the American Federation of Labor || The AFL continued.
+- created the Department of Labor || The Department of Labor dates from 1913.
+
+Q pol m
+The Tennessee Valley Authority was unusual among New Deal programs because it
++ involved direct federal ownership of dams and power plants to develop an entire region || The TVA provided flood control, cheap electricity, and economic planning, which critics called socialism.
+- was run entirely by private utility companies || Private utilities opposed the TVA as government competition.
+- was declared unconstitutional in Schechter Poultry || Schechter struck down the NIRA.
+- provided pensions for retired workers || Pensions came under Social Security.
+- was created by President Hoover || The TVA was created in 1933 under FDR.
+
+Q pol m
+In Schechter Poultry Corp. v. United States (1935), the Supreme Court
++ struck down the National Industrial Recovery Act as an unconstitutional delegation of power and overreach of the commerce power || The "sick chicken" case ended the NRA codes.
+- upheld the Social Security Act || Social Security was upheld in 1937.
+- upheld the Wagner Act || The Wagner Act was upheld in NLRB v. Jones & Laughlin (1937).
+- struck down the Agricultural Adjustment Act || That was U.S. v. Butler (1936).
+- approved Roosevelt's court-packing plan || Congress, not the Court, rejected court-packing.
+
+Q pol m
+Franklin Roosevelt's 1937 proposal to add up to six justices to the Supreme Court
++ was defeated in Congress, even though the Court soon began upholding New Deal laws || The plan alarmed even allies, but after West Coast Hotel v. Parrish (1937) the Court stopped striking down economic regulation.
+- was approved and permanently expanded the Court to fifteen members || The plan failed. The Court has had nine justices since 1869.
+- was endorsed by the American Liberty League || The Liberty League bitterly opposed FDR.
+- led to the impeachment of several justices || No justices were impeached.
+- was part of the First Hundred Days || The plan came in 1937, after FDR's reelection.
+
+Q pol m
+Huey Long, Father Charles Coughlin, and Dr. Francis Townsend were alike in that they
++ criticized the New Deal for not going far enough and proposed more radical plans to aid ordinary Americans || Their popularity pushed FDR toward the Second New Deal, including Social Security.
+- were members of FDR's Brain Trust || They were outside critics, not advisers.
+- led the American Liberty League || The Liberty League criticized the New Deal from the right.
+- were Republican presidential candidates || None was a Republican nominee.
+- supported Hoover's policy of voluntarism || They demanded far more government action.
+
+Q pol h
+Which of the following New Deal measures came FIRST?
++ The Emergency Banking Act || It passed in March 1933, within days of FDR's inauguration.
+- The Social Security Act || That was 1935.
+- The Wagner Act || That was 1935.
+- The Fair Labor Standards Act || That was 1938.
+- The court-packing proposal || That was 1937.
+
+Q pol m
+The Bonus Army of 1932 consisted of
++ World War I veterans demanding early payment of a promised bonus, who were driven out of Washington by the army || Hoover's use of troops under MacArthur badly damaged his reputation.
+- unemployed workers led by Jacob Coxey || Coxey's Army marched in 1894.
+- members of the Civilian Conservation Corps || The CCC was created in 1933.
+- farmers protesting the AAA || The AAA did not exist until 1933.
+- union members staging the Flint sit-down strike || Flint occurred in 1936–37.
+
+Q pol m
+The "New Deal coalition" that kept Democrats dominant after 1936 included all of the following groups EXCEPT
++ wealthy business leaders of the American Liberty League || The Liberty League's industrialists were among FDR's fiercest opponents.
+- urban industrial workers and union members || Workers and unions were core members.
+- African Americans in northern cities || Many Black voters switched from Republicans to Democrats in the 1930s.
+- white southerners || The "Solid South" remained Democratic.
+- Catholic and Jewish immigrants and their children || Ethnic urban voters were central to the coalition.
+
+Q pol h
+The Fair Labor Standards Act of 1938 is significant because it
++ established a federal minimum wage, a standard 40-hour workweek with overtime, and limits on child labor || It was the last major New Deal reform and was upheld by the Supreme Court in U.S. v. Darby (1941).
+- created unemployment insurance || Unemployment insurance came with the Social Security Act (1935).
+- guaranteed collective bargaining rights || That was the Wagner Act (1935).
+- ended segregation in New Deal programs || The FLSA did not address segregation.
+- was struck down by the Supreme Court in 1938 || It was upheld.
+
+Q pol h
+Supporters of Keynesian economics would most likely argue that during a depression the federal government should
++ increase spending, even if it means running a deficit, to boost overall demand || Keynes argued that government spending could replace lost private demand. The 1937–38 recession after spending cuts seemed to confirm him.
+- balance the budget by cutting spending and raising taxes || That orthodox approach was what Keynes criticized.
+- return to the gold standard to restrict the money supply || Keynes favored flexible monetary policy.
+- rely solely on private charity for relief || Keynes called for an active government role.
+- raise tariffs to protect domestic industry || Keynesian demand management is not built on tariffs, and high tariffs worsened the Depression.
+
+Q pol m
+The Securities and Exchange Commission, created in 1934, was established to
++ regulate the stock market and protect investors from fraud || The SEC required disclosure and policed manipulation, responding to abuses before the 1929 crash.
+- insure savings accounts || That is the FDIC.
+- set prices for farm products || That was the AAA's goal.
+- provide loans to homeowners || The Home Owners' Loan Corporation refinanced mortgages.
+- manage the Federal Reserve's interest rates || The Federal Reserve sets its own policy.
+
+Q pol m
+Franklin Roosevelt's "fireside chats" were
++ radio addresses in which he explained his policies directly to the American people || The chats built public confidence, beginning with his explanation of the bank holiday in March 1933.
+- secret meetings with his cabinet || The chats were public broadcasts.
+- newspaper columns written by Eleanor Roosevelt || Eleanor Roosevelt wrote a column called "My Day," but the fireside chats were FDR's radio talks.
+- televised debates with Hoover || Television was not in use. Presidential debates on TV began in 1960.
+- congressional hearings on bank failures || The chats were direct presidential communication.
+
+Q soc e
+The Dust Bowl of the 1930s was caused by
++ severe drought combined with years of over-plowing that removed the grass holding the soil || Without the root systems of native grasses, topsoil blew away in huge storms across the southern Plains.
+- floods along the Mississippi River || The Dust Bowl was a drought disaster.
+- the New Deal's AAA crop payments || The Dust Bowl's roots lay in earlier farming practices and drought.
+- the closing of western mines || Mining was unrelated.
+- an earthquake in California || The Dust Bowl struck the southern Great Plains, not California.
+
+Q soc e
+Hundreds of thousands of "Okies" in the 1930s
++ left the Dust Bowl region for California in search of work || Many became low-paid migrant farm laborers, as depicted in *The Grapes of Wrath*.
+- moved from northern cities to the rural South || The Okie migration ran west, not from northern cities south.
+- were veterans who joined the Bonus Army || The Bonus Army was a separate 1932 protest.
+- were Native Americans relocated under the Dawes Act || Allotment came earlier, and the term refers to Plains farm families.
+- emigrated to Mexico during repatriation campaigns || Repatriation targeted Mexican Americans, not Okies.
+
+Q soc m
+Which of the following best describes the experience of African Americans during the New Deal?
++ They often faced discrimination in New Deal programs but increasingly shifted their votes to the Democratic Party || Despite unequal treatment, jobs programs and Eleanor Roosevelt's advocacy drew Black voters into the New Deal coalition.
+- New Deal laws ended segregation in the South || Segregation remained. FDR depended on southern Democrats.
+- Most remained loyal to the Republican Party throughout the 1930s || The decisive shift to Democrats happened in 1936.
+- They were excluded entirely from all relief programs || They received relief, though often unequally.
+- Congress passed a federal anti-lynching law || Anti-lynching bills were blocked by southern senators.
+
+Q soc m
+The Indian Reorganization Act of 1934 marked a shift in federal policy by
++ ending allotment and encouraging tribal self-government and preservation of Native cultures || John Collier's "Indian New Deal" reversed the assimilationist Dawes Act approach.
+- dividing reservations into individual family farms || That was the Dawes Act (1887).
+- forcing Native children into boarding schools || The IRA moved away from forced assimilation.
+- terminating federal recognition of tribes || Termination was a 1950s policy.
+- relocating Native Americans to Oklahoma || Removal was a nineteenth-century policy.
+
+Q soc m
+Frances Perkins is significant in American history as
++ the first woman to serve in a presidential cabinet, as Secretary of Labor || Perkins helped design Social Security and the Fair Labor Standards Act.
+- the first woman elected to Congress || That was Jeannette Rankin (1916).
+- the founder of Hull House || Jane Addams founded Hull House.
+- the photographer of "Migrant Mother" || Dorothea Lange took that photo.
+- the leader of the National Woman's Party || Alice Paul led the NWP.
+
+Q soc m
+The CIO differed from the AFL in the 1930s because the CIO
++ organized all workers in an industry, including the unskilled, rather than only skilled craftsmen || Industrial unionism succeeded in autos, steel, and rubber. The AFL and CIO merged in 1955.
+- opposed collective bargaining || The CIO aggressively pursued collective bargaining.
+- represented only farm workers || The CIO organized mass-production industries.
+- was founded by Samuel Gompers || Gompers founded the AFL. The CIO was led by John L. Lewis.
+- refused to admit African American workers || CIO unions were more open to Black workers than many AFL craft unions.
+
+Q soc h
+The sit-down strike at General Motors' plant in Flint, Michigan (1936–1937), was significant because
++ workers occupied the factory until GM recognized the United Auto Workers || The victory showed the power of industrial unionism under the protection of the Wagner Act.
+- it was crushed by federal troops sent by Roosevelt || FDR and Michigan's governor refused to use force to evict the strikers.
+- it led to the creation of the AFL || The AFL dated from 1886.
+- it ended with the closing of the auto industry || GM settled and production resumed.
+- it was organized by the Knights of Labor || The Knights had disappeared decades earlier.
+
+Q soc h
+During the early 1930s, local and federal authorities pressured hundreds of thousands of people of Mexican descent to leave the United States. This repatriation campaign
++ included many U.S. citizens, especially American-born children || Officials blamed Mexicans for taking scarce jobs and relief. Many deportees and "voluntary" returnees were citizens.
+- was required by the Immigration Act of 1924 || The 1924 act did not set quotas for Western Hemisphere nations.
+- was supported by the Wagner Act || The Wagner Act concerned labor organizing.
+- ended with the Bracero Program in 1932 || The Bracero Program began in 1942.
+- affected only migrants who had arrived after 1929 || Long-time residents and citizens were also pushed out.
+
+Q soc m
+In 1939 Marian Anderson sang at the Lincoln Memorial after
++ the Daughters of the American Revolution barred her from performing at Constitution Hall because she was Black || Eleanor Roosevelt resigned from the DAR and helped arrange the outdoor concert, attended by about 75,000.
+- she won the first Grammy Award || The Grammys began in 1959.
+- the Supreme Court ordered desegregation of concert halls || No such ruling existed.
+- she was named to FDR's Black Cabinet || Mary McLeod Bethune was a key Black Cabinet member. Anderson was a singer.
+- Congress passed the Civil Rights Act of 1939 || There was no such act.
+
+Q cul e
+John Steinbeck's novel *The Grapes of Wrath* (1939) told the story of
++ a Dust Bowl family that migrated to California in search of work || The Joad family's journey dramatized the plight of displaced Okies.
+- wealthy New Yorkers in the Jazz Age || That describes *The Great Gatsby*.
+- immigrant meatpackers in Chicago || That is *The Jungle*.
+- African Americans in Harlem || That subject belongs to the Harlem Renaissance.
+- soldiers in World War I || That is Hemingway's *A Farewell to Arms*.
+
+Q cul e
+Dorothea Lange's photograph "Migrant Mother" became an iconic image of
++ the hardship of poor families during the Great Depression || Lange took it in 1936 for the Farm Security Administration's documentary program.
+- the Harlem Renaissance || Lange documented rural poverty.
+- World War II women factory workers || That image is "Rosie the Riveter."
+- the Progressive Era tenements || That was Jacob Riis.
+- suburban prosperity in the 1950s || Lange's work documented the Depression.
+
+Q cul m
+The Federal Writers' Project, Federal Art Project, and Federal Theatre Project were part of
++ the Works Progress Administration, which employed artists, writers, and performers || These projects produced murals, state guidebooks, oral histories of formerly enslaved people, and plays.
+- Hoover's Reconstruction Finance Corporation || The RFC lent to banks and businesses.
+- the Tennessee Valley Authority || The TVA built dams and power plants.
+- the Agricultural Adjustment Administration || The AAA dealt with farm production.
+- the Securities and Exchange Commission || The SEC regulated markets.
+
+Q cul m
+Popular culture of the 1930s, including Hollywood films such as *The Wizard of Oz* and swing music, largely served to
++ provide escape and entertainment for Americans facing economic hardship || Movie attendance remained high as audiences sought relief from the Depression.
+- promote communist revolution || Mainstream popular culture was not revolutionary.
+- criticize the New Deal's spending || Most popular entertainment was escapist, not political critique.
+- prepare Americans for war with Japan || The war was not yet a theme of these works.
+- celebrate the excesses of the Jazz Age || The 1920s mood had faded.
+
+Q cul m
+Grant Wood's painting *American Gothic* and the work of Thomas Hart Benton are examples of
++ Regionalism, which celebrated rural and small-town Midwestern life || Regionalists turned away from European abstraction toward American subjects during the 1930s.
+- Abstract Expressionism || Abstract Expressionism (Pollock) came in the 1940s–50s.
+- the Ashcan School || The Ashcan School painted urban scenes in the early 1900s.
+- Pop Art || Pop Art (Warhol) came in the 1960s.
+- Cubism introduced at the Armory Show || Cubism was a European modernist style.
+
+Q cul h
+Orson Welles's 1938 radio broadcast of *The War of the Worlds* is often cited as evidence of
++ radio's enormous power to reach and influence a mass audience || Some listeners mistook the realistic drama of a Martian invasion for news, though the scale of the panic was later exaggerated by the press.
+- the federal government's censorship of radio || The broadcast was not censored.
+- the decline of radio in the 1930s || Radio was at its peak.
+- the success of the Federal Theatre Project || Welles's broadcast was a CBS production, not a WPA project.
+- public enthusiasm for space exploration || The space program came decades later.
+
+Q cul h
+Richard Wright's novel *Native Son* (1940) is best known for
++ its portrayal of how poverty and racism in Chicago shaped a young Black man's life || Wright's naturalistic novel was a bestseller and a landmark of African American literature.
+- celebrating rural life in the Midwest || That fits Regionalism, not Wright.
+- depicting the Dust Bowl migration || That is *The Grapes of Wrath*.
+- satirizing small-town businessmen || That is Sinclair Lewis's *Babbitt*.
+- describing combat in World War II || The novel was published before the U.S. entered the war and does not concern combat.
+
+Q dip m
+Franklin Roosevelt's Good Neighbor Policy toward Latin America emphasized
++ nonintervention and cooperation instead of military interference in Latin American affairs || The U.S. withdrew Marines from Haiti and gave up its Platt Amendment right to intervene in Cuba (1934).
+- enforcing the Roosevelt Corollary more aggressively || The Good Neighbor Policy effectively repudiated the Corollary's interventionism.
+- annexing Cuba and Puerto Rico as states || Neither was annexed as a state.
+- building a second canal through Nicaragua || No such canal was built.
+- ending all trade with Latin America || The policy aimed to increase trade and goodwill.
