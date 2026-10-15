@@ -1,0 +1,593 @@
+@title: Civil Rights, the Great Society, and Vietnam
+@years: 1954–1975
+@period: late
+@weight: 13
+
+@lesson
+## The big picture
+This is the **most heavily weighted unit**, and it carries a large share of the social and cultural questions. Between 1954 and 1975 four things happened at once:
+- The **civil rights movement** destroyed legal segregation and won federal protection of voting rights.
+- **Lyndon Johnson's Great Society** built the largest expansion of federal social programs since the New Deal.
+- The **Warren Court** expanded individual rights.
+- Women, Latinos, Native Americans, gay Americans, and environmentalists launched their own movements.
+
+Over all of it hung the **Vietnam War**. It split the country, drove LBJ from office, fed a youth **counterculture**, and ended in American withdrawal.
+
+## 1. The civil rights movement, phase one (1954–1960)
+**Brown v. Board of Education** (1954) was the legal breakthrough. NAACP lawyer **Thurgood Marshall** argued it, and a unanimous Court under Chief Justice **Earl Warren** ruled that **segregated public schools are "inherently unequal."** That overturned *Plessy* in education. A second ruling (1955) ordered desegregation "with all deliberate speed," which southern officials treated as permission to delay. Over 100 southern congressmen signed the **Southern Manifesto** (1956) pledging **"massive resistance."**
+
+Key events of the 1950s:
+- **Emmett Till** (1955), a 14-year-old from Chicago, was murdered in Mississippi. His mother's open-casket funeral shocked the nation.
+- **Montgomery Bus Boycott** (1955–56): after **Rosa Parks** refused to give up her bus seat, Black residents boycotted the buses for **381 days**, led by a young minister, **Martin Luther King Jr.** A Supreme Court ruling ended bus segregation. King and others then formed the **Southern Christian Leadership Conference (SCLC)** in 1957, committed to **nonviolent** direct action.
+- **Little Rock** (1957): Arkansas governor **Orval Faubus** used the National Guard to block nine Black students from Central High School. **Eisenhower** sent the **101st Airborne** to enforce the court order.
+- The **Civil Rights Act of 1957** was the first since Reconstruction. It was weak, but it created a Civil Rights Commission.
+
+## 2. Phase two: direct action (1960–1965)
+- **Sit-ins** (1960): four Black college students sat at a whites-only **Woolworth's lunch counter in Greensboro, North Carolina**. Sit-ins spread across the South. With help from **Ella Baker**, students formed the **Student Nonviolent Coordinating Committee (SNCC)**.
+- **Freedom Rides** (1961): **CORE** sent integrated groups on interstate buses to test desegregation rulings. Mobs firebombed a bus in Alabama, and the Kennedy administration finally sent federal marshals.
+- **James Meredith** integrated the University of Mississippi (1962) under federal protection.
+- **Birmingham** (1963): police chief **Bull Connor** turned **fire hoses and police dogs** on marching children, and the images went around the world. Jailed, King wrote his **"Letter from Birmingham Jail,"** defending civil disobedience against unjust laws.
+- **March on Washington** (August 1963): about 250,000 people gathered at the Lincoln Memorial, where King gave his **"I Have a Dream"** speech. Weeks later, a bomb at Birmingham's **16th Street Baptist Church** killed four girls.
+
+After Kennedy's assassination, **Lyndon Johnson** used his legislative skill to break a southern filibuster and pass the **Civil Rights Act of 1964**:
+- It banned segregation in **public accommodations** (hotels, restaurants, theaters).
+- Its **Title VII** banned employment discrimination by race, color, religion, national origin, **and sex**.
+- It created the **Equal Employment Opportunity Commission** (EEOC).
+
+The **Twenty-fourth Amendment** (1964) outlawed **poll taxes** in federal elections.
+
+**Voting rights:** In **Freedom Summer** (1964), volunteers registered Black voters in Mississippi, and three civil rights workers were murdered. **Fannie Lou Hamer's** **Mississippi Freedom Democratic Party** challenged the all-white state delegation at the Democratic convention. In **Selma** (March 1965), state troopers beat marchers, including **John Lewis**, on **"Bloody Sunday."** Days later Johnson called for the **Voting Rights Act of 1965**. It suspended **literacy tests**, sent **federal examiners** to register voters, and required federal **preclearance** of voting changes in covered states. Black registration in the South soared.
+
+!cec Jim Crow plus nonviolent protest met with televised violence (Birmingham, Selma) | Civil Rights Act (1964) and Voting Rights Act (1965) | Legal segregation ends; Black voting rises; the South shifts toward the Republican Party over time
+
+## 3. Phase three: Black Power and urban unrest (1965–1968)
+Legal victories did not end northern poverty, police abuse, or housing segregation. Riots broke out in **Watts** (Los Angeles, 1965), Newark, and **Detroit** (1967). Johnson's **Kerner Commission** (1968) concluded: "Our nation is moving toward **two societies, one black, one white—separate and unequal**," and blamed white racism.
+
+**Malcolm X**, a minister of the **Nation of Islam**, rejected integration and nonviolence and stressed Black self-defense and pride. He later broke with the Nation and was assassinated in 1965. SNCC's **Stokely Carmichael** popularized **"Black Power"** (1966): racial pride, self-reliance, and Black control of Black communities. The **Black Panther Party** (Oakland, 1966; Huey Newton and Bobby Seale) organized armed patrols to watch police and ran free breakfast programs.
+
+On **April 4, 1968**, **King was assassinated** in Memphis, and riots followed in over 100 cities. Days later Congress passed the **Civil Rights Act of 1968** (the **Fair Housing Act**). In 1971 the Court approved **busing** to desegregate schools (**Swann v. Charlotte-Mecklenburg**).
+
+## 4. Kennedy and Johnson
+**John F. Kennedy** narrowly beat Richard Nixon in **1960**. Nixon was hurt in the first **televised debates**, and Kennedy became the first Catholic president. JFK's **"New Frontier"** produced the **Peace Corps** and a pledge to land on the **moon**; **Apollo 11** did it in 1969. Most of his domestic agenda stalled in Congress. He was **assassinated in Dallas** on **November 22, 1963**.
+
+JFK's Cold War crises:
+- The CIA-planned **Bay of Pigs** invasion of Cuba by exiles (April 1961) failed.
+- The **Berlin Wall** went up (August 1961).
+- In the **Cuban Missile Crisis** (October 1962), the U.S. discovered Soviet nuclear missiles in Cuba. Kennedy imposed a naval **"quarantine"** (blockade). After 13 tense days, **Khrushchev removed the missiles** in exchange for a U.S. pledge not to invade Cuba and a secret agreement to remove U.S. missiles from Turkey. It was the **closest the world came to nuclear war**.
+- Afterward came a **hotline** between Washington and Moscow and the **Limited Test Ban Treaty** (1963), which banned above-ground nuclear tests.
+- Kennedy replaced massive retaliation with **"flexible response,"** which included more conventional and counterinsurgency forces such as the Green Berets.
+
+**Lyndon B. Johnson** won a landslide over conservative Republican **Barry Goldwater** in **1964**. He then launched the **Great Society**, inspired partly by **Michael Harrington's** *The Other America* (1962), which exposed hidden poverty. Its main pieces:
+- **War on Poverty** (Economic Opportunity Act, 1964): **Job Corps**, VISTA, community action programs, and **Head Start** for preschoolers.
+- **Medicare** (health insurance for the **elderly**) and **Medicaid** (for the **poor**), 1965.
+- The **Elementary and Secondary Education Act** (1965): the first major federal aid to public schools.
+- The **Immigration and Nationality Act of 1965** (Hart-Celler) **abolished the national-origins quotas** of 1924. Immigration from **Asia and Latin America** grew dramatically as a result.
+- New departments (Housing and Urban Development, Transportation), the **National Endowments for the Arts and Humanities**, and public broadcasting.
+
+Johnson also appointed **Thurgood Marshall**, the first Black Supreme Court justice (1967). Poverty fell sharply in the late 1960s, but the war in Vietnam drained money and attention from the Great Society.
+
+## 5. The Warren Court (1953–1969)
+Chief Justice **Earl Warren's** Court expanded rights dramatically:
+- **Mapp v. Ohio** (1961): illegally obtained evidence is excluded from state trials.
+- **Engel v. Vitale** (1962): official **school prayer** is unconstitutional.
+- **Gideon v. Wainwright** (1963): states must provide **lawyers** to poor defendants.
+- **Reynolds v. Sims** (1964), following Baker v. Carr: **"one person, one vote"** in legislative districts.
+- **Griswold v. Connecticut** (1965): a right to **privacy** covering contraception.
+- **Miranda v. Arizona** (1966): police must inform suspects of their **rights**.
+- **Loving v. Virginia** (1967): struck down bans on **interracial marriage**.
+- **Tinker v. Des Moines** (1969): students' antiwar armbands are protected speech.
+
+Conservatives accused the Court of "judicial activism."
+
+## 6. Other rights movements
+- **Women:** **Betty Friedan's** *The Feminine Mystique* (1963) described the "problem that has no name," the discontent of educated suburban housewives. Friedan co-founded the **National Organization for Women (NOW)** in 1966.
+  - The **Equal Pay Act** (1963) and **Title VII** opened legal doors.
+  - Radical "women's liberation" groups raised consciousness, and **Gloria Steinem** founded *Ms.* magazine (1972).
+  - Congress passed the **Equal Rights Amendment** in 1972. **Phyllis Schlafly** led opposition, and it fell short of ratification.
+  - **Title IX** (1972) banned sex discrimination in federally funded education, transforming women's sports.
+  - **Roe v. Wade** (1973) legalized abortion nationwide.
+- **Latinos:** **César Chávez** and **Dolores Huerta's** **United Farm Workers** used strikes and a national **grape boycott** (1965–70) to win contracts for migrant farmworkers. The **Chicano movement** demanded political power and bilingual education.
+- **Native Americans:** The **American Indian Movement** (AIM, 1968) and others **occupied Alcatraz** (1969–71) and **Wounded Knee** (1973). Policy shifted to tribal **self-determination** (1975 act).
+- **Gay rights:** the **Stonewall riots** (New York, 1969), sparked by a police raid on a gay bar, launched the modern gay liberation movement.
+- **Environment:** **Rachel Carson's** *Silent Spring* (1962) exposed the dangers of the pesticide **DDT** and launched modern environmentalism. The first **Earth Day** was held in 1970.
+- **Consumers:** **Ralph Nader's** *Unsafe at Any Speed* (1965) attacked auto safety.
+
+## 7. The Vietnam War
+**Roots:** After the French defeat (1954), the U.S. backed **Ngo Dinh Diem's** South Vietnam against **Ho Chi Minh's** communist North and the southern guerrillas, the **Viet Cong**. Policy rested on containment and the **domino theory**. Kennedy raised the number of military "advisers" to about 16,000. Diem, unpopular for persecuting Buddhists, was overthrown and killed in a coup in November 1963.
+
+**Escalation:** In August 1964, North Vietnamese boats reportedly attacked U.S. destroyers. The reports were murky, and the second attack probably never happened. Congress passed the **Gulf of Tonkin Resolution** almost unanimously. It gave Johnson a **"blank check"** to use force without a declaration of war. In 1965 he began sustained bombing (**Operation Rolling Thunder**) and sent ground combat troops. U.S. forces peaked at about **536,000** in 1968. General **William Westmoreland** pursued a **war of attrition**: "search and destroy" missions measured by **body counts**. Officials' optimistic claims created a **"credibility gap."**
+
+**The turning point:** In the **Tet Offensive** (January 1968), communist forces attacked cities across South Vietnam, even the U.S. embassy grounds in Saigon. Militarily it was a **defeat for the communists**, but it was a **political and psychological victory**: it shattered claims that the war was nearly won. Respected TV anchor Walter Cronkite called the war a stalemate. In March, Johnson announced he would **not seek reelection**.
+
+**1968, year of shocks:** King was assassinated in April. **Robert Kennedy** was assassinated in June while running for president. Police clashed with antiwar protesters at the **Democratic convention in Chicago**. **Richard Nixon** won by appealing to the **"silent majority"** and **"law and order."** Third-party candidate George Wallace carried five Deep South states.
+
+**Nixon's war:**
+- **Vietnamization**: gradually withdrawing U.S. troops while building up South Vietnamese forces.
+- The **Nixon Doctrine**: allies must supply their own troops.
+- He secretly bombed and then invaded **Cambodia** (1970), setting off campus protests. National Guardsmen killed four students at **Kent State** and police killed two at **Jackson State**.
+- The **My Lai massacre** (1968, revealed in 1969), in which U.S. troops killed hundreds of unarmed villagers, deepened disillusionment.
+- **Daniel Ellsberg** leaked the **Pentagon Papers** (1971), a secret history showing that officials had misled the public. The Supreme Court allowed the *New York Times* to publish them.
+- The **Paris Peace Accords** (January 1973) withdrew U.S. forces. The **draft ended** in 1973.
+- **Saigon fell** to North Vietnam in **April 1975**.
+
+About **58,000 Americans** and millions of Vietnamese died. Congress reasserted itself with the **War Powers Resolution** (1973), which requires the president to notify Congress within 48 hours of sending troops and to withdraw them within 60 days without authorization. The **Twenty-sixth Amendment** (1971) lowered the **voting age to 18**: if you were old enough to be drafted, you were old enough to vote.
+
+!cec Containment and the domino theory; Gulf of Tonkin Resolution | Escalation to over 500,000 troops; Tet Offensive (1968) | Johnson withdraws from the race; Vietnamization; antiwar movement; War Powers Resolution; a "Vietnam syndrome" of caution about intervention
+
+## 8. The New Left and the counterculture
+- **Students for a Democratic Society** (SDS) issued the **Port Huron Statement** (1962), which called for **"participatory democracy."**
+- The **Free Speech Movement** at **Berkeley** (1964) launched campus activism.
+- The antiwar movement grew from **teach-ins** to mass marches and draft-card burnings.
+- The **counterculture** of **"hippies"** rejected middle-class norms: long hair, rock music, drugs, communes, and the 1967 "Summer of Love" in San Francisco's Haight-Ashbury. It culminated at **Woodstock** (1969).
+- Folk and rock musicians such as **Bob Dylan** ("The Times They Are a-Changin'") gave the era its soundtrack.
+- Many Americans recoiled from the counterculture, which fed the conservative backlash that elected Nixon and later Reagan.
+
+@mustknow
+- **Brown v. Board** (1954): school segregation "inherently unequal" (Warren, Thurgood Marshall). Little Rock (1957): Eisenhower sent troops.
+- **Montgomery Bus Boycott** (1955–56, Parks, King) → **SCLC**. **Greensboro sit-ins** (1960) → **SNCC**. **Freedom Rides** (1961, CORE).
+- **Birmingham** (1963, "Letter from Birmingham Jail") → **March on Washington** ("I Have a Dream").
+- **Civil Rights Act of 1964** (public accommodations, Title VII jobs incl. sex). **24th Amendment** (poll tax). **Selma** → **Voting Rights Act of 1965**.
+- **Malcolm X**, **Black Power** (Carmichael), **Black Panthers**. **Kerner Commission**: "two societies."
+- **Great Society**: War on Poverty, **Medicare/Medicaid**, ESEA, **Immigration Act of 1965** (ended national-origins quotas).
+- Warren Court: **Gideon**, **Miranda**, **Engel**, **Mapp**, **Reynolds**, **Loving**, **Griswold**.
+- **Friedan** (*Feminine Mystique*, NOW), **Title IX**, **ERA** (failed), **Roe** (1973). **Chávez** (UFW, grape boycott). **AIM**. **Stonewall** (1969). **Carson** (*Silent Spring*).
+- JFK: **Bay of Pigs**, **Cuban Missile Crisis** (blockade; missiles out), Test Ban Treaty.
+- Vietnam: **Gulf of Tonkin Resolution** (1964), escalation, **Tet** (1968), **Vietnamization**, **Kent State** (1970), **Pentagon Papers**, **War Powers Resolution** (1973), **26th Amendment**, fall of Saigon (1975).
+
+@timeline
+1954 | Brown v. Board of Education | key
+1955 | Emmett Till murdered; Montgomery Bus Boycott begins
+1957 | Little Rock Nine; SCLC founded; Civil Rights Act of 1957
+1960 | Greensboro sit-ins; SNCC founded; Kennedy–Nixon debates | key
+1961 | Bay of Pigs; Freedom Rides; Berlin Wall
+1962 | Cuban Missile Crisis; *Silent Spring*; Port Huron Statement; Engel v. Vitale | key
+1963 | Birmingham campaign; March on Washington; *The Feminine Mystique*; Gideon; JFK assassinated (Nov. 22) | key
+1964 | Civil Rights Act; 24th Amendment; Freedom Summer; Gulf of Tonkin Resolution; War on Poverty; LBJ beats Goldwater | key
+1965 | Selma; Voting Rights Act; Medicare/Medicaid; Immigration Act; Malcolm X killed; Watts riot; combat troops to Vietnam | key
+1966 | Miranda; NOW founded; "Black Power"; Black Panthers founded
+1967 | Detroit riot; Loving v. Virginia; Thurgood Marshall joins the Court
+1968 | Tet Offensive; LBJ withdraws; King and RFK assassinated; Fair Housing Act; Chicago convention; Nixon elected | key
+1969 | Stonewall; Woodstock; Apollo 11; My Lai revealed
+1970 | Cambodia invasion; Kent State; first Earth Day
+1971 | Pentagon Papers; 26th Amendment; Swann busing decision
+1972 | Title IX; ERA passes Congress
+1973 | Paris Peace Accords; Roe v. Wade; War Powers Resolution; draft ends | key
+1975 | Fall of Saigon
+
+@cards
+Brown v. Board of Education (1954) :: Unanimous Warren Court: segregated public schools are "inherently unequal." Overturned Plessy in education.
+Montgomery Bus Boycott (1955–56) :: Sparked by Rosa Parks's arrest. A 381-day boycott led by Martin Luther King Jr. ended bus segregation.
+Little Rock Nine (1957) :: Nine Black students integrated Central High. Eisenhower sent the 101st Airborne after Gov. Faubus resisted.
+SCLC :: Southern Christian Leadership Conference (1957), King's organization of Black churches for nonviolent direct action.
+Greensboro sit-ins (1960) :: Students sat at a whites-only Woolworth's lunch counter. Sit-ins spread and led to SNCC.
+SNCC :: Student Nonviolent Coordinating Committee (1960, aided by Ella Baker). Sit-ins, Freedom Summer, later Black Power.
+Freedom Rides (1961) :: CORE's integrated bus trips through the South to test desegregation of interstate travel. Met with mob violence.
+"Letter from Birmingham Jail" (1963) :: King's defense of nonviolent civil disobedience against unjust laws and of urgency over waiting.
+March on Washington (1963) :: About 250,000 rallied for jobs and freedom. King's "I Have a Dream" speech.
+Civil Rights Act of 1964 :: Banned segregation in public accommodations and job discrimination (Title VII, including sex). Created the EEOC.
+Twenty-fourth Amendment (1964) :: Banned poll taxes in federal elections.
+Voting Rights Act of 1965 :: After Selma: suspended literacy tests, sent federal examiners, required preclearance. Black voter registration soared.
+Malcolm X :: Nation of Islam minister who promoted Black nationalism and self-defense. Assassinated in 1965.
+Black Power :: Slogan popularized by Stokely Carmichael (1966): racial pride, self-reliance, Black community control.
+Kerner Commission (1968) :: Report on urban riots: "two societies, one black, one white—separate and unequal." Blamed white racism.
+Great Society :: LBJ's programs: War on Poverty, Medicare, Medicaid, federal aid to education, Head Start, immigration reform.
+Medicare and Medicaid (1965) :: Medicare: health insurance for those 65 and older. Medicaid: health coverage for the poor.
+Immigration and Nationality Act of 1965 :: Ended national-origins quotas. Led to large increases in Asian and Latin American immigration.
+*The Other America* (1962) :: Michael Harrington's exposé of hidden poverty. Influenced the War on Poverty.
+Gideon v. Wainwright (1963) :: States must provide free lawyers to poor defendants in felony cases.
+Miranda v. Arizona (1966) :: Police must tell suspects their rights (silence, counsel) before questioning.
+Engel v. Vitale (1962) :: Official prayer in public schools violates the Establishment Clause.
+Cuban Missile Crisis (1962) :: Soviet missiles in Cuba. JFK's naval quarantine. Missiles removed in exchange for a no-invasion pledge (and secretly, Turkey).
+Bay of Pigs (1961) :: Failed CIA-backed invasion of Cuba by exiles. An embarrassment for JFK.
+*The Feminine Mystique* (1963) :: Betty Friedan's study of suburban women's discontent ("the problem that has no name"). Sparked second-wave feminism.
+NOW (1966) :: National Organization for Women, co-founded by Friedan. Pushed for legal equality and the ERA.
+Title IX (1972) :: Banned sex discrimination in federally funded education programs. Transformed women's athletics.
+César Chávez / UFW :: United Farm Workers (with Dolores Huerta). Nonviolent strikes and a national grape boycott for migrant farmworkers.
+Stonewall riots (1969) :: Resistance to a police raid on a New York gay bar. Launched the gay liberation movement.
+*Silent Spring* (1962) :: Rachel Carson's exposé of DDT and pesticides. Launched the modern environmental movement.
+Gulf of Tonkin Resolution (1964) :: Gave LBJ broad authority to use force in Vietnam without a declaration of war.
+Tet Offensive (1968) :: Communist attack across South Vietnam. A military failure, but it destroyed public confidence in the war.
+Vietnamization :: Nixon's policy of withdrawing U.S. troops while shifting combat to South Vietnamese forces.
+War Powers Resolution (1973) :: The president must notify Congress within 48 hours of deploying troops and withdraw within 60 days without approval.
+
+@questions
+Q pol e
+In Brown v. Board of Education (1954), the Supreme Court ruled that
++ racially segregated public schools are inherently unequal and therefore unconstitutional || The unanimous Warren Court decision overturned Plessy's "separate but equal" doctrine in public education.
+- "separate but equal" facilities were constitutional || That was Plessy v. Ferguson (1896), which Brown rejected.
+- busing to achieve integration was required nationwide || Busing was approved later, in Swann (1971).
+- states must provide lawyers for poor defendants || That was Gideon v. Wainwright (1963).
+- segregation in interstate buses was illegal || That was addressed in Boynton v. Virginia (1960) and enforced after the Freedom Rides.
+
+Q pol e
+The Civil Rights Act of 1964
++ outlawed segregation in public accommodations and banned employment discrimination based on race, religion, national origin, or sex || LBJ pushed it through a long Senate filibuster. Title VII also created the EEOC.
+- abolished poll taxes in federal elections || That was the Twenty-fourth Amendment (1964).
+- ended national-origins immigration quotas || That was the Immigration and Nationality Act of 1965.
+- desegregated the armed forces || That was Truman's EO 9981 (1948).
+- lowered the voting age to 18 || That was the Twenty-sixth Amendment (1971).
+
+Q pol e
+The Voting Rights Act of 1965 was passed shortly after
++ violent attacks on civil rights marchers in Selma, Alabama || "Bloody Sunday" in March 1965 led LBJ to ask Congress for the act, which suspended literacy tests and sent federal examiners.
+- the Montgomery Bus Boycott || The boycott was in 1955–56.
+- the Little Rock school crisis || Little Rock was in 1957.
+- the assassination of Martin Luther King Jr. || King was killed in 1968. The Fair Housing Act followed.
+- the Brown v. Board decision || Brown came in 1954.
+
+Q pol e
+The Gulf of Tonkin Resolution (1964) was significant because it
++ gave President Johnson broad authority to use military force in Vietnam without a formal declaration of war || Congress passed it nearly unanimously after reported attacks on U.S. destroyers. Johnson later relied on it to escalate the war.
+- ended American involvement in Vietnam || U.S. involvement grew dramatically afterward.
+- required the president to obtain congressional approval within 60 days || That was the War Powers Resolution (1973).
+- created the draft lottery || The lottery began in 1969.
+- authorized the invasion of Cuba || The Bay of Pigs (1961) had no such resolution.
+
+Q pol e
+Which amendment, ratified in 1971, lowered the voting age to 18?
++ The Twenty-sixth Amendment || Supporters argued that those old enough to be drafted for Vietnam were old enough to vote.
+- The Twenty-second Amendment || The Twenty-second limits presidential terms.
+- The Twenty-fourth Amendment || The Twenty-fourth bans poll taxes in federal elections.
+- The Twenty-fifth Amendment || The Twenty-fifth concerns presidential succession and disability.
+- The Nineteenth Amendment || The Nineteenth gave women the vote.
+
+Q pol m
+Which of the following was a program of Lyndon Johnson's Great Society?
++ Medicare, providing health insurance for Americans aged 65 and older || Medicare and Medicaid (1965) were among the Great Society's most lasting achievements.
+- The Civilian Conservation Corps || The CCC was a 1930s New Deal program.
+- The Tennessee Valley Authority || The TVA was created in 1933.
+- The Interstate Highway System || The Interstate Highway Act was signed by Eisenhower in 1956.
+- The Peace Corps || The Peace Corps was a Kennedy program (1961).
+
+Q pol m
+The Immigration and Nationality Act of 1965 changed American immigration by
++ abolishing national-origins quotas, which led to large increases in immigration from Asia and Latin America || Ending the 1924 system transformed the nation's ethnic makeup over the following decades.
+- establishing national-origins quotas favoring northern Europe || That was the Immigration Act of 1924.
+- banning all immigration from Asia || The 1965 act ended Asian exclusion policies.
+- creating the Bracero Program || The Bracero Program began in 1942 and ended in 1964.
+- closing Ellis Island || Ellis Island closed in 1954.
+
+Q pol m
+In Miranda v. Arizona (1966), the Supreme Court ruled that
++ police must inform suspects of their rights to remain silent and to have an attorney before questioning || The "Miranda warning" became standard police procedure.
+- illegally obtained evidence cannot be used in state courts || That was Mapp v. Ohio (1961).
+- states must provide lawyers for poor defendants at trial || That was Gideon v. Wainwright (1963).
+- official school prayer is unconstitutional || That was Engel v. Vitale (1962).
+- legislative districts must be roughly equal in population || That was Reynolds v. Sims (1964).
+
+Q pol m
+The War Powers Resolution of 1973 was passed in response to
++ the Vietnam War and presidents' commitment of troops without a declaration of war || It requires notifying Congress within 48 hours and withdrawing troops within 60 days unless Congress approves.
+- the Cuban Missile Crisis || The resolution came a decade later, after Vietnam.
+- the Watergate break-in || Watergate led to other reforms, but war powers was a Vietnam issue.
+- the Korean War armistice || It came twenty years after Korea.
+- the Iranian hostage crisis || The hostage crisis began in 1979.
+
+Q pol m
+Eisenhower sent federal troops to Little Rock, Arkansas, in 1957 in order to
++ enforce a federal court order integrating Central High School after the governor defied it || Eisenhower acted to uphold federal authority when Gov. Orval Faubus blocked nine Black students.
+- stop the Montgomery Bus Boycott || The boycott was in Alabama and ended through a court decision.
+- protect the Freedom Riders || Federal marshals protected the Freedom Riders in 1961, under Kennedy.
+- arrest Martin Luther King Jr. || King was not the issue at Little Rock.
+- enforce the Voting Rights Act || The Voting Rights Act was passed in 1965.
+
+Q pol m
+The Twenty-fourth Amendment (1964) prohibited
++ poll taxes in federal elections || Poll taxes had been used to disfranchise poor Black and white voters in the South.
+- literacy tests in all elections || Literacy tests were suspended by the Voting Rights Act (1965) and banned nationwide in 1970.
+- segregation in public schools || That was Brown v. Board.
+- denying the vote on account of sex || That was the Nineteenth Amendment.
+- presidents from serving more than two terms || That was the Twenty-second Amendment.
+
+Q pol h
+The 1968 presidential election is significant because
++ Richard Nixon won with appeals to "law and order" and the "silent majority," while George Wallace's third-party run showed white southern defection from the Democrats || The election reflected backlash against riots, protests, and civil rights changes.
+- Lyndon Johnson won a second full term in a landslide || Johnson withdrew from the race in March 1968.
+- Robert Kennedy won the Democratic nomination and the presidency || RFK was assassinated in June 1968. Hubert Humphrey was the nominee.
+- Barry Goldwater was elected president || Goldwater lost in 1964.
+- it was the first election in which 18-year-olds could vote || The Twenty-sixth Amendment came in 1971.
+
+Q pol h
+Which of the following Warren Court decisions concerned the principle of "one person, one vote"?
++ Reynolds v. Sims (1964) || Reynolds required state legislative districts to be roughly equal in population, following Baker v. Carr (1962).
+- Gideon v. Wainwright (1963) || Gideon concerned the right to counsel.
+- Mapp v. Ohio (1961) || Mapp created the exclusionary rule for illegal evidence.
+- Loving v. Virginia (1967) || Loving struck down bans on interracial marriage.
+- Tinker v. Des Moines (1969) || Tinker protected students' symbolic speech.
+
+Q pol m
+The Twenty-fourth Amendment, the Voting Rights Act of 1965, and the Mississippi Freedom Summer all aimed primarily at
++ securing voting rights for African Americans in the South || Each attacked a different barrier: poll taxes, literacy tests and hostile registrars, and low registration.
+- desegregating public schools || School desegregation was pursued through Brown and later cases.
+- ending the Vietnam War || These were civil rights efforts.
+- banning job discrimination against women || Sex discrimination in jobs was addressed by Title VII of the 1964 Civil Rights Act.
+- abolishing the Electoral College || None of these concerned the Electoral College.
+
+Q pol h
+> "Our nation is moving toward two societies, one black, one white—separate and unequal."
+This 1968 conclusion appeared in
++ the report of the Kerner Commission on urban riots || Johnson's commission blamed white racism and urged massive investment in jobs and housing.
+- Martin Luther King Jr.'s "I Have a Dream" speech || King's 1963 speech was a hopeful vision of integration.
+- the Supreme Court's decision in Brown v. Board || Brown (1954) said segregated schools were "inherently unequal," not this phrase.
+- the Port Huron Statement || That was SDS's 1962 manifesto on participatory democracy.
+- Malcolm X's autobiography || The quotation is from a government commission.
+
+Q pol m
+Lyndon Johnson's War on Poverty included which of the following?
++ Head Start, the Job Corps, and community action programs || The Economic Opportunity Act of 1964 created these and other antipoverty programs.
+- The Works Progress Administration || The WPA was a 1930s New Deal program.
+- The GI Bill || The GI Bill was enacted in 1944.
+- The Social Security Act || Social Security dates from 1935.
+- The Interstate Highway Act || That was Eisenhower's 1956 program.
+
+Q soc e
+The Montgomery Bus Boycott of 1955–1956 began after
++ Rosa Parks was arrested for refusing to give up her bus seat to a white passenger || The 381-day boycott brought Martin Luther King Jr. to national leadership.
+- four students sat at a Woolworth's lunch counter || That was the Greensboro sit-in (1960).
+- James Meredith enrolled at the University of Mississippi || That was 1962.
+- the Brown v. Board decision required bus integration || Brown concerned schools. Bus segregation fell in Browder v. Gayle (1956).
+- the Freedom Riders were attacked || The Freedom Rides were in 1961.
+
+Q soc e
+The Greensboro sit-ins of 1960 led to the formation of
++ the Student Nonviolent Coordinating Committee (SNCC) || Ella Baker helped students turn the sit-in wave into a new organization.
+- the NAACP || The NAACP was founded in 1909.
+- the Black Panther Party || The Panthers formed in 1966 in Oakland.
+- the National Organization for Women || NOW was founded in 1966.
+- the Nation of Islam || The Nation of Islam dates to 1930.
+
+Q soc e
+Martin Luther King Jr. delivered his "I Have a Dream" speech at
++ the March on Washington in August 1963 || About 250,000 people gathered at the Lincoln Memorial to demand jobs and freedom.
+- the Selma-to-Montgomery march || Selma was in 1965. King spoke at its end, but not the "Dream" speech.
+- the Montgomery Bus Boycott || The boycott was in 1955–56.
+- the Democratic National Convention in 1968 || King was assassinated in April 1968.
+- his trial in Birmingham || In Birmingham he wrote the "Letter from Birmingham Jail."
+
+Q soc e
+Betty Friedan's *The Feminine Mystique* (1963) is credited with helping to launch
++ the second wave of the women's movement || Friedan described the frustration of educated suburban housewives and co-founded NOW in 1966.
+- the temperance movement || Temperance was a nineteenth-century movement.
+- the campaign for the Nineteenth Amendment || Woman suffrage was won in 1920.
+- the Beat Generation || The Beats were a 1950s literary movement.
+- the environmental movement || That is usually traced to Rachel Carson's *Silent Spring*.
+
+Q soc e
+César Chávez and Dolores Huerta are best known for
++ organizing migrant farmworkers into the United Farm Workers and leading a national grape boycott || Their nonviolent campaign won union contracts in California's vineyards.
+- founding the American Indian Movement || AIM was founded by Native activists in 1968.
+- leading the Montgomery Bus Boycott || That was led by King and local activists.
+- writing *The Feminine Mystique* || Betty Friedan wrote it.
+- winning the Brown v. Board case || Thurgood Marshall argued Brown.
+
+Q soc m
+Malcolm X differed from Martin Luther King Jr. in that Malcolm X
++ rejected nonviolence as the sole tactic and emphasized Black nationalism and self-defense || As a Nation of Islam minister he criticized integrationist goals. His views evolved before his 1965 assassination.
+- opposed any form of Black political organization || Malcolm X promoted Black political and economic organization.
+- led the Montgomery Bus Boycott || King led the boycott.
+- supported the Vietnam War || Malcolm X was a sharp critic of U.S. policy.
+- worked primarily through federal court cases || That was the NAACP's legal strategy.
+
+Q soc m
+The "Black Power" movement of the late 1960s emphasized
++ racial pride, self-reliance, and Black control of Black communities' institutions || Stokely Carmichael popularized the slogan in 1966. It marked a shift away from interracial, nonviolent integration.
+- complete integration into white institutions through nonviolence || That describes the earlier King-led approach.
+- emigration to Africa || That was Garvey's 1920s program.
+- support for the Vietnam War || Black Power leaders largely opposed the war.
+- cooperation with segregationist governors || Black Power opposed segregation.
+
+Q soc m
+The Freedom Rides of 1961 were organized to
++ test whether southern states would obey Supreme Court rulings banning segregation in interstate bus travel and terminals || CORE's integrated riders faced violent mobs, which forced the Kennedy administration to intervene.
+- register Black voters in Mississippi || That was Freedom Summer (1964).
+- integrate the University of Mississippi || That was James Meredith (1962).
+- protest the Vietnam War || The Freedom Rides were a civil rights campaign.
+- support the Montgomery Bus Boycott || The boycott ended in 1956.
+
+Q soc m
+Title IX of the Education Amendments of 1972
++ prohibited sex discrimination in educational programs receiving federal funds || It dramatically expanded opportunities for women in college admissions and athletics.
+- guaranteed women the right to vote || That was the Nineteenth Amendment (1920).
+- legalized abortion nationwide || That was Roe v. Wade (1973).
+- required equal pay for equal work || That was the Equal Pay Act (1963).
+- added the Equal Rights Amendment to the Constitution || The ERA was never ratified.
+
+Q soc m
+The Stonewall riots of 1969 are significant because they
++ marked the start of the modern gay liberation movement || The resistance to a police raid on a New York bar inspired activism and the first Pride marches.
+- ended the Vietnam War || Stonewall was unrelated to the war's end.
+- led to the founding of the NAACP || The NAACP was founded in 1909.
+- were the first major environmental protest || Environmental activism is separate.
+- forced passage of the Voting Rights Act || That passed in 1965.
+
+Q soc m
+The American Indian Movement (AIM) drew national attention in the late 1960s and early 1970s through
++ occupations such as those at Alcatraz Island and Wounded Knee, South Dakota || These protests highlighted broken treaties and pushed policy toward tribal self-determination.
+- a successful campaign to restore the Dawes Act || Activists opposed allotment-era policies.
+- support for the termination policy || AIM fought termination.
+- leading the grape boycott || That was the United Farm Workers.
+- organizing the March on Washington || That was a civil rights coalition in 1963.
+
+Q soc m
+Which of the following events occurred FIRST?
++ The Montgomery Bus Boycott || The boycott began in December 1955, before Little Rock (1957), the Greensboro sit-ins (1960), the March on Washington (1963), and Selma (1965).
+- The Greensboro sit-ins || That was 1960.
+- The March on Washington || That was 1963.
+- The Selma-to-Montgomery march || That was 1965.
+- The integration of Little Rock Central High School || That was 1957.
+
+Q soc h
+The urban riots in Watts (1965) and Detroit (1967) differed from earlier civil rights protests in the South in that they
++ erupted in northern and western cities over issues such as police abuse, poverty, and housing discrimination || These were not caused by legal segregation, which showed that civil rights laws had not solved economic and urban inequality.
+- were carefully planned nonviolent demonstrations led by SCLC || They were spontaneous uprisings, not organized nonviolent protests.
+- focused on desegregating lunch counters || Lunch-counter sit-ins were a southern tactic of 1960.
+- were led by the Ku Klux Klan || They were uprisings in Black neighborhoods.
+- occurred before the Civil Rights Act of 1964 || Both occurred after the 1964 act.
+
+Q soc h
+Opposition to the Equal Rights Amendment in the 1970s, led by Phyllis Schlafly, argued that the amendment would
++ undermine traditional family roles and eliminate legal protections for women, such as exemption from the draft || Schlafly's STOP ERA campaign helped block ratification by the 1982 deadline.
+- give women the right to vote || Women had voted since 1920.
+- guarantee equal pay for men and women || Equal pay was already law (1963). Opponents did not frame the debate this way.
+- end segregation in the military || The ERA concerned sex, not race.
+- legalize abortion || Abortion was addressed by Roe v. Wade. Critics did link the issues, but the core argument concerned family roles and protections.
+
+Q soc m
+The Fair Housing Act, passed in 1968, was enacted shortly after
++ the assassination of Martin Luther King Jr. || Congress passed the act, which banned discrimination in the sale and rental of housing, in April 1968.
+- the Montgomery Bus Boycott || The boycott was in 1955–56.
+- the Brown v. Board decision || Brown came in 1954.
+- the March on Washington || That was 1963.
+- the fall of Saigon || Saigon fell in 1975.
+
+Q soc h
+The Mississippi Freedom Democratic Party, with leaders such as Fannie Lou Hamer, challenged
++ the seating of Mississippi's all-white delegation at the 1964 Democratic National Convention || Hamer's televised testimony exposed violence against Black voters. The party was offered only a token compromise.
+- the Supreme Court's decision in Brown || The MFDP supported desegregation.
+- the Gulf of Tonkin Resolution || The MFDP challenge was about representation, not Vietnam.
+- the Montgomery bus system || The MFDP was a political party challenge in 1964.
+- Barry Goldwater's nomination || Goldwater was the Republican nominee. The MFDP challenged the Democrats.
+
+Q soc e
+The Kent State shootings of 1970 occurred during protests against
++ the U.S. invasion of Cambodia during the Vietnam War || National Guardsmen killed four students, and campuses across the nation shut down in protest.
+- the assassination of Martin Luther King Jr. || That was 1968.
+- the Watergate scandal || Watergate broke in 1972.
+- the Civil Rights Act of 1964 || Kent State students were protesting the war.
+- the end of the military draft || The draft ended in 1973, and protesters favored ending it.
+
+Q dip e
+The Cuban Missile Crisis of 1962 ended when
++ the Soviet Union agreed to remove its missiles from Cuba in exchange for a U.S. pledge not to invade Cuba || A secret part of the deal also removed U.S. missiles from Turkey. It was the closest the superpowers came to nuclear war.
+- the United States invaded Cuba and overthrew Castro || There was no invasion. The 1961 Bay of Pigs attempt had failed.
+- the United Nations took control of Cuba || The crisis was resolved by U.S.–Soviet negotiation.
+- the Soviets launched Sputnik || Sputnik was in 1957.
+- Kennedy agreed to withdraw U.S. troops from West Berlin || Berlin was not traded away.
+
+Q dip m
+The Tet Offensive of 1968 was a turning point in the Vietnam War because
++ although a military defeat for the communists, it convinced many Americans that the war could not be won soon || Tet shattered official optimism, widened the credibility gap, and led LBJ to withdraw from the 1968 race.
+- it was a decisive North Vietnamese military victory that captured Saigon || Saigon did not fall until 1975.
+- it led Congress to pass the Gulf of Tonkin Resolution || That resolution came in 1964.
+- it ended American bombing of North Vietnam permanently || Bombing resumed under Nixon.
+- it caused the immediate withdrawal of all U.S. troops || Withdrawal took five more years.
+
+Q dip m
+President Nixon's policy of "Vietnamization" called for
++ gradually withdrawing American troops while training and equipping South Vietnamese forces to take over the fighting || Troop levels fell from over 500,000 to near zero by 1973, though bombing continued.
+- sending more American ground troops to win a decisive victory || Nixon reduced U.S. ground forces.
+- immediately recognizing North Vietnam || Recognition came much later (1995).
+- turning the war over to the United Nations || The UN did not take over.
+- ending the war by invading North Vietnam || Nixon did not invade North Vietnam.
+
+Q dip h
+The Pentagon Papers, published in 1971, revealed that
++ successive administrations had misled the public about the conduct and prospects of the Vietnam War || Daniel Ellsberg leaked the secret history. The Supreme Court rejected the government's attempt to stop publication.
+- the Soviet Union had placed missiles in Cuba || That was discovered in 1962 by aerial photos.
+- Nixon had ordered the Watergate break-in || Watergate was a separate scandal (1972–74).
+- the U.S. had won the Tet Offensive militarily || The papers concerned decision-making from 1945 to 1967.
+- North Vietnam had agreed to peace in 1965 || No such agreement existed.
+
+Q dip m
+John F. Kennedy's "flexible response" defense strategy differed from Eisenhower's in that it
++ expanded conventional and counterinsurgency forces so the U.S. had options other than nuclear war || Kennedy built up special forces such as the Green Berets.
+- relied almost entirely on the threat of massive nuclear retaliation || That was Eisenhower's New Look.
+- withdrew U.S. forces from Europe || Kennedy reinforced commitments in Europe.
+- abandoned the policy of containment || Flexible response was a tool of containment.
+- eliminated the CIA || The CIA remained.
+
+Q cul e
+Rachel Carson's *Silent Spring* (1962) helped launch the modern environmental movement by
++ exposing the dangers of pesticides such as DDT to wildlife and human health || Her book led to the DDT ban and to broader environmental laws.
+- describing the Dust Bowl migration || That is *The Grapes of Wrath*.
+- criticizing suburban conformity || That was *The Lonely Crowd* or *The Organization Man*.
+- exposing unsafe automobiles || That was Ralph Nader's *Unsafe at Any Speed*.
+- calling for the conservation of national forests || TR and Pinchot pursued conservation decades earlier.
+
+Q cul e
+Martin Luther King Jr.'s "Letter from Birmingham Jail" (1963) defended
++ nonviolent civil disobedience against unjust laws and rejected calls to wait patiently for change || King replied to white clergy who called the protests "unwise and untimely."
+- the use of armed self-defense against police || That was closer to Malcolm X or the Panthers.
+- the Southern Manifesto || The Southern Manifesto opposed desegregation.
+- Booker T. Washington's accommodationism || King rejected waiting for gradual change.
+- the Vietnam War || King later opposed the war (1967).
+
+Q cul m
+The Port Huron Statement (1962), issued by Students for a Democratic Society, called for
++ "participatory democracy" and criticized Cold War militarism, racism, and corporate power || It became a founding document of the New Left.
+- a return to traditional family values || That fits the later New Right, not SDS.
+- an expanded war in Vietnam || SDS became a leading antiwar group.
+- abolition of all universities || SDS sought to reform universities and society.
+- support for McCarthyism || SDS rejected Cold War anti-communism.
+
+Q cul m
+Michael Harrington's *The Other America* (1962) influenced the Great Society by
++ revealing the extent of poverty hidden amid postwar prosperity || The book helped persuade Kennedy and Johnson to launch the War on Poverty.
+- arguing that poverty had been eliminated in the U.S. || Harrington showed the opposite.
+- describing suburban conformity || That was Riesman and Whyte.
+- exposing pesticide dangers || That was Rachel Carson.
+- promoting the counterculture lifestyle || The book was a social analysis of poverty.
+
+Q cul m
+The counterculture of the late 1960s was characterized by
++ rejection of middle-class values through communal living, rock music, experimentation with drugs, and new styles of dress || Events like Woodstock (1969) and the Summer of Love (1967) symbolized it.
+- strong support for the Vietnam War || The counterculture was largely antiwar.
+- a revival of 1950s suburban conformity || It rejected 1950s conformity.
+- the founding of the Moral Majority || That was a conservative religious group (1979).
+- the temperance movement || Temperance belongs to an earlier era.
+
+Q cul m
+The Free Speech Movement at the University of California, Berkeley, in 1964 began as a protest over
++ university restrictions on political activity and advocacy on campus || Students demanding the right to organize for civil rights causes launched a wave of campus activism.
+- the Kent State shootings || Kent State occurred in 1970.
+- the Scopes Trial || The Scopes Trial was in 1925.
+- the Pentagon Papers || The Pentagon Papers were published in 1971.
+- Prohibition || Prohibition ended in 1933.
+
+Q cul m
+The Supreme Court's decision in Engel v. Vitale (1962) angered many religious conservatives because it
++ ruled that official prayer in public schools violated the First Amendment's Establishment Clause || The ruling became a rallying point for later religious conservative movements.
+- allowed states to ban the teaching of evolution || The Court struck down such a ban in 1968.
+- required the Pledge of Allegiance in schools || Engel concerned prayer, not the Pledge.
+- legalized abortion || That was Roe v. Wade (1973).
+- upheld segregation in religious schools || Engel did not concern segregation.
+
+Q cul h
+Folk musician Bob Dylan's songs, such as "The Times They Are a-Changin'," are associated with
++ the protest and youth culture of the 1960s civil rights and antiwar era || Dylan's songs voiced generational change and social protest.
+- the Harlem Renaissance of the 1920s || Dylan emerged in the early 1960s.
+- the Federal Music Project of the New Deal || Dylan was not part of the WPA.
+- World War II propaganda || Dylan's work came after the war.
+- the swing era of the 1930s || Swing preceded Dylan by decades.
+
+Q cul h
+Ralph Nader's *Unsafe at Any Speed* (1965) is significant because it
++ sparked the consumer protection movement and led to federal auto safety regulation || Nader's attack on the auto industry helped produce the National Traffic and Motor Vehicle Safety Act (1966).
+- launched the environmental movement || That is credited to Carson's *Silent Spring*.
+- exposed the Watergate cover-up || Woodward and Bernstein's reporting exposed Watergate.
+- argued for deregulation of the auto industry || Nader argued for more regulation.
+- celebrated 1950s car culture || The book criticized automakers.
+
+Q cul m
+The Warren Court's decisions in Mapp, Gideon, and Miranda all expanded
++ the rights of people accused of crimes || These rulings applied Bill of Rights protections to state criminal proceedings.
+- the power of the president in foreign affairs || They concerned criminal procedure.
+- the rights of states to segregate schools || The Warren Court ended school segregation.
+- restrictions on free speech in wartime || They concerned criminal justice, not speech.
+- the government's power to regulate business || They concerned individual rights.
+
+Q eco m
+Medicare and Medicaid, created in 1965, provided
++ health insurance for the elderly (Medicare) and health coverage for low-income Americans (Medicaid) || These programs vastly expanded federal health spending and remain central today.
+- pensions for retired workers || Pensions came under Social Security (1935).
+- unemployment insurance for laid-off workers || Unemployment insurance came with the Social Security Act.
+- health insurance for all Americans || Universal coverage was not enacted.
+- subsidies for farmers || Farm programs are separate.
+
+Q eco h
+Critics have argued that the Vietnam War undermined Johnson's Great Society chiefly because
++ war spending drained resources and political support from domestic programs and fueled inflation || LBJ tried to fund "guns and butter," which contributed to inflation and budget strains by the late 1960s.
+- the Great Society was repealed by Congress in 1966 || Most programs survived, and many still exist.
+- the war caused a deep depression in 1967 || The economy grew in the late 1960s, with rising inflation.
+- Medicare was declared unconstitutional || Medicare was never struck down.
+- the war forced the U.S. to return to the gold standard || The U.S. moved away from gold, ending convertibility in 1971.
