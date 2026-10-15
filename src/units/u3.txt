@@ -1,0 +1,497 @@
+@title: Populism, Empire, and the Progressive Era
+@years: 1890–1914
+@period: early
+@weight: 10
+
+@lesson
+## The big picture
+Three linked stories run from about 1890 to 1914. **Farmers** revolted against railroads, banks, and tight money, which created the **Populist Party**. The U.S. then **went overseas**, taking an empire in the Caribbean and Pacific. And middle-class **Progressives** tried to fix the problems of industrial society through government, from city hall to the Constitution. Many Populist demands became Progressive laws.
+
+## 1. The farmers' revolt and the Populists
+After the Civil War, farmers faced **falling crop prices**, **high railroad rates**, and heavy **debt**. Prices kept falling because the money supply did not keep up with economic growth. That is **deflation**, and it made debts harder to repay. Farmers organized in stages:
+- the **Grange** (1867), which won state railroad laws (see Unit 2)
+- the **Farmers' Alliances** (1880s), including a separate **Colored Farmers' Alliance**, which created cooperatives
+- the **People's (Populist) Party** in 1892
+
+The Populists' **Omaha Platform** (1892) demanded:
+- **free and unlimited coinage of silver** at 16 to 1, to inflate the currency
+- a **graduated income tax**
+- **government ownership of railroads and telegraphs**
+- **direct election of U.S. senators**
+- the secret ballot and an eight-hour day for government workers
+
+Their candidate, James B. Weaver, won over a million votes. Speakers like **Mary Elizabeth Lease** ("raise less corn and more hell") energized the movement.
+
+The **Panic of 1893** brought the worst depression yet. Unemployment soared, and **Coxey's Army** of jobless men marched on Washington (1894). The money question took over politics. **"Silverites"** wanted silver coinage to raise prices. **"Goldbugs"** (bankers, the Northeast) wanted the **gold standard**.
+
+### The election of 1896
+At the Democratic convention, **William Jennings Bryan** electrified delegates with his **"Cross of Gold"** speech: "You shall not crucify mankind upon a cross of gold." Democrats and Populists both nominated Bryan, a **fusion** that effectively ended the Populist Party as an independent force. Republican **William McKinley**, backed by **Mark Hanna's** massive corporate-funded campaign, won with the support of the industrial Northeast and Midwest and urban workers. The 1896 election was a **realigning election**: Republicans dominated national politics until 1932. The **Gold Standard Act** (1900) settled the money issue.
+
+!cec Deflation, debt, and railroad rates | Farmers' Alliances → Populist Party; Bryan's 1896 campaign | Populists defeated, but many of their ideas (income tax, direct election of senators) are adopted by Progressives
+
+## 2. The new empire
+Why did a nation born in anti-colonial revolution take colonies? The motives fall into four groups:
+- **Markets:** business wanted outlets for surplus goods.
+- **Sea power:** Captain **Alfred Thayer Mahan** (*The Influence of Sea Power upon History*, 1890) argued that great nations need a modern navy, coaling stations, and colonies.
+- **Racial and religious mission:** Social Darwinism and Anglo-Saxon superiority (Josiah Strong) blended with missionary zeal.
+- **The closed frontier:** with the frontier gone, some looked outward.
+
+**Hawaii:** American sugar planters led the overthrow of **Queen Liliuokalani** in 1893. President Cleveland refused to annex the islands, but they were annexed in **1898** under McKinley.
+
+### The Spanish-American War (1898)
+Cubans revolted against Spain in 1895. Spanish General Weyler's brutal **"reconcentration" camps** were sensationalized by the **yellow press** of **William Randolph Hearst** and **Joseph Pulitzer**. In February 1898 the **de Lôme letter** insulted McKinley, and then the battleship **USS Maine** exploded in Havana harbor. "Remember the Maine!" became the rallying cry. Congress declared war, but the **Teller Amendment** promised the U.S. would **not annex Cuba**.
+
+The war lasted about four months. **Commodore Dewey** destroyed the Spanish fleet at **Manila Bay** in the Philippines. **Theodore Roosevelt's Rough Riders** charged up San Juan (Kettle) Hill in Cuba. Secretary of State John Hay called it a **"splendid little war."** In the **Treaty of Paris** (1898), Spain gave the U.S. **Puerto Rico, Guam, and the Philippines** (for $20 million), and Cuba became nominally independent.
+
+The **Anti-Imperialist League**, whose members included Mark Twain, Andrew Carnegie, and Jane Addams, argued that colonies violated the principle of government by consent. Filipinos led by **Emilio Aguinaldo** had expected independence. The brutal **Philippine-American War** (1899–1902) cost thousands of American lives and far more Filipino lives.
+
+Afterward the U.S. built controls over its new sphere:
+- The **Platt Amendment** (1901) made Cuba a **protectorate**: the U.S. could intervene and got a naval base at **Guantánamo Bay**.
+- In the **Insular Cases** (1901), the Supreme Court ruled that the Constitution does not automatically apply in full to the territories ("the Constitution does not follow the flag").
+- The **Open Door Notes** (1899–1900) from **John Hay** asked the powers to keep **China** open to equal trade and to respect China's territorial integrity. The U.S. sent troops to help crush the anti-foreign **Boxer Rebellion** (1900).
+
+### Roosevelt, Taft, and Wilson abroad
+**Theodore Roosevelt**: "Speak softly and carry a **big stick**."
+- **Panama Canal:** When Colombia balked at a treaty, the U.S. backed a **Panamanian revolution** (1903) and got the Canal Zone. The canal opened in **1914**.
+- **Roosevelt Corollary** (1904) to the Monroe Doctrine: the U.S. would act as an **"international police power"** in Latin America to keep European creditors out, starting in the Dominican Republic.
+- He mediated the end of the **Russo-Japanese War** (Treaty of Portsmouth, 1905) and won the **Nobel Peace Prize**.
+- The **Gentlemen's Agreement** (1907): Japan limited emigration of laborers, and San Francisco reversed its segregation of Japanese schoolchildren.
+- The **Great White Fleet** (1907–09) showed off U.S. naval power around the world.
+
+**William Howard Taft**: **"Dollar Diplomacy"**, which meant using investment rather than force to gain influence, though Marines still landed in Nicaragua.
+
+**Woodrow Wilson**: **"moral diplomacy"**, which in practice still meant intervention in Mexico, Haiti, and the Dominican Republic.
+
+!cec Search for markets, Mahan's sea power ideas, yellow journalism, the Maine | Spanish-American War (1898) | U.S. becomes a colonial power (Philippines, Puerto Rico, Guam); protectorate over Cuba; debate over imperialism
+
+## 3. The Progressive Era (about 1900–1917)
+Progressives were mostly **urban, middle-class, educated** reformers. They believed experts and an active government could fix the abuses of industrial capitalism, political corruption, and social disorder.
+
+### The muckrakers
+Roosevelt called investigative journalists **"muckrakers."** Their work built public pressure for reform:
+- **Lincoln Steffens**, *The Shame of the Cities*: urban political corruption.
+- **Ida Tarbell**, *The History of the Standard Oil Company*: Rockefeller's tactics.
+- **Upton Sinclair**, *The Jungle* (1906): he aimed at workers' conditions in Chicago meatpacking, but the public reacted to the filthy meat. "I aimed at the public's heart, and by accident I hit it in the stomach." The result was the **Meat Inspection Act** and the **Pure Food and Drug Act** (1906).
+- Photographer **Lewis Hine** documented child labor.
+
+### Making government more democratic
+- The **secret (Australian) ballot**.
+- The **direct primary**, letting voters rather than bosses pick nominees.
+- The **initiative** (citizens propose laws), the **referendum** (citizens vote on laws), and the **recall** (remove officials).
+- The **Seventeenth Amendment** (1913): **direct election of senators**.
+- Wisconsin governor **Robert La Follette's "Wisconsin Idea"** used university experts in government.
+- City commission and city-manager plans, first tried in Galveston, Texas, after the 1900 hurricane.
+
+### Social justice
+- The **Triangle Shirtwaist Factory fire** (1911) killed **146** garment workers, mostly young immigrant women, behind locked doors. It led to new New York safety laws.
+- In **Lochner v. New York** (1905) the Supreme Court struck down a limit on bakers' hours as a violation of "liberty of contract." But in **Muller v. Oregon** (1908), it upheld maximum hours for **women**, persuaded by Louis **Brandeis's** brief full of social data.
+- Reformers like **Florence Kelley** fought child labor and won state laws.
+- The **Anti-Saloon League** pushed **prohibition**, which became the Eighteenth Amendment (1919).
+- Suffragists (NAWSA under **Carrie Chapman Catt**, and the more militant **Alice Paul**) pressed toward the Nineteenth Amendment (1920; see Unit 4).
+
+**Race was Progressivism's blind spot.** Disfranchisement and segregation spread in the South, often defended as "reform." Wilson **segregated the federal civil service**. In response, **W.E.B. Du Bois** and others formed the **Niagara Movement** (1905) and then the interracial **NAACP** (1909), which fought through courts and publicity.
+
+On the left, the **Industrial Workers of the World** (IWW or "Wobblies," 1905; Big Bill Haywood) sought one big union of all workers. **Eugene Debs's Socialist Party** won 6% of the vote in 1912.
+
+### The Progressive presidents
+**Theodore Roosevelt (1901–1909)**, the **"Square Deal"**:
+- He was the **"trust buster"** who sued the **Northern Securities** railroad holding company (upheld by the Court in 1904). He separated "good" from "bad" trusts.
+- In the **1902 anthracite coal strike** he forced arbitration. It was the first time a president intervened as a neutral party rather than for the owners.
+- The **Hepburn Act** (1906) strengthened the ICC.
+- **Conservation:** with **Gifford Pinchot** he set aside national forests, wildlife refuges, and monuments, and backed the Newlands Reclamation Act (1902). Pinchot favored wise *use* of resources (conservation). **John Muir** (Sierra Club) wanted *preservation* of untouched wilderness.
+
+**William Howard Taft (1909–1913)**:
+- He brought more antitrust suits than TR, including the 1911 breakup of **Standard Oil**.
+- He angered progressives over the high **Payne-Aldrich Tariff** and the **Ballinger-Pinchot** dispute.
+- The **Sixteenth Amendment** (income tax) passed Congress under Taft and was ratified in 1913.
+
+**Election of 1912**: Roosevelt ran as the **Progressive ("Bull Moose")** candidate on **"New Nationalism"**, meaning accept big business but regulate it with strong federal power (inspired by Herbert Croly). Wilson's **"New Freedom"** aimed to break up trusts and restore competition. The Republican split elected **Woodrow Wilson**.
+
+**Wilson's reforms (1913–1916)**:
+- the **Underwood Tariff** (lower rates plus the first modern **income tax**)
+- the **Federal Reserve Act** (1913), which created a central banking system to manage the money supply
+- the **Clayton Antitrust Act** (1914), which strengthened the Sherman Act and **exempted labor unions**. Gompers called it labor's "Magna Carta."
+- the **Federal Trade Commission** (1914)
+
+!cec Muckrakers expose abuses; Populist ideas spread | Progressive reforms at city, state, and federal levels | 16th, 17th, 18th, 19th Amendments; regulatory agencies (FTC, Federal Reserve); expanded federal role
+
+### Ideas and culture
+- **Pragmatism** (**William James**, **John Dewey**) judged ideas by their practical results. Dewey promoted **progressive education**: "learning by doing."
+- The **Ashcan School** painted gritty city scenes.
+- The **Armory Show** (1913) introduced Americans to European modern art.
+
+@mustknow
+- **Omaha Platform** (1892): free silver, graduated income tax, government ownership of railroads, direct election of senators.
+- **1896**: Bryan's **"Cross of Gold"** speech; McKinley wins (Hanna's money); Populists absorbed. A realigning election.
+- **Mahan** (sea power) and **yellow journalism** (Hearst/Pulitzer) + **USS Maine** led to the **Spanish-American War** (1898).
+- **Treaty of Paris (1898)**: U.S. gets **Puerto Rico, Guam, Philippines**. **Teller Amendment** (no annexing Cuba) vs. **Platt Amendment** (Cuba protectorate, Guantánamo).
+- **Open Door Notes** (Hay, China). **Roosevelt Corollary** (U.S. as Latin American "police power"). **Panama Canal**. **Dollar Diplomacy** (Taft).
+- Muckrakers: **Steffens** (cities), **Tarbell** (Standard Oil), **Sinclair** (*The Jungle* → Meat Inspection and Pure Food and Drug Acts, 1906).
+- **Initiative, referendum, recall, direct primary**, **17th Amendment**; La Follette's Wisconsin Idea.
+- **Muller v. Oregon** (1908) upheld hours limits for women. **Lochner** (1905) struck down bakers' hours. **Triangle fire** (1911).
+- TR's **Square Deal**, trust busting (Northern Securities), conservation (Pinchot vs. Muir). **1912**: New Nationalism (TR) vs. **New Freedom** (Wilson).
+- Wilson: **Federal Reserve** (1913), **Clayton Act** (1914, protects unions), **FTC**, **16th Amendment** income tax. NAACP founded 1909.
+
+@timeline
+1890 | Mahan's *Influence of Sea Power upon History*; Sherman Silver Purchase Act
+1892 | Populist Omaha Platform | key
+1893 | Panic of 1893; Hawaiian queen Liliuokalani overthrown
+1894 | Coxey's Army marches on Washington
+1896 | Bryan's "Cross of Gold"; McKinley elected | key
+1898 | USS Maine explodes; Spanish-American War; Treaty of Paris; Hawaii annexed | key
+1899 | Open Door Notes; Philippine-American War begins
+1900 | Boxer Rebellion; Gold Standard Act
+1901 | McKinley assassinated, TR president; Platt Amendment; Insular Cases | key
+1902 | Anthracite coal strike arbitration; Newlands Reclamation Act
+1903 | Panama revolution; canal treaty
+1904 | Roosevelt Corollary; Northern Securities decision | key
+1905 | Lochner v. New York; Niagara Movement; IWW founded; Treaty of Portsmouth
+1906 | *The Jungle*; Meat Inspection Act; Pure Food and Drug Act; Hepburn Act | key
+1907 | Gentlemen's Agreement with Japan; Great White Fleet sails
+1908 | Muller v. Oregon
+1909 | NAACP founded
+1911 | Triangle Shirtwaist fire; Standard Oil broken up
+1912 | Wilson defeats TR (Bull Moose), Taft, and Debs | key
+1913 | 16th and 17th Amendments; Federal Reserve Act; Underwood Tariff | key
+1914 | Clayton Antitrust Act; FTC; Panama Canal opens
+
+@cards
+Omaha Platform (1892) :: Populist program: free silver (16:1), graduated income tax, government ownership of railroads and telegraphs, direct election of senators, secret ballot.
+Free silver :: Unlimited coinage of silver to expand the money supply and raise crop prices. Favored by indebted farmers and opposed by bankers ("goldbugs").
+"Cross of Gold" speech (1896) :: William Jennings Bryan's call for free silver at the Democratic convention. Won him the Democratic and Populist nominations.
+Election of 1896 :: McKinley (R) beat Bryan with Mark Hanna's funding and urban-industrial votes. Began Republican dominance until 1932 and ended the Populists.
+Alfred Thayer Mahan :: Naval officer whose *Influence of Sea Power upon History* (1890) urged a big navy, coaling stations, and colonies.
+Yellow journalism :: Sensational reporting (Hearst, Pulitzer) that inflamed opinion against Spain before 1898.
+Teller Amendment (1898) :: Pledged that the U.S. would not annex Cuba after the war.
+Platt Amendment (1901) :: Made Cuba a U.S. protectorate: the U.S. could intervene, and it got Guantánamo Bay.
+Treaty of Paris (1898) :: Ended the Spanish-American War. U.S. gained Puerto Rico, Guam, and the Philippines ($20 million).
+Anti-Imperialist League :: Opponents of annexing the Philippines (Mark Twain, Andrew Carnegie, Jane Addams). Colonies violated consent of the governed.
+Philippine-American War (1899–1902) :: Filipino independence fighters under Emilio Aguinaldo resisted U.S. rule. A brutal counterinsurgency.
+Open Door Notes (1899–1900) :: John Hay asked the powers to allow equal trading rights in China and to preserve China's territorial integrity.
+Roosevelt Corollary (1904) :: Addition to the Monroe Doctrine: the U.S. would act as an "international police power" in Latin America.
+Dollar Diplomacy :: Taft's policy of using American investment to gain influence in Latin America and East Asia.
+Muckrakers :: Investigative journalists: Lincoln Steffens (city corruption), Ida Tarbell (Standard Oil), Upton Sinclair (*The Jungle*).
+*The Jungle* (1906) :: Upton Sinclair's novel about Chicago meatpacking. Led to the Meat Inspection Act and the Pure Food and Drug Act.
+Initiative, referendum, recall :: Initiative: citizens propose laws. Referendum: citizens vote on laws. Recall: citizens remove officials early.
+Seventeenth Amendment (1913) :: Direct popular election of U.S. senators (previously chosen by state legislatures).
+Muller v. Oregon (1908) :: Upheld maximum working hours for women, using Louis Brandeis's sociological brief.
+Triangle Shirtwaist fire (1911) :: 146 garment workers died behind locked doors in New York. Spurred workplace safety laws.
+Square Deal :: TR's program: control corporations, consumer protection, conservation. A fair deal for labor, business, and the public.
+Conservation vs. preservation :: Gifford Pinchot: managed "wise use" of resources. John Muir (Sierra Club): preserve wilderness untouched.
+New Nationalism vs. New Freedom (1912) :: TR: accept big business and regulate it strongly. Wilson: break up trusts and restore competition.
+Federal Reserve Act (1913) :: Created a central banking system of 12 regional banks to manage the money supply.
+Clayton Antitrust Act (1914) :: Strengthened antitrust law and exempted labor unions and farm cooperatives. Gompers called it labor's "Magna Carta."
+NAACP (1909) :: Interracial civil rights organization (Du Bois and others). Used lawsuits and publicity against discrimination.
+
+@questions
+Q pol e
+Which of the following was a demand of the Populist Party's Omaha Platform of 1892?
++ Free and unlimited coinage of silver || Populists wanted to inflate the currency to raise crop prices and ease farm debts.
+- Higher protective tariffs on manufactured goods || Populists opposed high tariffs, which raised the prices farmers paid.
+- Repeal of the Fifteenth Amendment || The Platform did not call for repeal of any amendment.
+- Return to the gold standard || Populists opposed the gold standard. Its defenders were bankers and Republicans.
+- Private ownership of the telegraph system || Populists demanded government ownership of railroads and telegraphs.
+
+Q pol e
+William Jennings Bryan's "Cross of Gold" speech of 1896 attacked
++ the gold standard, which Bryan said crushed debtors and farmers || Bryan argued that tying the currency to gold kept money scarce and prices low, hurting producers.
+- the annexation of the Philippines || Bryan did oppose imperialism, but in 1900. The 1896 speech was about money.
+- the Pullman Strike's labor leaders || The speech was not about Pullman.
+- the creation of the Federal Reserve || The Federal Reserve was created in 1913.
+- prohibition of alcohol || Bryan later backed prohibition, but the Cross of Gold speech concerned currency.
+
+Q pol m
+The presidential election of 1896 is considered a turning point because it
++ began a long period of Republican dominance and effectively ended the Populist Party as an independent force || McKinley's victory realigned politics. Fusion with the Democrats absorbed the Populists, and Republicans controlled the White House for most years until 1932.
+- brought the Populists to power in Congress || The Populists faded after 1896.
+- was decided by the House of Representatives || That happened in 1800 and 1824, not 1896.
+- established free silver as national policy || McKinley's victory led to the Gold Standard Act (1900).
+- was the first election in which women voted nationally || Women voted nationally first in 1920.
+
+Q pol m
+The Seventeenth Amendment (1913) changed the federal government by
++ requiring the direct popular election of U.S. senators || Before 1913, state legislatures chose senators, a system Progressives and Populists saw as corrupt.
+- authorizing a federal income tax || That was the Sixteenth Amendment.
+- prohibiting the manufacture and sale of alcohol || That was the Eighteenth Amendment.
+- granting women the right to vote || That was the Nineteenth Amendment.
+- limiting presidents to two terms || That was the Twenty-second Amendment (1951).
+
+Q pol m
+The initiative, referendum, and recall were Progressive reforms designed to
++ give voters more direct control over legislation and officeholders || They let citizens propose laws, vote on them directly, and remove officials, bypassing machine-controlled legislatures.
+- strengthen the power of political machines || They were aimed against machines.
+- restrict voting to property owners || Progressives sought broader (if not universal) popular control.
+- increase the president's power over Congress || These were mainly state and local reforms.
+- regulate interstate railroads || Railroad regulation came through the ICC and the Hepburn Act.
+
+Q pol m
+Theodore Roosevelt earned the nickname "trust buster" largely because his administration
++ successfully prosecuted the Northern Securities Company under the Sherman Antitrust Act || The 1904 Supreme Court decision dissolving the railroad holding company revived antitrust enforcement.
+- abolished all large corporations || Roosevelt distinguished "good" trusts from "bad" ones and regulated rather than abolished most.
+- created the Federal Reserve System || Wilson signed the Federal Reserve Act in 1913.
+- passed the Clayton Antitrust Act || Clayton came in 1914 under Wilson.
+- broke up Standard Oil in 1911 || The Standard Oil breakup came under Taft.
+
+Q pol m
+In the anthracite coal strike of 1902, President Theodore Roosevelt broke with earlier practice by
++ pressuring the mine owners to accept arbitration rather than sending troops to crush the strike || It was the first time a president intervened as a neutral broker rather than on management's side.
+- sending troops to protect strikebreakers || Earlier presidents (Hayes 1877, Cleveland 1894) used troops. TR did not.
+- nationalizing the coal mines permanently || Roosevelt threatened a takeover but did not nationalize the mines.
+- outlawing unions in the coal industry || He did not outlaw unions.
+- signing the Wagner Act || The Wagner Act came in 1935.
+
+Q pol h
+In the election of 1912, Theodore Roosevelt's "New Nationalism" differed from Woodrow Wilson's "New Freedom" in that Roosevelt
++ accepted big business as inevitable but called for strong federal regulation of it, while Wilson sought to break up trusts and restore competition || This is the core contrast. Ironically, Wilson's presidency ended up creating powerful regulatory bodies (the FTC, the Federal Reserve).
+- favored laissez-faire policies, while Wilson favored regulation || Both favored government action. Roosevelt favored more federal power.
+- opposed women's suffrage, while Wilson endorsed it in 1912 || Roosevelt's Progressive Party endorsed woman suffrage in 1912. Wilson came around only in 1918.
+- supported the gold standard, while Wilson supported free silver || The money question was settled by 1900 and was not the 1912 issue.
+- ran as the Republican nominee, while Wilson ran as a Socialist || TR ran as a Progressive ("Bull Moose"). Taft was the Republican, Wilson the Democrat, and Debs the Socialist.
+
+Q pol m
+The Federal Reserve Act of 1913 was intended to
++ create a central banking system that could manage the nation's money supply and credit || Twelve regional banks under a Federal Reserve Board could adjust currency and lend to banks, addressing recurring panics.
+- insure individual bank deposits || Deposit insurance (FDIC) came in 1933.
+- establish the gold standard || The Gold Standard Act was passed in 1900.
+- break up large corporations || Antitrust was handled by the Clayton Act and the FTC.
+- regulate the stock market || The SEC was created in 1934.
+
+Q pol m
+Samuel Gompers called the Clayton Antitrust Act of 1914 labor's "Magna Carta" because it
++ exempted labor unions from prosecution as illegal combinations under antitrust law || Unions had been hit with injunctions under the Sherman Act. Clayton declared that labor is not a commodity. (Courts later weakened this protection.)
+- established the minimum wage || The federal minimum wage came in 1938.
+- guaranteed the right to collective bargaining || That came with the Wagner Act (1935).
+- ended child labor nationwide || Federal child labor bans were struck down until 1938/1941.
+- created the Department of Labor || The Department of Labor was created in 1913 by separate legislation.
+
+Q pol h
+Which of the following was a constitutional amendment ratified during the Progressive Era?
++ The Sixteenth Amendment, authorizing a federal income tax (1913) || The Sixteenth, Seventeenth, Eighteenth, and Nineteenth Amendments (1913–1920) are all products of Progressive reform.
+- The Fifteenth Amendment, protecting voting rights regardless of race || The Fifteenth Amendment dates from Reconstruction (1870).
+- The Twenty-first Amendment, repealing Prohibition || The Twenty-first was ratified in 1933.
+- The Twenty-second Amendment, limiting presidential terms || The Twenty-second was ratified in 1951.
+- The Twenty-fourth Amendment, banning poll taxes in federal elections || The Twenty-fourth was ratified in 1964.
+
+Q pol m
+Robert La Follette's "Wisconsin Idea" is best described as
++ a program of state-level Progressive reform that used university experts to draft and administer policy || La Follette made Wisconsin a "laboratory of democracy" with direct primaries, railroad regulation, and expert commissions.
+- a plan for Wisconsin to secede from the Union || No such plan existed.
+- an agricultural cooperative for dairy farmers || The Wisconsin Idea was about government reform.
+- a Populist demand for free silver || Free silver was a separate monetary issue.
+- a scheme to build canals linking the Great Lakes || The Wisconsin Idea did not concern canals.
+
+Q pol e
+The muckraker Upton Sinclair's novel *The Jungle* (1906) led most directly to the passage of
++ the Meat Inspection Act and the Pure Food and Drug Act || Public disgust at the meatpacking descriptions pushed Congress to act in 1906.
+- the Sherman Antitrust Act || The Sherman Act came in 1890.
+- the Clayton Antitrust Act || Clayton was passed in 1914.
+- the Seventeenth Amendment || Direct election of senators was not Sinclair's subject.
+- the Social Security Act || Social Security came in 1935.
+
+Q pol h
+In Lochner v. New York (1905), the Supreme Court
++ struck down a state law limiting bakers' working hours as a violation of "liberty of contract" || Lochner represents the Court's hostility to economic regulation, an era that lasted until 1937.
+- upheld a law limiting women's working hours || That was Muller v. Oregon (1908).
+- upheld the federal income tax || The income tax came by constitutional amendment in 1913.
+- ruled that separate but equal facilities were constitutional || That was Plessy (1896).
+- broke up the Northern Securities Company || That was Northern Securities Co. v. U.S. (1904).
+
+Q soc e
+Lincoln Steffens, Ida Tarbell, and Upton Sinclair are best described as
++ muckrakers who exposed corruption and abuses in American society || Steffens (city politics), Tarbell (Standard Oil), and Sinclair (meatpacking) shaped Progressive opinion.
+- leaders of the Populist Party || They were journalists, not Populist politicians.
+- members of the Lost Generation of the 1920s || The Lost Generation came later (Hemingway, Fitzgerald).
+- leaders of the Anti-Imperialist League || Twain and Carnegie are the best-known anti-imperialists.
+- Supreme Court justices of the Progressive Era || None served on the Court.
+
+Q soc e
+The Triangle Shirtwaist Factory fire of 1911 led to
++ new state laws improving workplace safety and labor conditions in New York || The deaths of 146 workers, many trapped behind locked doors, prompted New York's factory investigating commission and a wave of safety laws.
+- the founding of the American Federation of Labor || The AFL was founded in 1886.
+- the Pullman Strike || The Pullman Strike took place in 1894.
+- the end of immigration from southern Europe || Immigration restriction came in the 1920s.
+- a Supreme Court decision banning child labor || The Court struck down federal child labor laws in 1918 (Hammer v. Dagenhart).
+
+Q soc m
+The Supreme Court's decision in Muller v. Oregon (1908) is notable because it
++ upheld a law limiting women's working hours, relying on sociological evidence presented by Louis Brandeis || The "Brandeis brief" used data on health effects. It was a Progressive success, though it rested on ideas about women's physical weakness.
+- struck down all state labor laws as unconstitutional || Muller upheld a labor law.
+- established a federal minimum wage for women || There was no federal minimum wage until 1938.
+- granted women the right to vote in Oregon || Suffrage was not the issue.
+- outlawed child labor in factories || Muller concerned women's hours.
+
+Q soc m
+The NAACP, founded in 1909, differed from Booker T. Washington's approach by
++ using lawsuits, publicity, and political pressure to demand equal rights || The NAACP (Du Bois, Ida B. Wells, white progressives) challenged discrimination directly, especially in the courts.
+- urging African Americans to accept segregation temporarily || That was Washington's Atlanta Compromise strategy.
+- promoting emigration to Africa || That was Marcus Garvey's later movement.
+- focusing exclusively on vocational education || Vocational emphasis was Washington's program.
+- refusing all white members || The NAACP was interracial from its founding.
+
+Q soc m
+Which statement best describes the Progressive Era's record on race?
++ Most white Progressives did little to challenge segregation, and Wilson's administration segregated federal offices. || Disfranchisement and Jim Crow expanded during the era, which is why Black activists organized the Niagara Movement and the NAACP.
+- Progressives passed federal laws ending segregation in the South. || No such federal laws passed until the 1960s.
+- Progressive presidents ended lynching through federal legislation. || Federal anti-lynching bills failed repeatedly.
+- The Seventeenth Amendment restored Black voting rights in the South. || The Seventeenth Amendment concerned senators' election, not race.
+- Progressives successfully abolished poll taxes. || The poll tax in federal elections was abolished in 1964.
+
+Q soc h
+The Industrial Workers of the World (IWW), founded in 1905, differed from the American Federation of Labor in that the IWW
++ sought to organize all workers, including the unskilled, into "one big union" with radical goals || The "Wobblies" (Big Bill Haywood) rejected the AFL's craft focus and aimed to replace capitalism.
+- organized only skilled craftsmen || That was the AFL's approach.
+- rejected strikes as a tactic || The IWW used strikes heavily (e.g., Lawrence, 1912).
+- was closely allied with large employers || The IWW was militantly anti-capitalist.
+- became the largest union in the country by 1920 || Wartime repression crushed the IWW. The AFL remained much larger.
+
+Q soc m
+Coxey's Army of 1894 consisted of
++ unemployed workers who marched on Washington to demand federal jobs programs during the depression of the 1890s || Jacob Coxey led the march to call for public works. Leaders were arrested for walking on the Capitol lawn.
+- Rough Riders who fought in Cuba || The Rough Riders fought in 1898.
+- federal troops sent to break the Pullman Strike || Coxey's followers were protesters, not soldiers.
+- farmers who founded the Grange || The Grange was founded in 1867.
+- veterans demanding early payment of a bonus || That was the Bonus Army of 1932.
+
+Q soc m
+Progressive-Era reformers such as Florence Kelley and the National Child Labor Committee worked primarily to
++ end child labor and improve conditions for working women and children || Reformers won many state child-labor laws, and Lewis Hine's photographs supported the campaign.
+- restrict women's right to vote || Most social-justice Progressives supported suffrage.
+- promote the spoils system in government || Progressives opposed the spoils system.
+- expand the crop-lien system || The crop-lien system was a southern farm credit problem, not their goal.
+- abolish public schools || Progressives expanded public schooling.
+
+Q soc h
+Which statement best characterizes the typical Progressive reformer?
++ An urban, middle-class, educated professional who believed experts and government could fix social problems || Progressives drew heavily from the new professional middle class: lawyers, journalists, teachers, and social workers.
+- A southern sharecropper seeking free silver || That profile fits the Populist base better.
+- A wealthy industrialist opposed to all regulation || Most industrialists resisted Progressive regulation.
+- A radical seeking to overthrow capitalism || That describes the IWW or revolutionary socialists, not mainstream Progressives.
+- A rural evangelical opposing public schools || Progressives championed public education.
+
+Q eco e
+The main economic grievance behind the farmers' protest movements of the 1880s and 1890s was
++ falling crop prices combined with high debts and high railroad rates || Deflation made debts harder to pay, while railroads and middlemen took a large share of farm income.
+- a shortage of available land in the West || Land was abundant. Prices and credit were the problem.
+- rapidly rising crop prices that hurt urban consumers || Prices were falling, not rising.
+- the federal government's heavy taxation of farmland || There was no federal land tax. Farmers wanted an income tax instead.
+- the high wages paid to farm laborers || Farm wages were not the central grievance.
+
+Q eco m
+Farmers supported "free silver" in the 1890s mainly because they believed it would
++ increase the money supply, raise crop prices, and make debts easier to repay || Inflation would help debtors. Creditors and bankers opposed it for the same reason.
+- lower the prices of their crops to boost exports || Farmers wanted higher prices.
+- strengthen the gold standard || Free silver would effectively replace strict gold backing.
+- reduce the national debt || The aim was easing private farm debt, not the national debt.
+- encourage foreign investment in railroads || Free silver was expected to discourage foreign investors, which is one reason bankers opposed it.
+
+Q eco m
+The Panic of 1893 had which of the following effects?
++ It triggered a severe depression with mass unemployment that intensified the debate over currency || Bank failures and unemployment fueled Coxey's Army, the Pullman Strike, and the 1896 silver campaign.
+- It led to the immediate creation of the Federal Reserve || The Federal Reserve came twenty years later, after the Panic of 1907.
+- It ended the Populist movement immediately || The depression actually strengthened the silver crusade through 1896.
+- It caused the Spanish-American War || The war's causes were the Cuban revolt, the Maine, and the yellow press.
+- It brought a period of rapid inflation || The 1890s were deflationary.
+
+Q eco h
+Taft's "Dollar Diplomacy" in Latin America and Asia aimed to
++ expand U.S. influence by encouraging and protecting American investment abroad || Taft hoped loans and investment would bring stability and influence, though Marines still landed in Nicaragua.
+- abandon the Monroe Doctrine || Dollar Diplomacy built on U.S. regional dominance.
+- withdraw American businesses from Latin America || The policy encouraged business involvement.
+- create a common currency for the Western Hemisphere || No such currency was proposed.
+- pay reparations to Colombia for the Panama Canal || A $25 million payment came under Wilson's treaty, ratified in 1921, not Taft's policy.
+
+Q cul e
+In the 1890s, newspaper publishers William Randolph Hearst and Joseph Pulitzer contributed to war with Spain by
++ printing sensational "yellow journalism" about Spanish atrocities in Cuba || Exaggerated stories stirred public demand for war, especially after the Maine exploded.
+- opposing any U.S. involvement in Cuba || Their papers pushed for intervention.
+- revealing the Zimmermann Telegram || The Zimmermann Telegram came in 1917, during WWI.
+- writing the Teller Amendment || Senator Henry Teller authored the amendment.
+- negotiating the Treaty of Paris || Diplomats negotiated the treaty.
+
+Q cul m
+Alfred Thayer Mahan's *The Influence of Sea Power upon History* (1890) argued that
++ national greatness depended on a powerful navy supported by overseas bases and colonies || Mahan's ideas influenced Theodore Roosevelt and the push for a modern navy, Hawaii, and an isthmian canal.
+- the United States should disband its navy to save money || Mahan argued the opposite.
+- the frontier shaped American democracy || That was Turner's thesis.
+- colonies were immoral and should be abandoned || That was the anti-imperialists' view.
+- railroads were more important than ships for national defense || Mahan emphasized sea power.
+
+Q cul m
+Opponents of annexing the Philippines, including members of the Anti-Imperialist League such as Mark Twain, argued that
++ ruling colonies without the consent of their people violated American principles of self-government || Anti-imperialists invoked the Declaration of Independence. Some also used racist arguments against incorporating nonwhite peoples.
+- the Philippines should be annexed as a state immediately || Anti-imperialists opposed annexation.
+- the United States should seize Cuba as well || The Teller Amendment had already ruled out annexing Cuba, and anti-imperialists opposed new colonies.
+- the navy needed more coaling stations in Asia || That was an imperialist argument.
+- Spain should keep the Philippines || They favored Philippine independence, not Spanish rule.
+
+Q cul m
+The philosopher John Dewey is best known for promoting
++ progressive education emphasizing learning by doing and preparation for democratic citizenship || Dewey's pragmatism shaped schools that stressed experience, problem-solving, and social participation.
+- Social Darwinism and laissez-faire economics || Dewey rejected Social Darwinism.
+- the Gospel of Wealth || That was Carnegie.
+- the frontier thesis || That was Turner.
+- the theory of conspicuous consumption || That was Veblen.
+
+Q cul h
+Pragmatism, as developed by William James and John Dewey, held that
++ ideas should be judged by their practical consequences rather than by fixed absolute truths || This flexible, experimental outlook suited Progressive reformers who wanted to test solutions to social problems.
+- society should be governed by unchanging natural laws of competition || That is closer to Social Darwinism.
+- art should depict only idealized beauty || Pragmatism is a philosophy of knowledge, not an artistic doctrine.
+- government should never intervene in the economy || Pragmatism supported experimentation, including government action.
+- religion is the only source of truth || Pragmatism tested beliefs by results, not by authority alone.
+
+Q cul e
+Theodore Roosevelt's conservation policy, carried out with Gifford Pinchot, emphasized
++ scientific management and "wise use" of natural resources, along with setting aside national forests and parks || TR added millions of acres to national forests and created monuments and wildlife refuges.
+- selling all federal lands to private developers || TR expanded public lands.
+- preserving all wilderness completely untouched by human use || That was John Muir's preservationist view. Pinchot favored managed use.
+- ending federal involvement in irrigation || The Newlands Act (1902) expanded federal irrigation projects.
+- opening Alaska to unrestricted oil drilling || That was not TR's policy.
+
+Q cul h
+The 1913 Armory Show in New York City was significant because it
++ introduced many Americans to European modernist art such as Cubism || Works by Picasso, Matisse, and Duchamp shocked viewers and helped launch modern art in America.
+- celebrated the end of the Spanish-American War || The Armory Show was an art exhibition, not a war celebration.
+- featured the first motion pictures shown in the United States || Motion pictures had been shown since the 1890s.
+- displayed new military weapons before World War I || The show displayed art, not weapons.
+- marked the beginning of the Harlem Renaissance || The Harlem Renaissance flourished in the 1920s.
+
+Q dip e
+As a result of the Spanish-American War, the United States acquired
++ Puerto Rico, Guam, and the Philippines || The Treaty of Paris (1898) transferred these from Spain. Cuba became nominally independent.
+- Alaska and the Aleutian Islands || Alaska was bought from Russia in 1867.
+- Hawaii and Samoa || Hawaii was annexed separately in 1898, and part of Samoa in 1899, but not from Spain.
+- Cuba as a state of the Union || The Teller Amendment barred annexing Cuba.
+- the Panama Canal Zone || The Canal Zone came from Panama in 1903–1904.
+
+Q dip m
+The Platt Amendment (1901) made Cuba a U.S. protectorate by
++ allowing the United States to intervene in Cuban affairs and to lease a naval base at Guantánamo Bay || Cuba had to add these terms to its constitution, limiting its sovereignty until 1934.
+- making Cuba a U.S. state || Cuba was never annexed.
+- promising never to interfere in Cuba || That pledge is closer to the Teller Amendment, which the Platt Amendment effectively undercut.
+- giving Cuba control of the Panama Canal || Cuba had no role in the canal.
+- requiring Cuba to adopt English as its official language || No such requirement existed.
+
+Q dip m
+John Hay's Open Door Notes (1899–1900) called for
++ equal trading rights for all nations in China and respect for China's territorial integrity || The U.S., with no sphere of its own, wanted access to Chinese markets without colonizing China.
+- the United States to annex Chinese territory || The U.S. did not seek territory in China.
+- an end to Japanese immigration to the U.S. || That was addressed by the Gentlemen's Agreement (1907).
+- U.S. control of the Panama Canal || The canal was a separate issue.
+- closing Chinese ports to European trade || The notes called for open, equal access.
+
+Q dip m
+The Roosevelt Corollary to the Monroe Doctrine (1904) asserted that the United States would
++ act as an "international police power" in Latin America to prevent European intervention || TR first applied it in the Dominican Republic, taking over customs collection to pay its debts.
+- withdraw all troops from Latin America || The Corollary justified more intervention.
+- allow European nations to collect debts by force in the Americas || It aimed to keep Europeans out by having the U.S. intervene itself.
+- abandon the Monroe Doctrine || It expanded the Monroe Doctrine.
+- support Latin American independence from the United States || It asserted U.S. authority.
+
+Q dip h
+The United States acquired rights to build the Panama Canal after
++ it supported a revolution in which Panama broke away from Colombia in 1903 || When Colombia rejected a treaty, Roosevelt backed Panama's revolt and quickly signed the Hay-Bunau-Varilla Treaty with the new nation.
+- it purchased the region from Spain in the Treaty of Paris || Panama was part of Colombia, not a Spanish colony in 1898.
+- Great Britain transferred the region in the Treaty of Washington || The Hay-Pauncefote Treaty (1901) gave Britain's consent to a U.S. canal but transferred no territory.
+- Mexico ceded it at the end of the Mexican-American War || Mexico never controlled Panama.
+- a vote of the Colombian Senate approved the original treaty || The Colombian Senate rejected the treaty, which is why the U.S. backed Panama's revolt.
