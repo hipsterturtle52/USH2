@@ -227,7 +227,7 @@ def main():
     # duplicate stem check
     seen = {}
     for q in questions:
-        key = re.sub(r"\W+", "", (q["st"] + q["s"]).lower())[:160]
+        key = re.sub(r"\W+", "", (q["st"] + q["s"] + "".join(sorted(q["o"]))).lower())
         if key in seen:
             errors.append(f"duplicate stem: {q['id']} ~ {seen[key]}")
         seen[key] = q["id"]
